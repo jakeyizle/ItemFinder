@@ -1,0 +1,29 @@
+<h1>Region</h1>
+<mat-form-field>
+  <mat-select [(ngModel)] = "selectedRegion" placeholder="Region" (selectionChange)="onSelect($event.value)">
+    <mat-option  *ngFor="let region of regions" [value]="region">
+      {{region.name}}
+    </mat-option>
+  </mat-select>
+</mat-form-field>
+
+<h1>Realm</h1>
+<mat-form-field>
+  <mat-select [(ngModel)] = "selectedRealm" placeholder="Realm">
+    <mat-option *ngFor="let realm of realms" [value]="realm">
+      {{realm.name}}
+    </mat-option>
+  </mat-select>
+</mat-form-field>
+
+<h1>Character name</h1>
+<form class="name-form">
+  <mat-form-field class ="name">
+    <input matInput [(ngModel)]="characterName" name="characterNameInput" placeholder="Character Name">
+  </mat-form-field>
+</form>
+
+<h1>Button</h1>
+<div class="submit button">
+  <button mat-stroked-button (click)="onClick()" [disabled]="!selectedRegion || !selectedRealm || !characterName">Submit</button>
+</div>
