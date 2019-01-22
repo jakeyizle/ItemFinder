@@ -27,3 +27,8 @@
 <div class="submit button">
   <button mat-stroked-button (click)="onClick()" [disabled]="!selectedRegion || !selectedRealm || !characterName">Submit</button>
 </div>
+
+<div *ngIf="character">
+<h1>Character Back Name</h1>
+{{character.items.back.name}}
+</div>

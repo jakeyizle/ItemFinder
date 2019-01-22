@@ -76,12 +76,12 @@ export class API
      * Initializes our api with the given credentials
      * @param clientId 
      * @param clientSecret 
-     * @param region    default europe
-     * @param locale    default eu_GB
+     * @param region    default US
+     * @param locale    default en_US
      */
     constructor(clientId: string, clientSecret: string, callbackOnConnect: IResultFunction, region?: Region, locale?: Locale) {
-        this.region = region || Region.Europe
-        this.locale = locale || Locale.British
+        this.region = region || Region.UnitedStates
+        this.locale = locale || Locale.American
         this.client_id = clientId
         this.client_secret = clientSecret
         this.callbackOnConnect = callbackOnConnect

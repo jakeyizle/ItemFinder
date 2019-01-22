@@ -37,7 +37,7 @@ export class HttpRequest
             //Perform the request
             request.get(url, {resolveWithFullResponse: true})
                 .then( res => {
-                    console.log(res)
+                    // console.log(res)
                     HttpRequest._last = {
                         data: res.body,
                         url: url,
