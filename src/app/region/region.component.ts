@@ -3,8 +3,9 @@ import {Region} from '../region';
 import {Realm} from '../realm';
 import {RegionService} from '../region.service';
 import {BlizzardService} from '../blizzard.service';
+import {ItemService} from '../item.service';
 import { filter } from 'rxjs/operators';
-import { Character } from '../character/character';
+import { Character, Item } from '../character/character';
 
 @Component({
   selector: 'app-region',
@@ -13,7 +14,7 @@ import { Character } from '../character/character';
 })
 export class RegionComponent implements OnInit {
 
-  constructor(private regionService: RegionService, private blizzardService: BlizzardService) { }
+  constructor(private regionService: RegionService, private blizzardService: BlizzardService, private itemService: ItemService) { }
 
   regions: Region[];
   realms: Realm[];
@@ -21,6 +22,7 @@ export class RegionComponent implements OnInit {
   selectedRealm: Realm;
   characterName: string;
   character: Character;
+  items: Item[];
 
   getRegions(): void {
     this.regionService.getRegions()
@@ -43,5 +45,9 @@ export class RegionComponent implements OnInit {
   {
     this.blizzardService.getCharacter(this.selectedRegion.name, this.selectedRealm.name, this.characterName)
     .subscribe(character => this.character = character);
+
+    this.itemService.getItems()
+    .subscribe(items => this.items = items);
+    console.log(this.items[0].name);
   }
 }

@@ -23,8 +23,9 @@ export interface Item {
   id: number;
   name: string;
   stats?: (StatsEntity)[] | null;
-  armor: number;
   bonusLists?: (number)[] | null;
+  sourceId?: (number) | null;
+  inventoryTypeId?: (number) | null;
 }
 export interface StatsEntity {
   stat: number;
