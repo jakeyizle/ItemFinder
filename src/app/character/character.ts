@@ -2,24 +2,24 @@ export interface Character {
   items: Items;
 }
 export interface Items {
-  head: HeadOrNeckOrShoulderOrBackOrChestOrWristOrHandsOrWaistOrLegsOrFeetOrFinger1OrFinger2OrTrinket1OrTrinket2OrMainHandOrOffHand;
-  neck: HeadOrNeckOrShoulderOrBackOrChestOrWristOrHandsOrWaistOrLegsOrFeetOrFinger1OrFinger2OrTrinket1OrTrinket2OrMainHandOrOffHand;
-  shoulder: HeadOrNeckOrShoulderOrBackOrChestOrWristOrHandsOrWaistOrLegsOrFeetOrFinger1OrFinger2OrTrinket1OrTrinket2OrMainHandOrOffHand;
-  back: HeadOrNeckOrShoulderOrBackOrChestOrWristOrHandsOrWaistOrLegsOrFeetOrFinger1OrFinger2OrTrinket1OrTrinket2OrMainHandOrOffHand;
-  chest: HeadOrNeckOrShoulderOrBackOrChestOrWristOrHandsOrWaistOrLegsOrFeetOrFinger1OrFinger2OrTrinket1OrTrinket2OrMainHandOrOffHand;
-  wrist: HeadOrNeckOrShoulderOrBackOrChestOrWristOrHandsOrWaistOrLegsOrFeetOrFinger1OrFinger2OrTrinket1OrTrinket2OrMainHandOrOffHand;
-  hands: HeadOrNeckOrShoulderOrBackOrChestOrWristOrHandsOrWaistOrLegsOrFeetOrFinger1OrFinger2OrTrinket1OrTrinket2OrMainHandOrOffHand;
-  waist: HeadOrNeckOrShoulderOrBackOrChestOrWristOrHandsOrWaistOrLegsOrFeetOrFinger1OrFinger2OrTrinket1OrTrinket2OrMainHandOrOffHand;
-  legs: HeadOrNeckOrShoulderOrBackOrChestOrWristOrHandsOrWaistOrLegsOrFeetOrFinger1OrFinger2OrTrinket1OrTrinket2OrMainHandOrOffHand;
-  feet: HeadOrNeckOrShoulderOrBackOrChestOrWristOrHandsOrWaistOrLegsOrFeetOrFinger1OrFinger2OrTrinket1OrTrinket2OrMainHandOrOffHand;
-  finger1: HeadOrNeckOrShoulderOrBackOrChestOrWristOrHandsOrWaistOrLegsOrFeetOrFinger1OrFinger2OrTrinket1OrTrinket2OrMainHandOrOffHand;
-  finger2: HeadOrNeckOrShoulderOrBackOrChestOrWristOrHandsOrWaistOrLegsOrFeetOrFinger1OrFinger2OrTrinket1OrTrinket2OrMainHandOrOffHand;
-  trinket1: HeadOrNeckOrShoulderOrBackOrChestOrWristOrHandsOrWaistOrLegsOrFeetOrFinger1OrFinger2OrTrinket1OrTrinket2OrMainHandOrOffHand;
-  trinket2: HeadOrNeckOrShoulderOrBackOrChestOrWristOrHandsOrWaistOrLegsOrFeetOrFinger1OrFinger2OrTrinket1OrTrinket2OrMainHandOrOffHand;
-  mainHand: HeadOrNeckOrShoulderOrBackOrChestOrWristOrHandsOrWaistOrLegsOrFeetOrFinger1OrFinger2OrTrinket1OrTrinket2OrMainHandOrOffHand;
-  offHand: HeadOrNeckOrShoulderOrBackOrChestOrWristOrHandsOrWaistOrLegsOrFeetOrFinger1OrFinger2OrTrinket1OrTrinket2OrMainHandOrOffHand;
+  head: Item;
+  neck: Item;
+  shoulder: Item;
+  back: Item;
+  chest: Item;
+  wrist: Item;
+  hands: Item;
+  waist: Item;
+  legs: Item;
+  feet: Item;
+  finger1: Item;
+  finger2: Item;
+  trinket1: Item;
+  trinket2: Item;
+  mainHand: Item;
+  offHand: Item;
 }
-export interface HeadOrNeckOrShoulderOrBackOrChestOrWristOrHandsOrWaistOrLegsOrFeetOrFinger1OrFinger2OrTrinket1OrTrinket2OrMainHandOrOffHand {
+export interface Item {
   id: number;
   name: string;
   stats?: (StatsEntity)[] | null;

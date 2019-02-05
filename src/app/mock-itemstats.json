@@ -1,0 +1,6877 @@
+[
+    {
+        "StatId":  40,
+        "ItemId":  158306,
+        "Amount":  65
+    },
+    {
+        "StatId":  73,
+        "ItemId":  158306,
+        "Amount":  111
+    },
+    {
+        "StatId":  36,
+        "ItemId":  158306,
+        "Amount":  55
+    },
+    {
+        "StatId":  7,
+        "ItemId":  158306,
+        "Amount":  167
+    },
+    {
+        "StatId":  3,
+        "ItemId":  158319,
+        "Amount":  141
+    },
+    {
+        "StatId":  40,
+        "ItemId":  158322,
+        "Amount":  47
+    },
+    {
+        "StatId":  32,
+        "ItemId":  158322,
+        "Amount":  42
+    },
+    {
+        "StatId":  5,
+        "ItemId":  158322,
+        "Amount":  256
+    },
+    {
+        "StatId":  7,
+        "ItemId":  158322,
+        "Amount":  125
+    },
+    {
+        "StatId":  32,
+        "ItemId":  158321,
+        "Amount":  35
+    },
+    {
+        "StatId":  36,
+        "ItemId":  158321,
+        "Amount":  44
+    },
+    {
+        "StatId":  5,
+        "ItemId":  158321,
+        "Amount":  74
+    },
+    {
+        "StatId":  7,
+        "ItemId":  158321,
+        "Amount":  111
+    },
+    {
+        "StatId":  32,
+        "ItemId":  155861,
+        "Amount":  68
+    },
+    {
+        "StatId":  49,
+        "ItemId":  155861,
+        "Amount":  52
+    },
+    {
+        "StatId":  74,
+        "ItemId":  155861,
+        "Amount":  111
+    },
+    {
+        "StatId":  7,
+        "ItemId":  155861,
+        "Amount":  167
+    },
+    {
+        "StatId":  40,
+        "ItemId":  158313,
+        "Amount":  77
+    },
+    {
+        "StatId":  74,
+        "ItemId":  158313,
+        "Amount":  149
+    },
+    {
+        "StatId":  36,
+        "ItemId":  158313,
+        "Amount":  83
+    },
+    {
+        "StatId":  7,
+        "ItemId":  158313,
+        "Amount":  223
+    },
+    {
+        "StatId":  73,
+        "ItemId":  158347,
+        "Amount":  111
+    },
+    {
+        "StatId":  49,
+        "ItemId":  158347,
+        "Amount":  49
+    },
+    {
+        "StatId":  36,
+        "ItemId":  158347,
+        "Amount":  70
+    },
+    {
+        "StatId":  7,
+        "ItemId":  158347,
+        "Amount":  167
+    },
+    {
+        "StatId":  32,
+        "ItemId":  158309,
+        "Amount":  33
+    },
+    {
+        "StatId":  73,
+        "ItemId":  158309,
+        "Amount":  84
+    },
+    {
+        "StatId":  49,
+        "ItemId":  158309,
+        "Amount":  56
+    },
+    {
+        "StatId":  7,
+        "ItemId":  158309,
+        "Amount":  125
+    },
+    {
+        "StatId":  40,
+        "ItemId":  163959,
+        "Amount":  65
+    },
+    {
+        "StatId":  49,
+        "ItemId":  163959,
+        "Amount":  40
+    },
+    {
+        "StatId":  3,
+        "ItemId":  163959,
+        "Amount":  118
+    },
+    {
+        "StatId":  7,
+        "ItemId":  163959,
+        "Amount":  191
+    },
+    {
+        "StatId":  49,
+        "ItemId":  158375,
+        "Amount":  38
+    },
+    {
+        "StatId":  36,
+        "ItemId":  158375,
+        "Amount":  51
+    },
+    {
+        "StatId":  71,
+        "ItemId":  158375,
+        "Amount":  84
+    },
+    {
+        "StatId":  7,
+        "ItemId":  158375,
+        "Amount":  125
+    },
+    {
+        "StatId":  32,
+        "ItemId":  155869,
+        "Amount":  97
+    },
+    {
+        "StatId":  73,
+        "ItemId":  155869,
+        "Amount":  149
+    },
+    {
+        "StatId":  49,
+        "ItemId":  155869,
+        "Amount":  63
+    },
+    {
+        "StatId":  7,
+        "ItemId":  155869,
+        "Amount":  223
+    },
+    {
+        "StatId":  49,
+        "ItemId":  159445,
+        "Amount":  73
+    },
+    {
+        "StatId":  74,
+        "ItemId":  159445,
+        "Amount":  111
+    },
+    {
+        "StatId":  36,
+        "ItemId":  159445,
+        "Amount":  47
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159445,
+        "Amount":  167
+    },
+    {
+        "StatId":  32,
+        "ItemId":  158348,
+        "Amount":  38
+    },
+    {
+        "StatId":  36,
+        "ItemId":  158348,
+        "Amount":  51
+    },
+    {
+        "StatId":  5,
+        "ItemId":  158348,
+        "Amount":  84
+    },
+    {
+        "StatId":  7,
+        "ItemId":  158348,
+        "Amount":  125
+    },
+    {
+        "StatId":  32,
+        "ItemId":  158317,
+        "Amount":  70
+    },
+    {
+        "StatId":  40,
+        "ItemId":  158317,
+        "Amount":  49
+    },
+    {
+        "StatId":  73,
+        "ItemId":  158317,
+        "Amount":  111
+    },
+    {
+        "StatId":  7,
+        "ItemId":  158317,
+        "Amount":  167
+    },
+    {
+        "StatId":  5,
+        "ItemId":  158320,
+        "Amount":  141
+    },
+    {
+        "StatId":  40,
+        "ItemId":  159632,
+        "Amount":  32
+    },
+    {
+        "StatId":  4,
+        "ItemId":  159632,
+        "Amount":  74
+    },
+    {
+        "StatId":  36,
+        "ItemId":  159632,
+        "Amount":  47
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159632,
+        "Amount":  111
+    },
+    {
+        "StatId":  40,
+        "ItemId":  159458,
+        "Amount":  172
+    },
+    {
+        "StatId":  36,
+        "ItemId":  159458,
+        "Amount":  109
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159458,
+        "Amount":  125
+    },
+    {
+        "StatId":  32,
+        "ItemId":  158303,
+        "Amount":  49
+    },
+    {
+        "StatId":  49,
+        "ItemId":  158303,
+        "Amount":  70
+    },
+    {
+        "StatId":  5,
+        "ItemId":  158303,
+        "Amount":  111
+    },
+    {
+        "StatId":  7,
+        "ItemId":  158303,
+        "Amount":  167
+    },
+    {
+        "StatId":  40,
+        "ItemId":  160214,
+        "Amount":  52
+    },
+    {
+        "StatId":  32,
+        "ItemId":  160214,
+        "Amount":  37
+    },
+    {
+        "StatId":  73,
+        "ItemId":  160214,
+        "Amount":  84
+    },
+    {
+        "StatId":  7,
+        "ItemId":  160214,
+        "Amount":  125
+    },
+    {
+        "StatId":  4,
+        "ItemId":  158712,
+        "Amount":  141
+    },
+    {
+        "StatId":  49,
+        "ItemId":  160269,
+        "Amount":  38
+    },
+    {
+        "StatId":  3,
+        "ItemId":  160269,
+        "Amount":  74
+    },
+    {
+        "StatId":  36,
+        "ItemId":  160269,
+        "Amount":  41
+    },
+    {
+        "StatId":  7,
+        "ItemId":  160269,
+        "Amount":  111
+    },
+    {
+        "StatId":  49,
+        "ItemId":  158713,
+        "Amount":  52
+    },
+    {
+        "StatId":  4,
+        "ItemId":  158713,
+        "Amount":  84
+    },
+    {
+        "StatId":  36,
+        "ItemId":  158713,
+        "Amount":  37
+    },
+    {
+        "StatId":  5,
+        "ItemId":  158713,
+        "Amount":  256
+    },
+    {
+        "StatId":  7,
+        "ItemId":  158713,
+        "Amount":  125
+    },
+    {
+        "StatId":  40,
+        "ItemId":  155868,
+        "Amount":  90
+    },
+    {
+        "StatId":  32,
+        "ItemId":  155868,
+        "Amount":  69
+    },
+    {
+        "StatId":  73,
+        "ItemId":  155868,
+        "Amount":  149
+    },
+    {
+        "StatId":  7,
+        "ItemId":  155868,
+        "Amount":  223
+    },
+    {
+        "StatId":  32,
+        "ItemId":  158711,
+        "Amount":  57
+    },
+    {
+        "StatId":  49,
+        "ItemId":  158711,
+        "Amount":  103
+    },
+    {
+        "StatId":  3,
+        "ItemId":  158711,
+        "Amount":  149
+    },
+    {
+        "StatId":  7,
+        "ItemId":  158711,
+        "Amount":  223
+    },
+    {
+        "StatId":  73,
+        "ItemId":  158304,
+        "Amount":  212
+    },
+    {
+        "StatId":  7,
+        "ItemId":  158304,
+        "Amount":  340
+    },
+    {
+        "StatId":  73,
+        "ItemId":  155860,
+        "Amount":  283
+    },
+    {
+        "StatId":  7,
+        "ItemId":  155860,
+        "Amount":  454
+    },
+    {
+        "StatId":  5,
+        "ItemId":  159233,
+        "Amount":  283
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159233,
+        "Amount":  454
+    },
+    {
+        "StatId":  5,
+        "ItemId":  158315,
+        "Amount":  283
+    },
+    {
+        "StatId":  7,
+        "ItemId":  158315,
+        "Amount":  454
+    },
+    {
+        "StatId":  32,
+        "ItemId":  160212,
+        "Amount":  60
+    },
+    {
+        "StatId":  40,
+        "ItemId":  160212,
+        "Amount":  30
+    },
+    {
+        "StatId":  74,
+        "ItemId":  160212,
+        "Amount":  84
+    },
+    {
+        "StatId":  7,
+        "ItemId":  160212,
+        "Amount":  125
+    },
+    {
+        "StatId":  73,
+        "ItemId":  159358,
+        "Amount":  283
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159358,
+        "Amount":  454
+    },
+    {
+        "StatId":  74,
+        "ItemId":  155866,
+        "Amount":  283
+    },
+    {
+        "StatId":  7,
+        "ItemId":  155866,
+        "Amount":  454
+    },
+    {
+        "StatId":  5,
+        "ItemId":  159610,
+        "Amount":  141
+    },
+    {
+        "StatId":  32,
+        "ItemId":  158308,
+        "Amount":  73
+    },
+    {
+        "StatId":  73,
+        "ItemId":  158308,
+        "Amount":  111
+    },
+    {
+        "StatId":  36,
+        "ItemId":  158308,
+        "Amount":  47
+    },
+    {
+        "StatId":  7,
+        "ItemId":  158308,
+        "Amount":  167
+    },
+    {
+        "StatId":  40,
+        "ItemId":  158323,
+        "Amount":  45
+    },
+    {
+        "StatId":  3,
+        "ItemId":  158323,
+        "Amount":  74
+    },
+    {
+        "StatId":  36,
+        "ItemId":  158323,
+        "Amount":  34
+    },
+    {
+        "StatId":  7,
+        "ItemId":  158323,
+        "Amount":  111
+    },
+    {
+        "StatId":  32,
+        "ItemId":  155884,
+        "Amount":  55
+    },
+    {
+        "StatId":  49,
+        "ItemId":  155884,
+        "Amount":  35
+    },
+    {
+        "StatId":  71,
+        "ItemId":  155884,
+        "Amount":  84
+    },
+    {
+        "StatId":  7,
+        "ItemId":  155884,
+        "Amount":  125
+    },
+    {
+        "StatId":  32,
+        "ItemId":  155862,
+        "Amount":  65
+    },
+    {
+        "StatId":  73,
+        "ItemId":  155862,
+        "Amount":  111
+    },
+    {
+        "StatId":  49,
+        "ItemId":  155862,
+        "Amount":  55
+    },
+    {
+        "StatId":  7,
+        "ItemId":  155862,
+        "Amount":  167
+    },
+    {
+        "StatId":  40,
+        "ItemId":  159353,
+        "Amount":  62
+    },
+    {
+        "StatId":  73,
+        "ItemId":  159353,
+        "Amount":  111
+    },
+    {
+        "StatId":  49,
+        "ItemId":  159353,
+        "Amount":  57
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159353,
+        "Amount":  167
+    },
+    {
+        "StatId":  40,
+        "ItemId":  159227,
+        "Amount":  60
+    },
+    {
+        "StatId":  49,
+        "ItemId":  159227,
+        "Amount":  30
+    },
+    {
+        "StatId":  5,
+        "ItemId":  159227,
+        "Amount":  84
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159227,
+        "Amount":  125
+    },
+    {
+        "StatId":  40,
+        "ItemId":  158360,
+        "Amount":  37
+    },
+    {
+        "StatId":  74,
+        "ItemId":  158360,
+        "Amount":  111
+    },
+    {
+        "StatId":  36,
+        "ItemId":  158360,
+        "Amount":  83
+    },
+    {
+        "StatId":  7,
+        "ItemId":  158360,
+        "Amount":  167
+    },
+    {
+        "StatId":  40,
+        "ItemId":  159633,
+        "Amount":  47
+    },
+    {
+        "StatId":  32,
+        "ItemId":  159633,
+        "Amount":  31
+    },
+    {
+        "StatId":  4,
+        "ItemId":  159633,
+        "Amount":  74
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159633,
+        "Amount":  111
+    },
+    {
+        "StatId":  40,
+        "ItemId":  159130,
+        "Amount":  96
+    },
+    {
+        "StatId":  32,
+        "ItemId":  159130,
+        "Amount":  64
+    },
+    {
+        "StatId":  3,
+        "ItemId":  159130,
+        "Amount":  149
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159130,
+        "Amount":  223
+    },
+    {
+        "StatId":  40,
+        "ItemId":  158311,
+        "Amount":  56
+    },
+    {
+        "StatId":  32,
+        "ItemId":  158311,
+        "Amount":  33
+    },
+    {
+        "StatId":  74,
+        "ItemId":  158311,
+        "Amount":  84
+    },
+    {
+        "StatId":  7,
+        "ItemId":  158311,
+        "Amount":  125
+    },
+    {
+        "StatId":  32,
+        "ItemId":  158351,
+        "Amount":  65
+    },
+    {
+        "StatId":  49,
+        "ItemId":  158351,
+        "Amount":  55
+    },
+    {
+        "StatId":  5,
+        "ItemId":  158351,
+        "Amount":  111
+    },
+    {
+        "StatId":  7,
+        "ItemId":  158351,
+        "Amount":  167
+    },
+    {
+        "StatId":  40,
+        "ItemId":  159132,
+        "Amount":  49
+    },
+    {
+        "StatId":  49,
+        "ItemId":  159132,
+        "Amount":  30
+    },
+    {
+        "StatId":  3,
+        "ItemId":  159132,
+        "Amount":  74
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159132,
+        "Amount":  111
+    },
+    {
+        "StatId":  40,
+        "ItemId":  159356,
+        "Amount":  38
+    },
+    {
+        "StatId":  73,
+        "ItemId":  159356,
+        "Amount":  84
+    },
+    {
+        "StatId":  36,
+        "ItemId":  159356,
+        "Amount":  51
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159356,
+        "Amount":  125
+    },
+    {
+        "StatId":  32,
+        "ItemId":  158346,
+        "Amount":  73
+    },
+    {
+        "StatId":  36,
+        "ItemId":  158346,
+        "Amount":  47
+    },
+    {
+        "StatId":  5,
+        "ItemId":  158346,
+        "Amount":  111
+    },
+    {
+        "StatId":  7,
+        "ItemId":  158346,
+        "Amount":  167
+    },
+    {
+        "StatId":  36,
+        "ItemId":  158314,
+        "Amount":  193
+    },
+    {
+        "StatId":  32,
+        "ItemId":  158314,
+        "Amount":  88
+    },
+    {
+        "StatId":  7,
+        "ItemId":  158314,
+        "Amount":  125
+    },
+    {
+        "StatId":  73,
+        "ItemId":  159297,
+        "Amount":  149
+    },
+    {
+        "StatId":  49,
+        "ItemId":  159297,
+        "Amount":  107
+    },
+    {
+        "StatId":  36,
+        "ItemId":  159297,
+        "Amount":  52
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159297,
+        "Amount":  223
+    },
+    {
+        "StatId":  40,
+        "ItemId":  158305,
+        "Amount":  55
+    },
+    {
+        "StatId":  73,
+        "ItemId":  158305,
+        "Amount":  84
+    },
+    {
+        "StatId":  36,
+        "ItemId":  158305,
+        "Amount":  35
+    },
+    {
+        "StatId":  7,
+        "ItemId":  158305,
+        "Amount":  125
+    },
+    {
+        "StatId":  32,
+        "ItemId":  158302,
+        "Amount":  73
+    },
+    {
+        "StatId":  49,
+        "ItemId":  158302,
+        "Amount":  87
+    },
+    {
+        "StatId":  5,
+        "ItemId":  158302,
+        "Amount":  149
+    },
+    {
+        "StatId":  7,
+        "ItemId":  158302,
+        "Amount":  223
+    },
+    {
+        "StatId":  40,
+        "ItemId":  155891,
+        "Amount":  75
+    },
+    {
+        "StatId":  32,
+        "ItemId":  155891,
+        "Amount":  44
+    },
+    {
+        "StatId":  5,
+        "ItemId":  155891,
+        "Amount":  111
+    },
+    {
+        "StatId":  7,
+        "ItemId":  155891,
+        "Amount":  167
+    },
+    {
+        "StatId":  40,
+        "ItemId":  155889,
+        "Amount":  44
+    },
+    {
+        "StatId":  73,
+        "ItemId":  155889,
+        "Amount":  111
+    },
+    {
+        "StatId":  49,
+        "ItemId":  155889,
+        "Amount":  75
+    },
+    {
+        "StatId":  7,
+        "ItemId":  155889,
+        "Amount":  167
+    },
+    {
+        "StatId":  40,
+        "ItemId":  155890,
+        "Amount":  70
+    },
+    {
+        "StatId":  74,
+        "ItemId":  155890,
+        "Amount":  111
+    },
+    {
+        "StatId":  36,
+        "ItemId":  155890,
+        "Amount":  49
+    },
+    {
+        "StatId":  7,
+        "ItemId":  155890,
+        "Amount":  167
+    },
+    {
+        "StatId":  49,
+        "ItemId":  158361,
+        "Amount":  101
+    },
+    {
+        "StatId":  74,
+        "ItemId":  158361,
+        "Amount":  149
+    },
+    {
+        "StatId":  36,
+        "ItemId":  158361,
+        "Amount":  60
+    },
+    {
+        "StatId":  7,
+        "ItemId":  158361,
+        "Amount":  223
+    },
+    {
+        "StatId":  40,
+        "ItemId":  155892,
+        "Amount":  75
+    },
+    {
+        "StatId":  73,
+        "ItemId":  155892,
+        "Amount":  111
+    },
+    {
+        "StatId":  36,
+        "ItemId":  155892,
+        "Amount":  44
+    },
+    {
+        "StatId":  7,
+        "ItemId":  155892,
+        "Amount":  167
+    },
+    {
+        "StatId":  32,
+        "ItemId":  158356,
+        "Amount":  49
+    },
+    {
+        "StatId":  73,
+        "ItemId":  158356,
+        "Amount":  111
+    },
+    {
+        "StatId":  49,
+        "ItemId":  158356,
+        "Amount":  70
+    },
+    {
+        "StatId":  7,
+        "ItemId":  158356,
+        "Amount":  167
+    },
+    {
+        "StatId":  40,
+        "ItemId":  159634,
+        "Amount":  74
+    },
+    {
+        "StatId":  4,
+        "ItemId":  159634,
+        "Amount":  149
+    },
+    {
+        "StatId":  36,
+        "ItemId":  159634,
+        "Amount":  85
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159634,
+        "Amount":  223
+    },
+    {
+        "StatId":  74,
+        "ItemId":  155885,
+        "Amount":  283
+    },
+    {
+        "StatId":  7,
+        "ItemId":  155885,
+        "Amount":  454
+    },
+    {
+        "StatId":  73,
+        "ItemId":  159299,
+        "Amount":  212
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159299,
+        "Amount":  340
+    },
+    {
+        "StatId":  3,
+        "ItemId":  155881,
+        "Amount":  141
+    },
+    {
+        "StatId":  74,
+        "ItemId":  159407,
+        "Amount":  212
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159407,
+        "Amount":  340
+    },
+    {
+        "StatId":  5,
+        "ItemId":  155886,
+        "Amount":  283
+    },
+    {
+        "StatId":  7,
+        "ItemId":  155886,
+        "Amount":  454
+    },
+    {
+        "StatId":  73,
+        "ItemId":  159352,
+        "Amount":  212
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159352,
+        "Amount":  340
+    },
+    {
+        "StatId":  73,
+        "ItemId":  155888,
+        "Amount":  283
+    },
+    {
+        "StatId":  7,
+        "ItemId":  155888,
+        "Amount":  454
+    },
+    {
+        "StatId":  5,
+        "ItemId":  158301,
+        "Amount":  283
+    },
+    {
+        "StatId":  7,
+        "ItemId":  158301,
+        "Amount":  454
+    },
+    {
+        "StatId":  73,
+        "ItemId":  155887,
+        "Amount":  283
+    },
+    {
+        "StatId":  7,
+        "ItemId":  155887,
+        "Amount":  454
+    },
+    {
+        "StatId":  32,
+        "ItemId":  159635,
+        "Amount":  38
+    },
+    {
+        "StatId":  3,
+        "ItemId":  159635,
+        "Amount":  74
+    },
+    {
+        "StatId":  36,
+        "ItemId":  159635,
+        "Amount":  42
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159635,
+        "Amount":  111
+    },
+    {
+        "StatId":  40,
+        "ItemId":  159460,
+        "Amount":  189
+    },
+    {
+        "StatId":  49,
+        "ItemId":  159460,
+        "Amount":  92
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159460,
+        "Amount":  125
+    },
+    {
+        "StatId":  32,
+        "ItemId":  159392,
+        "Amount":  90
+    },
+    {
+        "StatId":  73,
+        "ItemId":  159392,
+        "Amount":  149
+    },
+    {
+        "StatId":  36,
+        "ItemId":  159392,
+        "Amount":  69
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159392,
+        "Amount":  223
+    },
+    {
+        "StatId":  32,
+        "ItemId":  159668,
+        "Amount":  48
+    },
+    {
+        "StatId":  36,
+        "ItemId":  159668,
+        "Amount":  41
+    },
+    {
+        "StatId":  5,
+        "ItemId":  159668,
+        "Amount":  256
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159668,
+        "Amount":  125
+    },
+    {
+        "StatId":  32,
+        "ItemId":  160215,
+        "Amount":  49
+    },
+    {
+        "StatId":  49,
+        "ItemId":  160215,
+        "Amount":  70
+    },
+    {
+        "StatId":  74,
+        "ItemId":  160215,
+        "Amount":  111
+    },
+    {
+        "StatId":  7,
+        "ItemId":  160215,
+        "Amount":  167
+    },
+    {
+        "StatId":  73,
+        "ItemId":  159332,
+        "Amount":  84
+    },
+    {
+        "StatId":  49,
+        "ItemId":  159332,
+        "Amount":  37
+    },
+    {
+        "StatId":  36,
+        "ItemId":  159332,
+        "Amount":  52
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159332,
+        "Amount":  125
+    },
+    {
+        "StatId":  32,
+        "ItemId":  159656,
+        "Amount":  85
+    },
+    {
+        "StatId":  40,
+        "ItemId":  159656,
+        "Amount":  75
+    },
+    {
+        "StatId":  3,
+        "ItemId":  159656,
+        "Amount":  149
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159656,
+        "Amount":  223
+    },
+    {
+        "StatId":  40,
+        "ItemId":  160110,
+        "Amount":  43
+    },
+    {
+        "StatId":  3,
+        "ItemId":  160110,
+        "Amount":  74
+    },
+    {
+        "StatId":  36,
+        "ItemId":  160110,
+        "Amount":  35
+    },
+    {
+        "StatId":  7,
+        "ItemId":  160110,
+        "Amount":  111
+    },
+    {
+        "StatId":  32,
+        "ItemId":  159293,
+        "Amount":  37
+    },
+    {
+        "StatId":  49,
+        "ItemId":  159293,
+        "Amount":  52
+    },
+    {
+        "StatId":  71,
+        "ItemId":  159293,
+        "Amount":  84
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159293,
+        "Amount":  125
+    },
+    {
+        "StatId":  32,
+        "ItemId":  159266,
+        "Amount":  49
+    },
+    {
+        "StatId":  36,
+        "ItemId":  159266,
+        "Amount":  70
+    },
+    {
+        "StatId":  5,
+        "ItemId":  159266,
+        "Amount":  111
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159266,
+        "Amount":  167
+    },
+    {
+        "StatId":  40,
+        "ItemId":  159306,
+        "Amount":  69
+    },
+    {
+        "StatId":  73,
+        "ItemId":  159306,
+        "Amount":  149
+    },
+    {
+        "StatId":  36,
+        "ItemId":  159306,
+        "Amount":  90
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159306,
+        "Amount":  223
+    },
+    {
+        "StatId":  4,
+        "ItemId":  159627,
+        "Amount":  141
+    },
+    {
+        "StatId":  32,
+        "ItemId":  159363,
+        "Amount":  81
+    },
+    {
+        "StatId":  40,
+        "ItemId":  159363,
+        "Amount":  39
+    },
+    {
+        "StatId":  73,
+        "ItemId":  159363,
+        "Amount":  111
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159363,
+        "Amount":  167
+    },
+    {
+        "StatId":  40,
+        "ItemId":  159666,
+        "Amount":  41
+    },
+    {
+        "StatId":  49,
+        "ItemId":  159666,
+        "Amount":  48
+    },
+    {
+        "StatId":  4,
+        "ItemId":  159666,
+        "Amount":  84
+    },
+    {
+        "StatId":  5,
+        "ItemId":  159666,
+        "Amount":  256
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159666,
+        "Amount":  125
+    },
+    {
+        "StatId":  32,
+        "ItemId":  159131,
+        "Amount":  31
+    },
+    {
+        "StatId":  3,
+        "ItemId":  159131,
+        "Amount":  74
+    },
+    {
+        "StatId":  36,
+        "ItemId":  159131,
+        "Amount":  47
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159131,
+        "Amount":  111
+    },
+    {
+        "StatId":  40,
+        "ItemId":  159333,
+        "Amount":  70
+    },
+    {
+        "StatId":  32,
+        "ItemId":  159333,
+        "Amount":  49
+    },
+    {
+        "StatId":  73,
+        "ItemId":  159333,
+        "Amount":  111
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159333,
+        "Amount":  167
+    },
+    {
+        "StatId":  5,
+        "ItemId":  159615,
+        "Amount":  141
+    },
+    {
+        "StatId":  40,
+        "ItemId":  159343,
+        "Amount":  68
+    },
+    {
+        "StatId":  73,
+        "ItemId":  159343,
+        "Amount":  111
+    },
+    {
+        "StatId":  49,
+        "ItemId":  159343,
+        "Amount":  52
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159343,
+        "Amount":  167
+    },
+    {
+        "StatId":  40,
+        "ItemId":  159441,
+        "Amount":  52
+    },
+    {
+        "StatId":  49,
+        "ItemId":  159441,
+        "Amount":  37
+    },
+    {
+        "StatId":  74,
+        "ItemId":  159441,
+        "Amount":  84
+    },
+    {
+        "StatId":  51,
+        "ItemId":  159441,
+        "Amount":  32
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159441,
+        "Amount":  125
+    },
+    {
+        "StatId":  32,
+        "ItemId":  159444,
+        "Amount":  70
+    },
+    {
+        "StatId":  40,
+        "ItemId":  159444,
+        "Amount":  49
+    },
+    {
+        "StatId":  74,
+        "ItemId":  159444,
+        "Amount":  111
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159444,
+        "Amount":  167
+    },
+    {
+        "StatId":  40,
+        "ItemId":  159274,
+        "Amount":  55
+    },
+    {
+        "StatId":  49,
+        "ItemId":  159274,
+        "Amount":  65
+    },
+    {
+        "StatId":  5,
+        "ItemId":  159274,
+        "Amount":  111
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159274,
+        "Amount":  167
+    },
+    {
+        "StatId":  73,
+        "ItemId":  159390,
+        "Amount":  111
+    },
+    {
+        "StatId":  49,
+        "ItemId":  159390,
+        "Amount":  55
+    },
+    {
+        "StatId":  36,
+        "ItemId":  159390,
+        "Amount":  65
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159390,
+        "Amount":  167
+    },
+    {
+        "StatId":  40,
+        "ItemId":  159277,
+        "Amount":  66
+    },
+    {
+        "StatId":  36,
+        "ItemId":  159277,
+        "Amount":  94
+    },
+    {
+        "StatId":  5,
+        "ItemId":  159277,
+        "Amount":  149
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159277,
+        "Amount":  223
+    },
+    {
+        "StatId":  40,
+        "ItemId":  159389,
+        "Amount":  42
+    },
+    {
+        "StatId":  73,
+        "ItemId":  159389,
+        "Amount":  84
+    },
+    {
+        "StatId":  36,
+        "ItemId":  159389,
+        "Amount":  47
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159389,
+        "Amount":  125
+    },
+    {
+        "StatId":  40,
+        "ItemId":  159129,
+        "Amount":  91
+    },
+    {
+        "StatId":  49,
+        "ItemId":  159129,
+        "Amount":  68
+    },
+    {
+        "StatId":  5,
+        "ItemId":  159129,
+        "Amount":  149
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159129,
+        "Amount":  223
+    },
+    {
+        "StatId":  5,
+        "ItemId":  159268,
+        "Amount":  283
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159268,
+        "Amount":  454
+    },
+    {
+        "StatId":  74,
+        "ItemId":  159414,
+        "Amount":  283
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159414,
+        "Amount":  454
+    },
+    {
+        "StatId":  74,
+        "ItemId":  159440,
+        "Amount":  283
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159440,
+        "Amount":  454
+    },
+    {
+        "StatId":  73,
+        "ItemId":  159334,
+        "Amount":  283
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159334,
+        "Amount":  454
+    },
+    {
+        "StatId":  3,
+        "ItemId":  159628,
+        "Amount":  141
+    },
+    {
+        "StatId":  73,
+        "ItemId":  159331,
+        "Amount":  212
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159331,
+        "Amount":  340
+    },
+    {
+        "StatId":  73,
+        "ItemId":  159391,
+        "Amount":  283
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159391,
+        "Amount":  454
+    },
+    {
+        "StatId":  73,
+        "ItemId":  159393,
+        "Amount":  212
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159393,
+        "Amount":  340
+    },
+    {
+        "StatId":  32,
+        "ItemId":  159658,
+        "Amount":  33
+    },
+    {
+        "StatId":  49,
+        "ItemId":  159658,
+        "Amount":  47
+    },
+    {
+        "StatId":  4,
+        "ItemId":  159658,
+        "Amount":  74
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159658,
+        "Amount":  111
+    },
+    {
+        "StatId":  40,
+        "ItemId":  159657,
+        "Amount":  77
+    },
+    {
+        "StatId":  49,
+        "ItemId":  159657,
+        "Amount":  83
+    },
+    {
+        "StatId":  3,
+        "ItemId":  159657,
+        "Amount":  149
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159657,
+        "Amount":  223
+    },
+    {
+        "StatId":  36,
+        "ItemId":  159462,
+        "Amount":  136
+    },
+    {
+        "StatId":  49,
+        "ItemId":  159462,
+        "Amount":  145
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159462,
+        "Amount":  125
+    },
+    {
+        "StatId":  32,
+        "ItemId":  158350,
+        "Amount":  63
+    },
+    {
+        "StatId":  36,
+        "ItemId":  158350,
+        "Amount":  97
+    },
+    {
+        "StatId":  5,
+        "ItemId":  158350,
+        "Amount":  149
+    },
+    {
+        "StatId":  7,
+        "ItemId":  158350,
+        "Amount":  223
+    },
+    {
+        "StatId":  32,
+        "ItemId":  158353,
+        "Amount":  33
+    },
+    {
+        "StatId":  73,
+        "ItemId":  158353,
+        "Amount":  84
+    },
+    {
+        "StatId":  36,
+        "ItemId":  158353,
+        "Amount":  56
+    },
+    {
+        "StatId":  7,
+        "ItemId":  158353,
+        "Amount":  125
+    },
+    {
+        "StatId":  49,
+        "ItemId":  159638,
+        "Amount":  94
+    },
+    {
+        "StatId":  4,
+        "ItemId":  159638,
+        "Amount":  149
+    },
+    {
+        "StatId":  36,
+        "ItemId":  159638,
+        "Amount":  66
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159638,
+        "Amount":  223
+    },
+    {
+        "StatId":  32,
+        "ItemId":  159357,
+        "Amount":  49
+    },
+    {
+        "StatId":  73,
+        "ItemId":  159357,
+        "Amount":  111
+    },
+    {
+        "StatId":  49,
+        "ItemId":  159357,
+        "Amount":  70
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159357,
+        "Amount":  167
+    },
+    {
+        "StatId":  40,
+        "ItemId":  155864,
+        "Amount":  55
+    },
+    {
+        "StatId":  49,
+        "ItemId":  155864,
+        "Amount":  65
+    },
+    {
+        "StatId":  74,
+        "ItemId":  155864,
+        "Amount":  111
+    },
+    {
+        "StatId":  7,
+        "ItemId":  155864,
+        "Amount":  167
+    },
+    {
+        "StatId":  32,
+        "ItemId":  159663,
+        "Amount":  37
+    },
+    {
+        "StatId":  4,
+        "ItemId":  159663,
+        "Amount":  84
+    },
+    {
+        "StatId":  36,
+        "ItemId":  159663,
+        "Amount":  52
+    },
+    {
+        "StatId":  5,
+        "ItemId":  159663,
+        "Amount":  256
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159663,
+        "Amount":  125
+    },
+    {
+        "StatId":  40,
+        "ItemId":  159231,
+        "Amount":  52
+    },
+    {
+        "StatId":  49,
+        "ItemId":  159231,
+        "Amount":  68
+    },
+    {
+        "StatId":  5,
+        "ItemId":  159231,
+        "Amount":  111
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159231,
+        "Amount":  167
+    },
+    {
+        "StatId":  49,
+        "ItemId":  159612,
+        "Amount":  114
+    },
+    {
+        "StatId":  40,
+        "ItemId":  158357,
+        "Amount":  48
+    },
+    {
+        "StatId":  32,
+        "ItemId":  158357,
+        "Amount":  41
+    },
+    {
+        "StatId":  73,
+        "ItemId":  158357,
+        "Amount":  84
+    },
+    {
+        "StatId":  7,
+        "ItemId":  158357,
+        "Amount":  125
+    },
+    {
+        "StatId":  32,
+        "ItemId":  159226,
+        "Amount":  70
+    },
+    {
+        "StatId":  40,
+        "ItemId":  159226,
+        "Amount":  49
+    },
+    {
+        "StatId":  5,
+        "ItemId":  159226,
+        "Amount":  111
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159226,
+        "Amount":  167
+    },
+    {
+        "StatId":  49,
+        "ItemId":  158359,
+        "Amount":  37
+    },
+    {
+        "StatId":  74,
+        "ItemId":  158359,
+        "Amount":  84
+    },
+    {
+        "StatId":  36,
+        "ItemId":  158359,
+        "Amount":  52
+    },
+    {
+        "StatId":  7,
+        "ItemId":  158359,
+        "Amount":  125
+    },
+    {
+        "StatId":  32,
+        "ItemId":  159725,
+        "Amount":  70
+    },
+    {
+        "StatId":  73,
+        "ItemId":  159725,
+        "Amount":  111
+    },
+    {
+        "StatId":  49,
+        "ItemId":  159725,
+        "Amount":  49
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159725,
+        "Amount":  167
+    },
+    {
+        "StatId":  40,
+        "ItemId":  159336,
+        "Amount":  44
+    },
+    {
+        "StatId":  73,
+        "ItemId":  159336,
+        "Amount":  111
+    },
+    {
+        "StatId":  36,
+        "ItemId":  159336,
+        "Amount":  75
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159336,
+        "Amount":  167
+    },
+    {
+        "StatId":  32,
+        "ItemId":  159679,
+        "Amount":  81
+    },
+    {
+        "StatId":  74,
+        "ItemId":  159679,
+        "Amount":  111
+    },
+    {
+        "StatId":  36,
+        "ItemId":  159679,
+        "Amount":  39
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159679,
+        "Amount":  167
+    },
+    {
+        "StatId":  73,
+        "ItemId":  159361,
+        "Amount":  111
+    },
+    {
+        "StatId":  49,
+        "ItemId":  159361,
+        "Amount":  65
+    },
+    {
+        "StatId":  36,
+        "ItemId":  159361,
+        "Amount":  55
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159361,
+        "Amount":  167
+    },
+    {
+        "StatId":  32,
+        "ItemId":  159287,
+        "Amount":  37
+    },
+    {
+        "StatId":  36,
+        "ItemId":  159287,
+        "Amount":  52
+    },
+    {
+        "StatId":  71,
+        "ItemId":  159287,
+        "Amount":  84
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159287,
+        "Amount":  125
+    },
+    {
+        "StatId":  32,
+        "ItemId":  159305,
+        "Amount":  49
+    },
+    {
+        "StatId":  73,
+        "ItemId":  159305,
+        "Amount":  111
+    },
+    {
+        "StatId":  49,
+        "ItemId":  159305,
+        "Amount":  70
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159305,
+        "Amount":  167
+    },
+    {
+        "StatId":  32,
+        "ItemId":  159451,
+        "Amount":  94
+    },
+    {
+        "StatId":  49,
+        "ItemId":  159451,
+        "Amount":  66
+    },
+    {
+        "StatId":  74,
+        "ItemId":  159451,
+        "Amount":  149
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159451,
+        "Amount":  223
+    },
+    {
+        "StatId":  73,
+        "ItemId":  158341,
+        "Amount":  149
+    },
+    {
+        "StatId":  49,
+        "ItemId":  158341,
+        "Amount":  63
+    },
+    {
+        "StatId":  36,
+        "ItemId":  158341,
+        "Amount":  97
+    },
+    {
+        "StatId":  7,
+        "ItemId":  158341,
+        "Amount":  223
+    },
+    {
+        "StatId":  40,
+        "ItemId":  159240,
+        "Amount":  60
+    },
+    {
+        "StatId":  36,
+        "ItemId":  159240,
+        "Amount":  30
+    },
+    {
+        "StatId":  5,
+        "ItemId":  159240,
+        "Amount":  84
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159240,
+        "Amount":  125
+    },
+    {
+        "StatId":  49,
+        "ItemId":  159235,
+        "Amount":  68
+    },
+    {
+        "StatId":  36,
+        "ItemId":  159235,
+        "Amount":  52
+    },
+    {
+        "StatId":  5,
+        "ItemId":  159235,
+        "Amount":  111
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159235,
+        "Amount":  167
+    },
+    {
+        "StatId":  40,
+        "ItemId":  159639,
+        "Amount":  90
+    },
+    {
+        "StatId":  3,
+        "ItemId":  159639,
+        "Amount":  149
+    },
+    {
+        "StatId":  36,
+        "ItemId":  159639,
+        "Amount":  69
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159639,
+        "Amount":  223
+    },
+    {
+        "StatId":  73,
+        "ItemId":  159360,
+        "Amount":  212
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159360,
+        "Amount":  340
+    },
+    {
+        "StatId":  5,
+        "ItemId":  159232,
+        "Amount":  212
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159232,
+        "Amount":  340
+    },
+    {
+        "StatId":  32,
+        "ItemId":  159641,
+        "Amount":  34
+    },
+    {
+        "StatId":  49,
+        "ItemId":  159641,
+        "Amount":  45
+    },
+    {
+        "StatId":  5,
+        "ItemId":  159641,
+        "Amount":  74
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159641,
+        "Amount":  111
+    },
+    {
+        "StatId":  73,
+        "ItemId":  158364,
+        "Amount":  283
+    },
+    {
+        "StatId":  7,
+        "ItemId":  158364,
+        "Amount":  454
+    },
+    {
+        "StatId":  5,
+        "ItemId":  158349,
+        "Amount":  283
+    },
+    {
+        "StatId":  7,
+        "ItemId":  158349,
+        "Amount":  454
+    },
+    {
+        "StatId":  4,
+        "ItemId":  159611,
+        "Amount":  141
+    },
+    {
+        "StatId":  73,
+        "ItemId":  158307,
+        "Amount":  283
+    },
+    {
+        "StatId":  7,
+        "ItemId":  158307,
+        "Amount":  454
+    },
+    {
+        "StatId":  74,
+        "ItemId":  159415,
+        "Amount":  212
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159415,
+        "Amount":  340
+    },
+    {
+        "StatId":  73,
+        "ItemId":  159298,
+        "Amount":  283
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159298,
+        "Amount":  454
+    },
+    {
+        "StatId":  40,
+        "ItemId":  159345,
+        "Amount":  90
+    },
+    {
+        "StatId":  32,
+        "ItemId":  159345,
+        "Amount":  69
+    },
+    {
+        "StatId":  73,
+        "ItemId":  159345,
+        "Amount":  149
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159345,
+        "Amount":  223
+    },
+    {
+        "StatId":  32,
+        "ItemId":  159340,
+        "Amount":  35
+    },
+    {
+        "StatId":  73,
+        "ItemId":  159340,
+        "Amount":  84
+    },
+    {
+        "StatId":  49,
+        "ItemId":  159340,
+        "Amount":  55
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159340,
+        "Amount":  125
+    },
+    {
+        "StatId":  40,
+        "ItemId":  159404,
+        "Amount":  49
+    },
+    {
+        "StatId":  73,
+        "ItemId":  159404,
+        "Amount":  111
+    },
+    {
+        "StatId":  36,
+        "ItemId":  159404,
+        "Amount":  70
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159404,
+        "Amount":  167
+    },
+    {
+        "StatId":  40,
+        "ItemId":  159450,
+        "Amount":  70
+    },
+    {
+        "StatId":  74,
+        "ItemId":  159450,
+        "Amount":  111
+    },
+    {
+        "StatId":  36,
+        "ItemId":  159450,
+        "Amount":  49
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159450,
+        "Amount":  167
+    },
+    {
+        "StatId":  40,
+        "ItemId":  159133,
+        "Amount":  31
+    },
+    {
+        "StatId":  49,
+        "ItemId":  159133,
+        "Amount":  48
+    },
+    {
+        "StatId":  5,
+        "ItemId":  159133,
+        "Amount":  74
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159133,
+        "Amount":  111
+    },
+    {
+        "StatId":  32,
+        "ItemId":  159400,
+        "Amount":  87
+    },
+    {
+        "StatId":  40,
+        "ItemId":  159400,
+        "Amount":  73
+    },
+    {
+        "StatId":  73,
+        "ItemId":  159400,
+        "Amount":  149
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159400,
+        "Amount":  223
+    },
+    {
+        "StatId":  40,
+        "ItemId":  159669,
+        "Amount":  40
+    },
+    {
+        "StatId":  49,
+        "ItemId":  159669,
+        "Amount":  48
+    },
+    {
+        "StatId":  5,
+        "ItemId":  159669,
+        "Amount":  256
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159669,
+        "Amount":  125
+    },
+    {
+        "StatId":  49,
+        "ItemId":  159449,
+        "Amount":  56
+    },
+    {
+        "StatId":  74,
+        "ItemId":  159449,
+        "Amount":  84
+    },
+    {
+        "StatId":  36,
+        "ItemId":  159449,
+        "Amount":  33
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159449,
+        "Amount":  125
+    },
+    {
+        "StatId":  40,
+        "ItemId":  159272,
+        "Amount":  55
+    },
+    {
+        "StatId":  49,
+        "ItemId":  159272,
+        "Amount":  65
+    },
+    {
+        "StatId":  5,
+        "ItemId":  159272,
+        "Amount":  111
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159272,
+        "Amount":  167
+    },
+    {
+        "StatId":  40,
+        "ItemId":  162548,
+        "Amount":  181
+    },
+    {
+        "StatId":  36,
+        "ItemId":  162548,
+        "Amount":  100
+    },
+    {
+        "StatId":  7,
+        "ItemId":  162548,
+        "Amount":  125
+    },
+    {
+        "StatId":  49,
+        "ItemId":  159630,
+        "Amount":  114
+    },
+    {
+        "StatId":  40,
+        "ItemId":  159341,
+        "Amount":  52
+    },
+    {
+        "StatId":  73,
+        "ItemId":  159341,
+        "Amount":  111
+    },
+    {
+        "StatId":  49,
+        "ItemId":  159341,
+        "Amount":  68
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159341,
+        "Amount":  167
+    },
+    {
+        "StatId":  32,
+        "ItemId":  159456,
+        "Amount":  90
+    },
+    {
+        "StatId":  74,
+        "ItemId":  159456,
+        "Amount":  149
+    },
+    {
+        "StatId":  36,
+        "ItemId":  159456,
+        "Amount":  69
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159456,
+        "Amount":  223
+    },
+    {
+        "StatId":  32,
+        "ItemId":  159399,
+        "Amount":  68
+    },
+    {
+        "StatId":  73,
+        "ItemId":  159399,
+        "Amount":  111
+    },
+    {
+        "StatId":  49,
+        "ItemId":  159399,
+        "Amount":  52
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159399,
+        "Amount":  167
+    },
+    {
+        "StatId":  40,
+        "ItemId":  159282,
+        "Amount":  42
+    },
+    {
+        "StatId":  36,
+        "ItemId":  159282,
+        "Amount":  47
+    },
+    {
+        "StatId":  5,
+        "ItemId":  159282,
+        "Amount":  84
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159282,
+        "Amount":  125
+    },
+    {
+        "StatId":  32,
+        "ItemId":  159659,
+        "Amount":  43
+    },
+    {
+        "StatId":  3,
+        "ItemId":  159659,
+        "Amount":  74
+    },
+    {
+        "StatId":  36,
+        "ItemId":  159659,
+        "Amount":  36
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159659,
+        "Amount":  111
+    },
+    {
+        "StatId":  32,
+        "ItemId":  159294,
+        "Amount":  52
+    },
+    {
+        "StatId":  36,
+        "ItemId":  159294,
+        "Amount":  37
+    },
+    {
+        "StatId":  71,
+        "ItemId":  159294,
+        "Amount":  84
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159294,
+        "Amount":  125
+    },
+    {
+        "StatId":  32,
+        "ItemId":  159346,
+        "Amount":  70
+    },
+    {
+        "StatId":  73,
+        "ItemId":  159346,
+        "Amount":  111
+    },
+    {
+        "StatId":  36,
+        "ItemId":  159346,
+        "Amount":  49
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159346,
+        "Amount":  167
+    },
+    {
+        "StatId":  49,
+        "ItemId":  159285,
+        "Amount":  94
+    },
+    {
+        "StatId":  36,
+        "ItemId":  159285,
+        "Amount":  66
+    },
+    {
+        "StatId":  5,
+        "ItemId":  159285,
+        "Amount":  149
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159285,
+        "Amount":  223
+    },
+    {
+        "StatId":  73,
+        "ItemId":  159397,
+        "Amount":  84
+    },
+    {
+        "StatId":  49,
+        "ItemId":  159397,
+        "Amount":  55
+    },
+    {
+        "StatId":  36,
+        "ItemId":  159397,
+        "Amount":  35
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159397,
+        "Amount":  125
+    },
+    {
+        "StatId":  4,
+        "ItemId":  159616,
+        "Amount":  141
+    },
+    {
+        "StatId":  40,
+        "ItemId":  159452,
+        "Amount":  68
+    },
+    {
+        "StatId":  49,
+        "ItemId":  159452,
+        "Amount":  52
+    },
+    {
+        "StatId":  74,
+        "ItemId":  159452,
+        "Amount":  111
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159452,
+        "Amount":  167
+    },
+    {
+        "StatId":  4,
+        "ItemId":  159660,
+        "Amount":  74
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159660,
+        "Amount":  111
+    },
+    {
+        "StatId":  32,
+        "ItemId":  158362,
+        "Amount":  181
+    },
+    {
+        "StatId":  40,
+        "ItemId":  158362,
+        "Amount":  100
+    },
+    {
+        "StatId":  7,
+        "ItemId":  158362,
+        "Amount":  125
+    },
+    {
+        "StatId":  5,
+        "ItemId":  159631,
+        "Amount":  141
+    },
+    {
+        "StatId":  73,
+        "ItemId":  159347,
+        "Amount":  111
+    },
+    {
+        "StatId":  49,
+        "ItemId":  159347,
+        "Amount":  70
+    },
+    {
+        "StatId":  36,
+        "ItemId":  159347,
+        "Amount":  49
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159347,
+        "Amount":  167
+    },
+    {
+        "StatId":  40,
+        "ItemId":  159457,
+        "Amount":  68
+    },
+    {
+        "StatId":  32,
+        "ItemId":  159457,
+        "Amount":  52
+    },
+    {
+        "StatId":  74,
+        "ItemId":  159457,
+        "Amount":  111
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159457,
+        "Amount":  167
+    },
+    {
+        "StatId":  40,
+        "ItemId":  159262,
+        "Amount":  70
+    },
+    {
+        "StatId":  49,
+        "ItemId":  159262,
+        "Amount":  49
+    },
+    {
+        "StatId":  5,
+        "ItemId":  159262,
+        "Amount":  111
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159262,
+        "Amount":  167
+    },
+    {
+        "StatId":  40,
+        "ItemId":  159403,
+        "Amount":  65
+    },
+    {
+        "StatId":  32,
+        "ItemId":  159403,
+        "Amount":  55
+    },
+    {
+        "StatId":  73,
+        "ItemId":  159403,
+        "Amount":  111
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159403,
+        "Amount":  167
+    },
+    {
+        "StatId":  40,
+        "ItemId":  159661,
+        "Amount":  45
+    },
+    {
+        "StatId":  3,
+        "ItemId":  159661,
+        "Amount":  74
+    },
+    {
+        "StatId":  36,
+        "ItemId":  159661,
+        "Amount":  34
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159661,
+        "Amount":  111
+    },
+    {
+        "StatId":  5,
+        "ItemId":  159273,
+        "Amount":  212
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159273,
+        "Amount":  340
+    },
+    {
+        "StatId":  40,
+        "ItemId":  159662,
+        "Amount":  103
+    },
+    {
+        "StatId":  49,
+        "ItemId":  159662,
+        "Amount":  57
+    },
+    {
+        "StatId":  3,
+        "ItemId":  159662,
+        "Amount":  149
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159662,
+        "Amount":  223
+    },
+    {
+        "StatId":  74,
+        "ItemId":  159448,
+        "Amount":  283
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159448,
+        "Amount":  454
+    },
+    {
+        "StatId":  73,
+        "ItemId":  159395,
+        "Amount":  283
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159395,
+        "Amount":  454
+    },
+    {
+        "StatId":  73,
+        "ItemId":  159339,
+        "Amount":  212
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159339,
+        "Amount":  340
+    },
+    {
+        "StatId":  74,
+        "ItemId":  159455,
+        "Amount":  212
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159455,
+        "Amount":  340
+    },
+    {
+        "StatId":  73,
+        "ItemId":  159335,
+        "Amount":  283
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159335,
+        "Amount":  454
+    },
+    {
+        "StatId":  5,
+        "ItemId":  159279,
+        "Amount":  283
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159279,
+        "Amount":  454
+    },
+    {
+        "StatId":  73,
+        "ItemId":  159398,
+        "Amount":  283
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159398,
+        "Amount":  454
+    },
+    {
+        "StatId":  36,
+        "ItemId":  159463,
+        "Amount":  172
+    },
+    {
+        "StatId":  49,
+        "ItemId":  159463,
+        "Amount":  109
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159463,
+        "Amount":  125
+    },
+    {
+        "StatId":  32,
+        "ItemId":  159324,
+        "Amount":  51
+    },
+    {
+        "StatId":  73,
+        "ItemId":  159324,
+        "Amount":  84
+    },
+    {
+        "StatId":  49,
+        "ItemId":  159324,
+        "Amount":  38
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159324,
+        "Amount":  125
+    },
+    {
+        "StatId":  32,
+        "ItemId":  159652,
+        "Amount":  38
+    },
+    {
+        "StatId":  36,
+        "ItemId":  159652,
+        "Amount":  42
+    },
+    {
+        "StatId":  5,
+        "ItemId":  159652,
+        "Amount":  74
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159652,
+        "Amount":  111
+    },
+    {
+        "StatId":  5,
+        "ItemId":  159624,
+        "Amount":  141
+    },
+    {
+        "StatId":  32,
+        "ItemId":  159443,
+        "Amount":  69
+    },
+    {
+        "StatId":  74,
+        "ItemId":  159443,
+        "Amount":  149
+    },
+    {
+        "StatId":  36,
+        "ItemId":  159443,
+        "Amount":  90
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159443,
+        "Amount":  223
+    },
+    {
+        "StatId":  40,
+        "ItemId":  159402,
+        "Amount":  42
+    },
+    {
+        "StatId":  73,
+        "ItemId":  159402,
+        "Amount":  111
+    },
+    {
+        "StatId":  36,
+        "ItemId":  159402,
+        "Amount":  77
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159402,
+        "Amount":  167
+    },
+    {
+        "StatId":  32,
+        "ItemId":  159344,
+        "Amount":  52
+    },
+    {
+        "StatId":  73,
+        "ItemId":  159344,
+        "Amount":  111
+    },
+    {
+        "StatId":  36,
+        "ItemId":  159344,
+        "Amount":  68
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159344,
+        "Amount":  167
+    },
+    {
+        "StatId":  40,
+        "ItemId":  159275,
+        "Amount":  51
+    },
+    {
+        "StatId":  32,
+        "ItemId":  159275,
+        "Amount":  38
+    },
+    {
+        "StatId":  5,
+        "ItemId":  159275,
+        "Amount":  84
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159275,
+        "Amount":  125
+    },
+    {
+        "StatId":  73,
+        "ItemId":  159325,
+        "Amount":  111
+    },
+    {
+        "StatId":  49,
+        "ItemId":  159325,
+        "Amount":  52
+    },
+    {
+        "StatId":  36,
+        "ItemId":  159325,
+        "Amount":  68
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159325,
+        "Amount":  167
+    },
+    {
+        "StatId":  40,
+        "ItemId":  159436,
+        "Amount":  55
+    },
+    {
+        "StatId":  74,
+        "ItemId":  159436,
+        "Amount":  111
+    },
+    {
+        "StatId":  36,
+        "ItemId":  159436,
+        "Amount":  65
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159436,
+        "Amount":  167
+    },
+    {
+        "StatId":  32,
+        "ItemId":  159433,
+        "Amount":  51
+    },
+    {
+        "StatId":  49,
+        "ItemId":  159433,
+        "Amount":  38
+    },
+    {
+        "StatId":  74,
+        "ItemId":  159433,
+        "Amount":  84
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159433,
+        "Amount":  125
+    },
+    {
+        "StatId":  32,
+        "ItemId":  159382,
+        "Amount":  68
+    },
+    {
+        "StatId":  40,
+        "ItemId":  159382,
+        "Amount":  52
+    },
+    {
+        "StatId":  73,
+        "ItemId":  159382,
+        "Amount":  111
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159382,
+        "Amount":  167
+    },
+    {
+        "StatId":  40,
+        "ItemId":  159396,
+        "Amount":  52
+    },
+    {
+        "StatId":  73,
+        "ItemId":  159396,
+        "Amount":  111
+    },
+    {
+        "StatId":  49,
+        "ItemId":  159396,
+        "Amount":  68
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159396,
+        "Amount":  167
+    },
+    {
+        "StatId":  32,
+        "ItemId":  159269,
+        "Amount":  94
+    },
+    {
+        "StatId":  36,
+        "ItemId":  159269,
+        "Amount":  66
+    },
+    {
+        "StatId":  5,
+        "ItemId":  159269,
+        "Amount":  149
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159269,
+        "Amount":  223
+    },
+    {
+        "StatId":  3,
+        "ItemId":  159653,
+        "Amount":  74
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159653,
+        "Amount":  111
+    },
+    {
+        "StatId":  32,
+        "ItemId":  159134,
+        "Amount":  33
+    },
+    {
+        "StatId":  49,
+        "ItemId":  159134,
+        "Amount":  47
+    },
+    {
+        "StatId":  3,
+        "ItemId":  159134,
+        "Amount":  74
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159134,
+        "Amount":  111
+    },
+    {
+        "StatId":  40,
+        "ItemId":  159292,
+        "Amount":  51
+    },
+    {
+        "StatId":  32,
+        "ItemId":  159292,
+        "Amount":  38
+    },
+    {
+        "StatId":  71,
+        "ItemId":  159292,
+        "Amount":  84
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159292,
+        "Amount":  125
+    },
+    {
+        "StatId":  40,
+        "ItemId":  159270,
+        "Amount":  73
+    },
+    {
+        "StatId":  49,
+        "ItemId":  159270,
+        "Amount":  47
+    },
+    {
+        "StatId":  5,
+        "ItemId":  159270,
+        "Amount":  111
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159270,
+        "Amount":  167
+    },
+    {
+        "StatId":  32,
+        "ItemId":  159338,
+        "Amount":  101
+    },
+    {
+        "StatId":  40,
+        "ItemId":  159338,
+        "Amount":  60
+    },
+    {
+        "StatId":  73,
+        "ItemId":  159338,
+        "Amount":  149
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159338,
+        "Amount":  223
+    },
+    {
+        "StatId":  40,
+        "ItemId":  159410,
+        "Amount":  47
+    },
+    {
+        "StatId":  49,
+        "ItemId":  159410,
+        "Amount":  73
+    },
+    {
+        "StatId":  74,
+        "ItemId":  159410,
+        "Amount":  111
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159410,
+        "Amount":  167
+    },
+    {
+        "StatId":  32,
+        "ItemId":  159384,
+        "Amount":  69
+    },
+    {
+        "StatId":  73,
+        "ItemId":  159384,
+        "Amount":  149
+    },
+    {
+        "StatId":  36,
+        "ItemId":  159384,
+        "Amount":  90
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159384,
+        "Amount":  223
+    },
+    {
+        "StatId":  72,
+        "ItemId":  159626,
+        "Amount":  141
+    },
+    {
+        "StatId":  32,
+        "ItemId":  159665,
+        "Amount":  51
+    },
+    {
+        "StatId":  49,
+        "ItemId":  159665,
+        "Amount":  38
+    },
+    {
+        "StatId":  4,
+        "ItemId":  159665,
+        "Amount":  84
+    },
+    {
+        "StatId":  5,
+        "ItemId":  159665,
+        "Amount":  256
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159665,
+        "Amount":  125
+    },
+    {
+        "StatId":  40,
+        "ItemId":  159654,
+        "Amount":  71
+    },
+    {
+        "StatId":  49,
+        "ItemId":  159654,
+        "Amount":  89
+    },
+    {
+        "StatId":  4,
+        "ItemId":  159654,
+        "Amount":  149
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159654,
+        "Amount":  223
+    },
+    {
+        "StatId":  73,
+        "ItemId":  159330,
+        "Amount":  283
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159330,
+        "Amount":  454
+    },
+    {
+        "StatId":  73,
+        "ItemId":  159323,
+        "Amount":  212
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159323,
+        "Amount":  340
+    },
+    {
+        "StatId":  40,
+        "ItemId":  159253,
+        "Amount":  44
+    },
+    {
+        "StatId":  36,
+        "ItemId":  159253,
+        "Amount":  75
+    },
+    {
+        "StatId":  5,
+        "ItemId":  159253,
+        "Amount":  111
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159253,
+        "Amount":  167
+    },
+    {
+        "StatId":  5,
+        "ItemId":  159241,
+        "Amount":  283
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159241,
+        "Amount":  454
+    },
+    {
+        "StatId":  5,
+        "ItemId":  159267,
+        "Amount":  212
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159267,
+        "Amount":  340
+    },
+    {
+        "StatId":  73,
+        "ItemId":  159381,
+        "Amount":  283
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159381,
+        "Amount":  454
+    },
+    {
+        "StatId":  73,
+        "ItemId":  159385,
+        "Amount":  212
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159385,
+        "Amount":  340
+    },
+    {
+        "StatId":  74,
+        "ItemId":  159432,
+        "Amount":  283
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159432,
+        "Amount":  454
+    },
+    {
+        "StatId":  74,
+        "ItemId":  159446,
+        "Amount":  283
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159446,
+        "Amount":  454
+    },
+    {
+        "StatId":  49,
+        "ItemId":  159625,
+        "Amount":  114
+    },
+    {
+        "StatId":  49,
+        "ItemId":  159655,
+        "Amount":  89
+    },
+    {
+        "StatId":  3,
+        "ItemId":  159655,
+        "Amount":  149
+    },
+    {
+        "StatId":  36,
+        "ItemId":  159655,
+        "Amount":  71
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159655,
+        "Amount":  223
+    },
+    {
+        "StatId":  32,
+        "ItemId":  162541,
+        "Amount":  112
+    },
+    {
+        "StatId":  49,
+        "ItemId":  162541,
+        "Amount":  169
+    },
+    {
+        "StatId":  7,
+        "ItemId":  162541,
+        "Amount":  125
+    },
+    {
+        "StatId":  32,
+        "ItemId":  159972,
+        "Amount":  88
+    },
+    {
+        "StatId":  49,
+        "ItemId":  159972,
+        "Amount":  72
+    },
+    {
+        "StatId":  4,
+        "ItemId":  159972,
+        "Amount":  149
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159972,
+        "Amount":  223
+    },
+    {
+        "StatId":  49,
+        "ItemId":  159965,
+        "Amount":  52
+    },
+    {
+        "StatId":  36,
+        "ItemId":  159965,
+        "Amount":  68
+    },
+    {
+        "StatId":  5,
+        "ItemId":  159965,
+        "Amount":  111
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159965,
+        "Amount":  167
+    },
+    {
+        "StatId":  40,
+        "ItemId":  159973,
+        "Amount":  45
+    },
+    {
+        "StatId":  49,
+        "ItemId":  159973,
+        "Amount":  34
+    },
+    {
+        "StatId":  3,
+        "ItemId":  159973,
+        "Amount":  74
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159973,
+        "Amount":  111
+    },
+    {
+        "StatId":  40,
+        "ItemId":  159969,
+        "Amount":  94
+    },
+    {
+        "StatId":  73,
+        "ItemId":  159969,
+        "Amount":  149
+    },
+    {
+        "StatId":  49,
+        "ItemId":  159969,
+        "Amount":  66
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159969,
+        "Amount":  223
+    },
+    {
+        "StatId":  40,
+        "ItemId":  159427,
+        "Amount":  66
+    },
+    {
+        "StatId":  49,
+        "ItemId":  159427,
+        "Amount":  94
+    },
+    {
+        "StatId":  74,
+        "ItemId":  159427,
+        "Amount":  149
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159427,
+        "Amount":  223
+    },
+    {
+        "StatId":  40,
+        "ItemId":  159251,
+        "Amount":  68
+    },
+    {
+        "StatId":  32,
+        "ItemId":  159251,
+        "Amount":  52
+    },
+    {
+        "StatId":  5,
+        "ItemId":  159251,
+        "Amount":  111
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159251,
+        "Amount":  167
+    },
+    {
+        "StatId":  32,
+        "ItemId":  159434,
+        "Amount":  62
+    },
+    {
+        "StatId":  40,
+        "ItemId":  159434,
+        "Amount":  57
+    },
+    {
+        "StatId":  74,
+        "ItemId":  159434,
+        "Amount":  111
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159434,
+        "Amount":  167
+    },
+    {
+        "StatId":  32,
+        "ItemId":  159309,
+        "Amount":  42
+    },
+    {
+        "StatId":  73,
+        "ItemId":  159309,
+        "Amount":  111
+    },
+    {
+        "StatId":  36,
+        "ItemId":  159309,
+        "Amount":  77
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159309,
+        "Amount":  167
+    },
+    {
+        "StatId":  3,
+        "ItemId":  159623,
+        "Amount":  141
+    },
+    {
+        "StatId":  32,
+        "ItemId":  159429,
+        "Amount":  75
+    },
+    {
+        "StatId":  49,
+        "ItemId":  159429,
+        "Amount":  44
+    },
+    {
+        "StatId":  74,
+        "ItemId":  159429,
+        "Amount":  111
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159429,
+        "Amount":  167
+    },
+    {
+        "StatId":  73,
+        "ItemId":  159379,
+        "Amount":  111
+    },
+    {
+        "StatId":  49,
+        "ItemId":  159379,
+        "Amount":  81
+    },
+    {
+        "StatId":  36,
+        "ItemId":  159379,
+        "Amount":  39
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159379,
+        "Amount":  167
+    },
+    {
+        "StatId":  40,
+        "ItemId":  159649,
+        "Amount":  42
+    },
+    {
+        "StatId":  49,
+        "ItemId":  159649,
+        "Amount":  38
+    },
+    {
+        "StatId":  4,
+        "ItemId":  159649,
+        "Amount":  74
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159649,
+        "Amount":  111
+    },
+    {
+        "StatId":  32,
+        "ItemId":  159237,
+        "Amount":  70
+    },
+    {
+        "StatId":  49,
+        "ItemId":  159237,
+        "Amount":  49
+    },
+    {
+        "StatId":  5,
+        "ItemId":  159237,
+        "Amount":  111
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159237,
+        "Amount":  167
+    },
+    {
+        "StatId":  40,
+        "ItemId":  159250,
+        "Amount":  101
+    },
+    {
+        "StatId":  36,
+        "ItemId":  159250,
+        "Amount":  60
+    },
+    {
+        "StatId":  5,
+        "ItemId":  159250,
+        "Amount":  149
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159250,
+        "Amount":  223
+    },
+    {
+        "StatId":  40,
+        "ItemId":  159320,
+        "Amount":  75
+    },
+    {
+        "StatId":  32,
+        "ItemId":  159320,
+        "Amount":  44
+    },
+    {
+        "StatId":  73,
+        "ItemId":  159320,
+        "Amount":  111
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159320,
+        "Amount":  167
+    },
+    {
+        "StatId":  40,
+        "ItemId":  159372,
+        "Amount":  52
+    },
+    {
+        "StatId":  73,
+        "ItemId":  159372,
+        "Amount":  84
+    },
+    {
+        "StatId":  36,
+        "ItemId":  159372,
+        "Amount":  37
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159372,
+        "Amount":  125
+    },
+    {
+        "StatId":  32,
+        "ItemId":  159461,
+        "Amount":  148
+    },
+    {
+        "StatId":  36,
+        "ItemId":  159461,
+        "Amount":  133
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159461,
+        "Amount":  125
+    },
+    {
+        "StatId":  32,
+        "ItemId":  159428,
+        "Amount":  49
+    },
+    {
+        "StatId":  74,
+        "ItemId":  159428,
+        "Amount":  111
+    },
+    {
+        "StatId":  36,
+        "ItemId":  159428,
+        "Amount":  70
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159428,
+        "Amount":  167
+    },
+    {
+        "StatId":  5,
+        "ItemId":  159622,
+        "Amount":  141
+    },
+    {
+        "StatId":  32,
+        "ItemId":  159322,
+        "Amount":  90
+    },
+    {
+        "StatId":  73,
+        "ItemId":  159322,
+        "Amount":  149
+    },
+    {
+        "StatId":  36,
+        "ItemId":  159322,
+        "Amount":  69
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159322,
+        "Amount":  223
+    },
+    {
+        "StatId":  40,
+        "ItemId":  159650,
+        "Amount":  94
+    },
+    {
+        "StatId":  32,
+        "ItemId":  159650,
+        "Amount":  65
+    },
+    {
+        "StatId":  4,
+        "ItemId":  159650,
+        "Amount":  149
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159650,
+        "Amount":  223
+    },
+    {
+        "StatId":  73,
+        "ItemId":  159314,
+        "Amount":  283
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159314,
+        "Amount":  454
+    },
+    {
+        "StatId":  73,
+        "ItemId":  159310,
+        "Amount":  283
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159310,
+        "Amount":  454
+    },
+    {
+        "StatId":  32,
+        "ItemId":  159651,
+        "Amount":  37
+    },
+    {
+        "StatId":  49,
+        "ItemId":  159651,
+        "Amount":  42
+    },
+    {
+        "StatId":  3,
+        "ItemId":  159651,
+        "Amount":  74
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159651,
+        "Amount":  111
+    },
+    {
+        "StatId":  5,
+        "ItemId":  159252,
+        "Amount":  283
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159252,
+        "Amount":  454
+    },
+    {
+        "StatId":  74,
+        "ItemId":  159416,
+        "Amount":  283
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159416,
+        "Amount":  454
+    },
+    {
+        "StatId":  73,
+        "ItemId":  159376,
+        "Amount":  212
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159376,
+        "Amount":  340
+    },
+    {
+        "StatId":  49,
+        "ItemId":  159256,
+        "Amount":  55
+    },
+    {
+        "StatId":  36,
+        "ItemId":  159256,
+        "Amount":  35
+    },
+    {
+        "StatId":  5,
+        "ItemId":  159256,
+        "Amount":  84
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159256,
+        "Amount":  125
+    },
+    {
+        "StatId":  74,
+        "ItemId":  159431,
+        "Amount":  212
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159431,
+        "Amount":  340
+    },
+    {
+        "StatId":  73,
+        "ItemId":  159362,
+        "Amount":  283
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159362,
+        "Amount":  454
+    },
+    {
+        "StatId":  32,
+        "ItemId":  159380,
+        "Amount":  55
+    },
+    {
+        "StatId":  73,
+        "ItemId":  159380,
+        "Amount":  84
+    },
+    {
+        "StatId":  36,
+        "ItemId":  159380,
+        "Amount":  35
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159380,
+        "Amount":  125
+    },
+    {
+        "StatId":  32,
+        "ItemId":  159263,
+        "Amount":  52
+    },
+    {
+        "StatId":  40,
+        "ItemId":  159263,
+        "Amount":  37
+    },
+    {
+        "StatId":  5,
+        "ItemId":  159263,
+        "Amount":  84
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159263,
+        "Amount":  125
+    },
+    {
+        "StatId":  40,
+        "ItemId":  159329,
+        "Amount":  73
+    },
+    {
+        "StatId":  73,
+        "ItemId":  159329,
+        "Amount":  149
+    },
+    {
+        "StatId":  49,
+        "ItemId":  159329,
+        "Amount":  87
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159329,
+        "Amount":  223
+    },
+    {
+        "StatId":  40,
+        "ItemId":  159435,
+        "Amount":  101
+    },
+    {
+        "StatId":  32,
+        "ItemId":  159435,
+        "Amount":  60
+    },
+    {
+        "StatId":  74,
+        "ItemId":  159435,
+        "Amount":  149
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159435,
+        "Amount":  223
+    },
+    {
+        "StatId":  40,
+        "ItemId":  159388,
+        "Amount":  68
+    },
+    {
+        "StatId":  32,
+        "ItemId":  159388,
+        "Amount":  52
+    },
+    {
+        "StatId":  73,
+        "ItemId":  159388,
+        "Amount":  111
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159388,
+        "Amount":  167
+    },
+    {
+        "StatId":  32,
+        "ItemId":  159259,
+        "Amount":  47
+    },
+    {
+        "StatId":  36,
+        "ItemId":  159259,
+        "Amount":  73
+    },
+    {
+        "StatId":  5,
+        "ItemId":  159259,
+        "Amount":  111
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159259,
+        "Amount":  167
+    },
+    {
+        "StatId":  40,
+        "ItemId":  159425,
+        "Amount":  52
+    },
+    {
+        "StatId":  74,
+        "ItemId":  159425,
+        "Amount":  84
+    },
+    {
+        "StatId":  36,
+        "ItemId":  159425,
+        "Amount":  37
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159425,
+        "Amount":  125
+    },
+    {
+        "StatId":  49,
+        "ItemId":  159636,
+        "Amount":  65
+    },
+    {
+        "StatId":  36,
+        "ItemId":  159636,
+        "Amount":  94
+    },
+    {
+        "StatId":  5,
+        "ItemId":  159636,
+        "Amount":  149
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159636,
+        "Amount":  223
+    },
+    {
+        "StatId":  32,
+        "ItemId":  158370,
+        "Amount":  64
+    },
+    {
+        "StatId":  3,
+        "ItemId":  158370,
+        "Amount":  149
+    },
+    {
+        "StatId":  36,
+        "ItemId":  158370,
+        "Amount":  96
+    },
+    {
+        "StatId":  7,
+        "ItemId":  158370,
+        "Amount":  223
+    },
+    {
+        "StatId":  73,
+        "ItemId":  159317,
+        "Amount":  111
+    },
+    {
+        "StatId":  49,
+        "ItemId":  159317,
+        "Amount":  73
+    },
+    {
+        "StatId":  36,
+        "ItemId":  159317,
+        "Amount":  47
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159317,
+        "Amount":  167
+    },
+    {
+        "StatId":  40,
+        "ItemId":  162544,
+        "Amount":  104
+    },
+    {
+        "StatId":  49,
+        "ItemId":  162544,
+        "Amount":  177
+    },
+    {
+        "StatId":  7,
+        "ItemId":  162544,
+        "Amount":  125
+    },
+    {
+        "StatId":  49,
+        "ItemId":  159255,
+        "Amount":  70
+    },
+    {
+        "StatId":  36,
+        "ItemId":  159255,
+        "Amount":  49
+    },
+    {
+        "StatId":  5,
+        "ItemId":  159255,
+        "Amount":  111
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159255,
+        "Amount":  167
+    },
+    {
+        "StatId":  32,
+        "ItemId":  159327,
+        "Amount":  49
+    },
+    {
+        "StatId":  73,
+        "ItemId":  159327,
+        "Amount":  111
+    },
+    {
+        "StatId":  36,
+        "ItemId":  159327,
+        "Amount":  70
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159327,
+        "Amount":  167
+    },
+    {
+        "StatId":  49,
+        "ItemId":  159437,
+        "Amount":  47
+    },
+    {
+        "StatId":  74,
+        "ItemId":  159437,
+        "Amount":  111
+    },
+    {
+        "StatId":  36,
+        "ItemId":  159437,
+        "Amount":  73
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159437,
+        "Amount":  167
+    },
+    {
+        "StatId":  4,
+        "ItemId":  158367,
+        "Amount":  141
+    },
+    {
+        "StatId":  40,
+        "ItemId":  159375,
+        "Amount":  94
+    },
+    {
+        "StatId":  73,
+        "ItemId":  159375,
+        "Amount":  149
+    },
+    {
+        "StatId":  36,
+        "ItemId":  159375,
+        "Amount":  66
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159375,
+        "Amount":  223
+    },
+    {
+        "StatId":  40,
+        "ItemId":  158714,
+        "Amount":  46
+    },
+    {
+        "StatId":  49,
+        "ItemId":  158714,
+        "Amount":  34
+    },
+    {
+        "StatId":  3,
+        "ItemId":  158714,
+        "Amount":  74
+    },
+    {
+        "StatId":  7,
+        "ItemId":  158714,
+        "Amount":  111
+    },
+    {
+        "StatId":  32,
+        "ItemId":  159637,
+        "Amount":  90
+    },
+    {
+        "StatId":  3,
+        "ItemId":  159637,
+        "Amount":  149
+    },
+    {
+        "StatId":  36,
+        "ItemId":  159637,
+        "Amount":  69
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159637,
+        "Amount":  223
+    },
+    {
+        "StatId":  32,
+        "ItemId":  158366,
+        "Amount":  161
+    },
+    {
+        "StatId":  49,
+        "ItemId":  158366,
+        "Amount":  120
+    },
+    {
+        "StatId":  7,
+        "ItemId":  158366,
+        "Amount":  125
+    },
+    {
+        "StatId":  32,
+        "ItemId":  159247,
+        "Amount":  81
+    },
+    {
+        "StatId":  36,
+        "ItemId":  159247,
+        "Amount":  39
+    },
+    {
+        "StatId":  5,
+        "ItemId":  159247,
+        "Amount":  111
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159247,
+        "Amount":  167
+    },
+    {
+        "StatId":  3,
+        "ItemId":  158374,
+        "Amount":  141
+    },
+    {
+        "StatId":  40,
+        "ItemId":  159442,
+        "Amount":  75
+    },
+    {
+        "StatId":  49,
+        "ItemId":  159442,
+        "Amount":  44
+    },
+    {
+        "StatId":  74,
+        "ItemId":  159442,
+        "Amount":  111
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159442,
+        "Amount":  167
+    },
+    {
+        "StatId":  40,
+        "ItemId":  158369,
+        "Amount":  33
+    },
+    {
+        "StatId":  36,
+        "ItemId":  158369,
+        "Amount":  47
+    },
+    {
+        "StatId":  5,
+        "ItemId":  158369,
+        "Amount":  74
+    },
+    {
+        "StatId":  7,
+        "ItemId":  158369,
+        "Amount":  111
+    },
+    {
+        "StatId":  40,
+        "ItemId":  159664,
+        "Amount":  48
+    },
+    {
+        "StatId":  32,
+        "ItemId":  159664,
+        "Amount":  41
+    },
+    {
+        "StatId":  4,
+        "ItemId":  159664,
+        "Amount":  84
+    },
+    {
+        "StatId":  5,
+        "ItemId":  159664,
+        "Amount":  256
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159664,
+        "Amount":  125
+    },
+    {
+        "StatId":  5,
+        "ItemId":  159254,
+        "Amount":  212
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159254,
+        "Amount":  340
+    },
+    {
+        "StatId":  74,
+        "ItemId":  159439,
+        "Amount":  212
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159439,
+        "Amount":  340
+    },
+    {
+        "StatId":  73,
+        "ItemId":  159370,
+        "Amount":  283
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159370,
+        "Amount":  454
+    },
+    {
+        "StatId":  74,
+        "ItemId":  159424,
+        "Amount":  283
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159424,
+        "Amount":  454
+    },
+    {
+        "StatId":  5,
+        "ItemId":  158368,
+        "Amount":  141
+    },
+    {
+        "StatId":  32,
+        "ItemId":  159337,
+        "Amount":  65
+    },
+    {
+        "StatId":  40,
+        "ItemId":  159337,
+        "Amount":  55
+    },
+    {
+        "StatId":  73,
+        "ItemId":  159337,
+        "Amount":  111
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159337,
+        "Amount":  167
+    },
+    {
+        "StatId":  73,
+        "ItemId":  159318,
+        "Amount":  283
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159318,
+        "Amount":  454
+    },
+    {
+        "StatId":  32,
+        "ItemId":  158373,
+        "Amount":  45
+    },
+    {
+        "StatId":  4,
+        "ItemId":  158373,
+        "Amount":  74
+    },
+    {
+        "StatId":  36,
+        "ItemId":  158373,
+        "Amount":  34
+    },
+    {
+        "StatId":  7,
+        "ItemId":  158373,
+        "Amount":  111
+    },
+    {
+        "StatId":  5,
+        "ItemId":  159257,
+        "Amount":  283
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159257,
+        "Amount":  454
+    },
+    {
+        "StatId":  73,
+        "ItemId":  159374,
+        "Amount":  283
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159374,
+        "Amount":  454
+    },
+    {
+        "StatId":  32,
+        "ItemId":  158318,
+        "Amount":  201
+    },
+    {
+        "StatId":  49,
+        "ItemId":  158318,
+        "Amount":  81
+    },
+    {
+        "StatId":  7,
+        "ItemId":  158318,
+        "Amount":  125
+    },
+    {
+        "StatId":  40,
+        "ItemId":  159321,
+        "Amount":  68
+    },
+    {
+        "StatId":  73,
+        "ItemId":  159321,
+        "Amount":  111
+    },
+    {
+        "StatId":  36,
+        "ItemId":  159321,
+        "Amount":  52
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159321,
+        "Amount":  167
+    },
+    {
+        "StatId":  32,
+        "ItemId":  159239,
+        "Amount":  52
+    },
+    {
+        "StatId":  49,
+        "ItemId":  159239,
+        "Amount":  68
+    },
+    {
+        "StatId":  5,
+        "ItemId":  159239,
+        "Amount":  111
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159239,
+        "Amount":  167
+    },
+    {
+        "StatId":  32,
+        "ItemId":  159366,
+        "Amount":  47
+    },
+    {
+        "StatId":  73,
+        "ItemId":  159366,
+        "Amount":  111
+    },
+    {
+        "StatId":  36,
+        "ItemId":  159366,
+        "Amount":  73
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159366,
+        "Amount":  167
+    },
+    {
+        "StatId":  40,
+        "ItemId":  159420,
+        "Amount":  75
+    },
+    {
+        "StatId":  74,
+        "ItemId":  159420,
+        "Amount":  111
+    },
+    {
+        "StatId":  36,
+        "ItemId":  159420,
+        "Amount":  44
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159420,
+        "Amount":  167
+    },
+    {
+        "StatId":  4,
+        "ItemId":  159619,
+        "Amount":  141
+    },
+    {
+        "StatId":  32,
+        "ItemId":  159426,
+        "Amount":  52
+    },
+    {
+        "StatId":  74,
+        "ItemId":  159426,
+        "Amount":  111
+    },
+    {
+        "StatId":  36,
+        "ItemId":  159426,
+        "Amount":  68
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159426,
+        "Amount":  167
+    },
+    {
+        "StatId":  49,
+        "ItemId":  159311,
+        "Amount":  44
+    },
+    {
+        "StatId":  36,
+        "ItemId":  159311,
+        "Amount":  75
+    },
+    {
+        "StatId":  5,
+        "ItemId":  159311,
+        "Amount":  111
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159311,
+        "Amount":  167
+    },
+    {
+        "StatId":  32,
+        "ItemId":  159295,
+        "Amount":  73
+    },
+    {
+        "StatId":  73,
+        "ItemId":  159295,
+        "Amount":  111
+    },
+    {
+        "StatId":  36,
+        "ItemId":  159295,
+        "Amount":  47
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159295,
+        "Amount":  167
+    },
+    {
+        "StatId":  3,
+        "ItemId":  159614,
+        "Amount":  141
+    },
+    {
+        "StatId":  32,
+        "ItemId":  159419,
+        "Amount":  90
+    },
+    {
+        "StatId":  49,
+        "ItemId":  159419,
+        "Amount":  69
+    },
+    {
+        "StatId":  74,
+        "ItemId":  159419,
+        "Amount":  149
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159419,
+        "Amount":  223
+    },
+    {
+        "StatId":  32,
+        "ItemId":  159359,
+        "Amount":  52
+    },
+    {
+        "StatId":  73,
+        "ItemId":  159359,
+        "Amount":  149
+    },
+    {
+        "StatId":  49,
+        "ItemId":  159359,
+        "Amount":  107
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159359,
+        "Amount":  223
+    },
+    {
+        "StatId":  5,
+        "ItemId":  158371,
+        "Amount":  149
+    },
+    {
+        "StatId":  7,
+        "ItemId":  158371,
+        "Amount":  223
+    },
+    {
+        "StatId":  40,
+        "ItemId":  159289,
+        "Amount":  31
+    },
+    {
+        "StatId":  49,
+        "ItemId":  159289,
+        "Amount":  58
+    },
+    {
+        "StatId":  71,
+        "ItemId":  159289,
+        "Amount":  84
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159289,
+        "Amount":  125
+    },
+    {
+        "StatId":  40,
+        "ItemId":  159364,
+        "Amount":  58
+    },
+    {
+        "StatId":  73,
+        "ItemId":  159364,
+        "Amount":  84
+    },
+    {
+        "StatId":  49,
+        "ItemId":  159364,
+        "Amount":  31
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159364,
+        "Amount":  125
+    },
+    {
+        "StatId":  40,
+        "ItemId":  159308,
+        "Amount":  51
+    },
+    {
+        "StatId":  73,
+        "ItemId":  159308,
+        "Amount":  84
+    },
+    {
+        "StatId":  49,
+        "ItemId":  159308,
+        "Amount":  38
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159308,
+        "Amount":  125
+    },
+    {
+        "StatId":  40,
+        "ItemId":  159421,
+        "Amount":  49
+    },
+    {
+        "StatId":  74,
+        "ItemId":  159421,
+        "Amount":  111
+    },
+    {
+        "StatId":  36,
+        "ItemId":  159421,
+        "Amount":  70
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159421,
+        "Amount":  167
+    },
+    {
+        "StatId":  32,
+        "ItemId":  159242,
+        "Amount":  87
+    },
+    {
+        "StatId":  40,
+        "ItemId":  159242,
+        "Amount":  73
+    },
+    {
+        "StatId":  5,
+        "ItemId":  159242,
+        "Amount":  149
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159242,
+        "Amount":  223
+    },
+    {
+        "StatId":  40,
+        "ItemId":  159646,
+        "Amount":  48
+    },
+    {
+        "StatId":  36,
+        "ItemId":  159646,
+        "Amount":  31
+    },
+    {
+        "StatId":  5,
+        "ItemId":  159646,
+        "Amount":  74
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159646,
+        "Amount":  111
+    },
+    {
+        "StatId":  74,
+        "ItemId":  159408,
+        "Amount":  283
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159408,
+        "Amount":  454
+    },
+    {
+        "StatId":  5,
+        "ItemId":  159620,
+        "Amount":  141
+    },
+    {
+        "StatId":  73,
+        "ItemId":  159302,
+        "Amount":  283
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159302,
+        "Amount":  454
+    },
+    {
+        "StatId":  74,
+        "ItemId":  159430,
+        "Amount":  283
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159430,
+        "Amount":  454
+    },
+    {
+        "StatId":  73,
+        "ItemId":  159307,
+        "Amount":  212
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159307,
+        "Amount":  340
+    },
+    {
+        "StatId":  32,
+        "ItemId":  159377,
+        "Amount":  75
+    },
+    {
+        "StatId":  73,
+        "ItemId":  159377,
+        "Amount":  111
+    },
+    {
+        "StatId":  49,
+        "ItemId":  159377,
+        "Amount":  44
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159377,
+        "Amount":  167
+    },
+    {
+        "StatId":  73,
+        "ItemId":  159354,
+        "Amount":  283
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159354,
+        "Amount":  454
+    },
+    {
+        "StatId":  5,
+        "ItemId":  159238,
+        "Amount":  212
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159238,
+        "Amount":  340
+    },
+    {
+        "StatId":  5,
+        "ItemId":  159244,
+        "Amount":  283
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159244,
+        "Amount":  454
+    },
+    {
+        "StatId":  32,
+        "ItemId":  159135,
+        "Amount":  47
+    },
+    {
+        "StatId":  40,
+        "ItemId":  159135,
+        "Amount":  32
+    },
+    {
+        "StatId":  3,
+        "ItemId":  159135,
+        "Amount":  74
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159135,
+        "Amount":  111
+    },
+    {
+        "StatId":  40,
+        "ItemId":  159412,
+        "Amount":  70
+    },
+    {
+        "StatId":  32,
+        "ItemId":  159412,
+        "Amount":  49
+    },
+    {
+        "StatId":  74,
+        "ItemId":  159412,
+        "Amount":  111
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159412,
+        "Amount":  167
+    },
+    {
+        "StatId":  32,
+        "ItemId":  159234,
+        "Amount":  90
+    },
+    {
+        "StatId":  49,
+        "ItemId":  159234,
+        "Amount":  69
+    },
+    {
+        "StatId":  5,
+        "ItemId":  159234,
+        "Amount":  149
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159234,
+        "Amount":  223
+    },
+    {
+        "StatId":  40,
+        "ItemId":  159137,
+        "Amount":  45
+    },
+    {
+        "StatId":  36,
+        "ItemId":  159137,
+        "Amount":  34
+    },
+    {
+        "StatId":  5,
+        "ItemId":  159137,
+        "Amount":  74
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159137,
+        "Amount":  111
+    },
+    {
+        "StatId":  40,
+        "ItemId":  159304,
+        "Amount":  68
+    },
+    {
+        "StatId":  73,
+        "ItemId":  159304,
+        "Amount":  111
+    },
+    {
+        "StatId":  49,
+        "ItemId":  159304,
+        "Amount":  52
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159304,
+        "Amount":  167
+    },
+    {
+        "StatId":  32,
+        "ItemId":  159413,
+        "Amount":  39
+    },
+    {
+        "StatId":  49,
+        "ItemId":  159413,
+        "Amount":  81
+    },
+    {
+        "StatId":  74,
+        "ItemId":  159413,
+        "Amount":  111
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159413,
+        "Amount":  167
+    },
+    {
+        "StatId":  3,
+        "ItemId":  159617,
+        "Amount":  141
+    },
+    {
+        "StatId":  40,
+        "ItemId":  159313,
+        "Amount":  94
+    },
+    {
+        "StatId":  73,
+        "ItemId":  159313,
+        "Amount":  149
+    },
+    {
+        "StatId":  36,
+        "ItemId":  159313,
+        "Amount":  66
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159313,
+        "Amount":  223
+    },
+    {
+        "StatId":  40,
+        "ItemId":  159369,
+        "Amount":  68
+    },
+    {
+        "StatId":  73,
+        "ItemId":  159369,
+        "Amount":  111
+    },
+    {
+        "StatId":  36,
+        "ItemId":  159369,
+        "Amount":  52
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159369,
+        "Amount":  167
+    },
+    {
+        "StatId":  36,
+        "ItemId":  159459,
+        "Amount":  185
+    },
+    {
+        "StatId":  40,
+        "ItemId":  159459,
+        "Amount":  96
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159459,
+        "Amount":  125
+    },
+    {
+        "StatId":  49,
+        "ItemId":  159667,
+        "Amount":  55
+    },
+    {
+        "StatId":  36,
+        "ItemId":  159667,
+        "Amount":  35
+    },
+    {
+        "StatId":  5,
+        "ItemId":  159667,
+        "Amount":  256
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159667,
+        "Amount":  125
+    },
+    {
+        "StatId":  32,
+        "ItemId":  159409,
+        "Amount":  55
+    },
+    {
+        "StatId":  74,
+        "ItemId":  159409,
+        "Amount":  84
+    },
+    {
+        "StatId":  36,
+        "ItemId":  159409,
+        "Amount":  35
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159409,
+        "Amount":  125
+    },
+    {
+        "StatId":  32,
+        "ItemId":  159312,
+        "Amount":  73
+    },
+    {
+        "StatId":  73,
+        "ItemId":  159312,
+        "Amount":  111
+    },
+    {
+        "StatId":  49,
+        "ItemId":  159312,
+        "Amount":  47
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159312,
+        "Amount":  167
+    },
+    {
+        "StatId":  72,
+        "ItemId":  159618,
+        "Amount":  141
+    },
+    {
+        "StatId":  32,
+        "ItemId":  159642,
+        "Amount":  90
+    },
+    {
+        "StatId":  49,
+        "ItemId":  159642,
+        "Amount":  69
+    },
+    {
+        "StatId":  3,
+        "ItemId":  159642,
+        "Amount":  149
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159642,
+        "Amount":  223
+    },
+    {
+        "StatId":  73,
+        "ItemId":  160213,
+        "Amount":  111
+    },
+    {
+        "StatId":  49,
+        "ItemId":  160213,
+        "Amount":  68
+    },
+    {
+        "StatId":  36,
+        "ItemId":  160213,
+        "Amount":  52
+    },
+    {
+        "StatId":  7,
+        "ItemId":  160213,
+        "Amount":  167
+    },
+    {
+        "StatId":  40,
+        "ItemId":  159371,
+        "Amount":  70
+    },
+    {
+        "StatId":  73,
+        "ItemId":  159371,
+        "Amount":  111
+    },
+    {
+        "StatId":  49,
+        "ItemId":  159371,
+        "Amount":  49
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159371,
+        "Amount":  167
+    },
+    {
+        "StatId":  40,
+        "ItemId":  159288,
+        "Amount":  48
+    },
+    {
+        "StatId":  49,
+        "ItemId":  159288,
+        "Amount":  41
+    },
+    {
+        "StatId":  71,
+        "ItemId":  159288,
+        "Amount":  84
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159288,
+        "Amount":  125
+    },
+    {
+        "StatId":  32,
+        "ItemId":  160216,
+        "Amount":  47
+    },
+    {
+        "StatId":  49,
+        "ItemId":  160216,
+        "Amount":  32
+    },
+    {
+        "StatId":  5,
+        "ItemId":  160216,
+        "Amount":  74
+    },
+    {
+        "StatId":  7,
+        "ItemId":  160216,
+        "Amount":  111
+    },
+    {
+        "StatId":  49,
+        "ItemId":  159643,
+        "Amount":  68
+    },
+    {
+        "StatId":  3,
+        "ItemId":  159643,
+        "Amount":  149
+    },
+    {
+        "StatId":  36,
+        "ItemId":  159643,
+        "Amount":  91
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159643,
+        "Amount":  223
+    },
+    {
+        "StatId":  49,
+        "ItemId":  159418,
+        "Amount":  44
+    },
+    {
+        "StatId":  74,
+        "ItemId":  159418,
+        "Amount":  111
+    },
+    {
+        "StatId":  36,
+        "ItemId":  159418,
+        "Amount":  75
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159418,
+        "Amount":  167
+    },
+    {
+        "StatId":  49,
+        "ItemId":  159136,
+        "Amount":  38
+    },
+    {
+        "StatId":  3,
+        "ItemId":  159136,
+        "Amount":  74
+    },
+    {
+        "StatId":  36,
+        "ItemId":  159136,
+        "Amount":  41
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159136,
+        "Amount":  111
+    },
+    {
+        "StatId":  32,
+        "ItemId":  159300,
+        "Amount":  56
+    },
+    {
+        "StatId":  40,
+        "ItemId":  159300,
+        "Amount":  33
+    },
+    {
+        "StatId":  73,
+        "ItemId":  159300,
+        "Amount":  84
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159300,
+        "Amount":  125
+    },
+    {
+        "StatId":  40,
+        "ItemId":  159243,
+        "Amount":  77
+    },
+    {
+        "StatId":  36,
+        "ItemId":  159243,
+        "Amount":  42
+    },
+    {
+        "StatId":  5,
+        "ItemId":  159243,
+        "Amount":  111
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159243,
+        "Amount":  167
+    },
+    {
+        "StatId":  4,
+        "ItemId":  159644,
+        "Amount":  149
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159644,
+        "Amount":  223
+    },
+    {
+        "StatId":  32,
+        "ItemId":  159645,
+        "Amount":  33
+    },
+    {
+        "StatId":  49,
+        "ItemId":  159645,
+        "Amount":  47
+    },
+    {
+        "StatId":  3,
+        "ItemId":  159645,
+        "Amount":  74
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159645,
+        "Amount":  111
+    },
+    {
+        "StatId":  5,
+        "ItemId":  159236,
+        "Amount":  283
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159236,
+        "Amount":  454
+    },
+    {
+        "StatId":  74,
+        "ItemId":  159422,
+        "Amount":  283
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159422,
+        "Amount":  454
+    },
+    {
+        "StatId":  73,
+        "ItemId":  158355,
+        "Amount":  283
+    },
+    {
+        "StatId":  7,
+        "ItemId":  158355,
+        "Amount":  454
+    },
+    {
+        "StatId":  5,
+        "ItemId":  158344,
+        "Amount":  212
+    },
+    {
+        "StatId":  7,
+        "ItemId":  158344,
+        "Amount":  340
+    },
+    {
+        "StatId":  74,
+        "ItemId":  159423,
+        "Amount":  212
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159423,
+        "Amount":  340
+    },
+    {
+        "StatId":  32,
+        "ItemId":  159301,
+        "Amount":  68
+    },
+    {
+        "StatId":  73,
+        "ItemId":  159301,
+        "Amount":  111
+    },
+    {
+        "StatId":  36,
+        "ItemId":  159301,
+        "Amount":  52
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159301,
+        "Amount":  167
+    },
+    {
+        "StatId":  73,
+        "ItemId":  159368,
+        "Amount":  212
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159368,
+        "Amount":  340
+    },
+    {
+        "StatId":  73,
+        "ItemId":  159303,
+        "Amount":  283
+    },
+    {
+        "StatId":  7,
+        "ItemId":  159303,
+        "Amount":  454
+    },
+    {
+        "StatId":  40,
+        "ItemId":  160622,
+        "Amount":  394
+    },
+    {
+        "StatId":  73,
+        "ItemId":  160622,
+        "Amount":  21577
+    },
+    {
+        "StatId":  49,
+        "ItemId":  160622,
+        "Amount":  666
+    },
+    {
+        "StatId":  7,
+        "ItemId":  160622,
+        "Amount":  42852
+    },
+    {
+        "StatId":  3,
+        "ItemId":  160652,
+        "Amount":  27349
+    },
+    {
+        "StatId":  49,
+        "ItemId":  160639,
+        "Amount":  464
+    },
+    {
+        "StatId":  74,
+        "ItemId":  160639,
+        "Amount":  28769
+    },
+    {
+        "StatId":  36,
+        "ItemId":  160639,
+        "Amount":  949
+    },
+    {
+        "StatId":  7,
+        "ItemId":  160639,
+        "Amount":  57137
+    },
+    {
+        "StatId":  40,
+        "ItemId":  160637,
+        "Amount":  449
+    },
+    {
+        "StatId":  32,
+        "ItemId":  160637,
+        "Amount":  346
+    },
+    {
+        "StatId":  74,
+        "ItemId":  160637,
+        "Amount":  16182
+    },
+    {
+        "StatId":  7,
+        "ItemId":  160637,
+        "Amount":  32139
+    },
+    {
+        "StatId":  32,
+        "ItemId":  160618,
+        "Amount":  394
+    },
+    {
+        "StatId":  73,
+        "ItemId":  160618,
+        "Amount":  21577
+    },
+    {
+        "StatId":  36,
+        "ItemId":  160618,
+        "Amount":  666
+    },
+    {
+        "StatId":  7,
+        "ItemId":  160618,
+        "Amount":  42852
+    },
+    {
+        "StatId":  73,
+        "ItemId":  160629,
+        "Amount":  16182
+    },
+    {
+        "StatId":  49,
+        "ItemId":  160629,
+        "Amount":  346
+    },
+    {
+        "StatId":  36,
+        "ItemId":  160629,
+        "Amount":  449
+    },
+    {
+        "StatId":  7,
+        "ItemId":  160629,
+        "Amount":  32139
+    },
+    {
+        "StatId":  40,
+        "ItemId":  160680,
+        "Amount":  308
+    },
+    {
+        "StatId":  49,
+        "ItemId":  160680,
+        "Amount":  399
+    },
+    {
+        "StatId":  5,
+        "ItemId":  160680,
+        "Amount":  14384
+    },
+    {
+        "StatId":  7,
+        "ItemId":  160680,
+        "Amount":  28568
+    },
+    {
+        "StatId":  5,
+        "ItemId":  160651,
+        "Amount":  27349
+    },
+    {
+        "StatId":  32,
+        "ItemId":  160714,
+        "Amount":  644
+    },
+    {
+        "StatId":  40,
+        "ItemId":  160714,
+        "Amount":  416
+    },
+    {
+        "StatId":  5,
+        "ItemId":  160714,
+        "Amount":  21577
+    },
+    {
+        "StatId":  7,
+        "ItemId":  160714,
+        "Amount":  42852
+    },
+    {
+        "StatId":  32,
+        "ItemId":  160631,
+        "Amount":  919
+    },
+    {
+        "StatId":  73,
+        "ItemId":  160631,
+        "Amount":  28769
+    },
+    {
+        "StatId":  49,
+        "ItemId":  160631,
+        "Amount":  495
+    },
+    {
+        "StatId":  7,
+        "ItemId":  160631,
+        "Amount":  57137
+    },
+    {
+        "StatId":  32,
+        "ItemId":  160679,
+        "Amount":  818
+    },
+    {
+        "StatId":  4,
+        "ItemId":  160679,
+        "Amount":  28769
+    },
+    {
+        "StatId":  36,
+        "ItemId":  160679,
+        "Amount":  596
+    },
+    {
+        "StatId":  7,
+        "ItemId":  160679,
+        "Amount":  57137
+    },
+    {
+        "StatId":  32,
+        "ItemId":  160638,
+        "Amount":  348
+    },
+    {
+        "StatId":  49,
+        "ItemId":  160638,
+        "Amount":  712
+    },
+    {
+        "StatId":  74,
+        "ItemId":  160638,
+        "Amount":  21577
+    },
+    {
+        "StatId":  7,
+        "ItemId":  160638,
+        "Amount":  42852
+    },
+    {
+        "StatId":  73,
+        "ItemId":  160632,
+        "Amount":  338
+    },
+    {
+        "StatId":  7,
+        "ItemId":  160632,
+        "Amount":  582
+    },
+    {
+        "StatId":  32,
+        "ItemId":  160681,
+        "Amount":  293
+    },
+    {
+        "StatId":  3,
+        "ItemId":  160681,
+        "Amount":  14384
+    },
+    {
+        "StatId":  36,
+        "ItemId":  160681,
+        "Amount":  414
+    },
+    {
+        "StatId":  7,
+        "ItemId":  160681,
+        "Amount":  28568
+    },
+    {
+        "StatId":  40,
+        "ItemId":  160626,
+        "Amount":  621
+    },
+    {
+        "StatId":  73,
+        "ItemId":  160626,
+        "Amount":  21577
+    },
+    {
+        "StatId":  49,
+        "ItemId":  160626,
+        "Amount":  439
+    },
+    {
+        "StatId":  7,
+        "ItemId":  160626,
+        "Amount":  42852
+    },
+    {
+        "StatId":  74,
+        "ItemId":  160634,
+        "Amount":  451
+    },
+    {
+        "StatId":  7,
+        "ItemId":  160634,
+        "Amount":  777
+    },
+    {
+        "StatId":  32,
+        "ItemId":  160683,
+        "Amount":  389
+    },
+    {
+        "StatId":  3,
+        "ItemId":  160683,
+        "Amount":  14384
+    },
+    {
+        "StatId":  36,
+        "ItemId":  160683,
+        "Amount":  318
+    },
+    {
+        "StatId":  7,
+        "ItemId":  160683,
+        "Amount":  28568
+    },
+    {
+        "StatId":  49,
+        "ItemId":  160615,
+        "Amount":  646
+    },
+    {
+        "StatId":  36,
+        "ItemId":  160615,
+        "Amount":  767
+    },
+    {
+        "StatId":  5,
+        "ItemId":  160615,
+        "Amount":  28769
+    },
+    {
+        "StatId":  7,
+        "ItemId":  160615,
+        "Amount":  57137
+    },
+    {
+        "StatId":  32,
+        "ItemId":  160682,
+        "Amount":  308
+    },
+    {
+        "StatId":  3,
+        "ItemId":  160682,
+        "Amount":  14384
+    },
+    {
+        "StatId":  36,
+        "ItemId":  160682,
+        "Amount":  399
+    },
+    {
+        "StatId":  7,
+        "ItemId":  160682,
+        "Amount":  28568
+    },
+    {
+        "StatId":  73,
+        "ItemId":  160625,
+        "Amount":  28769
+    },
+    {
+        "StatId":  49,
+        "ItemId":  160625,
+        "Amount":  525
+    },
+    {
+        "StatId":  36,
+        "ItemId":  160625,
+        "Amount":  889
+    },
+    {
+        "StatId":  7,
+        "ItemId":  160625,
+        "Amount":  57137
+    },
+    {
+        "StatId":  32,
+        "ItemId":  160645,
+        "Amount":  4072
+    },
+    {
+        "StatId":  36,
+        "ItemId":  160645,
+        "Amount":  1745
+    },
+    {
+        "StatId":  7,
+        "ItemId":  160645,
+        "Amount":  32139
+    },
+    {
+        "StatId":  32,
+        "ItemId":  160695,
+        "Amount":  466
+    },
+    {
+        "StatId":  40,
+        "ItemId":  160695,
+        "Amount":  335
+    },
+    {
+        "StatId":  5,
+        "ItemId":  160695,
+        "Amount":  49640
+    },
+    {
+        "StatId":  7,
+        "ItemId":  160695,
+        "Amount":  32139
+    },
+    {
+        "StatId":  49,
+        "ItemId":  160643,
+        "Amount":  261
+    },
+    {
+        "StatId":  36,
+        "ItemId":  160643,
+        "Amount":  534
+    },
+    {
+        "StatId":  71,
+        "ItemId":  160643,
+        "Amount":  16182
+    },
+    {
+        "StatId":  7,
+        "ItemId":  160643,
+        "Amount":  32139
+    },
+    {
+        "StatId":  3,
+        "ItemId":  160648,
+        "Amount":  27349
+    },
+    {
+        "StatId":  73,
+        "ItemId":  160619,
+        "Amount":  451
+    },
+    {
+        "StatId":  7,
+        "ItemId":  160619,
+        "Amount":  777
+    },
+    {
+        "StatId":  32,
+        "ItemId":  160689,
+        "Amount":  848
+    },
+    {
+        "StatId":  40,
+        "ItemId":  160689,
+        "Amount":  565
+    },
+    {
+        "StatId":  5,
+        "ItemId":  160689,
+        "Amount":  28769
+    },
+    {
+        "StatId":  7,
+        "ItemId":  160689,
+        "Amount":  57137
+    },
+    {
+        "StatId":  32,
+        "ItemId":  160635,
+        "Amount":  666
+    },
+    {
+        "StatId":  40,
+        "ItemId":  160635,
+        "Amount":  394
+    },
+    {
+        "StatId":  74,
+        "ItemId":  160635,
+        "Amount":  21577
+    },
+    {
+        "StatId":  7,
+        "ItemId":  160635,
+        "Amount":  42852
+    },
+    {
+        "StatId":  5,
+        "ItemId":  160616,
+        "Amount":  451
+    },
+    {
+        "StatId":  7,
+        "ItemId":  160616,
+        "Amount":  777
+    },
+    {
+        "StatId":  40,
+        "ItemId":  160628,
+        "Amount":  666
+    },
+    {
+        "StatId":  32,
+        "ItemId":  160628,
+        "Amount":  394
+    },
+    {
+        "StatId":  73,
+        "ItemId":  160628,
+        "Amount":  21577
+    },
+    {
+        "StatId":  7,
+        "ItemId":  160628,
+        "Amount":  42852
+    },
+    {
+        "StatId":  32,
+        "ItemId":  160685,
+        "Amount":  419
+    },
+    {
+        "StatId":  40,
+        "ItemId":  160685,
+        "Amount":  287
+    },
+    {
+        "StatId":  4,
+        "ItemId":  160685,
+        "Amount":  14384
+    },
+    {
+        "StatId":  7,
+        "ItemId":  160685,
+        "Amount":  28568
+    },
+    {
+        "StatId":  32,
+        "ItemId":  160647,
+        "Amount":  2576
+    },
+    {
+        "StatId":  49,
+        "ItemId":  160647,
+        "Amount":  3241
+    },
+    {
+        "StatId":  7,
+        "ItemId":  160647,
+        "Amount":  32139
+    },
+    {
+        "StatId":  40,
+        "ItemId":  160624,
+        "Amount":  462
+    },
+    {
+        "StatId":  73,
+        "ItemId":  160624,
+        "Amount":  21577
+    },
+    {
+        "StatId":  36,
+        "ItemId":  160624,
+        "Amount":  598
+    },
+    {
+        "StatId":  7,
+        "ItemId":  160624,
+        "Amount":  42852
+    },
+    {
+        "StatId":  40,
+        "ItemId":  160687,
+        "Amount":  399
+    },
+    {
+        "StatId":  49,
+        "ItemId":  160687,
+        "Amount":  308
+    },
+    {
+        "StatId":  5,
+        "ItemId":  160687,
+        "Amount":  14384
+    },
+    {
+        "StatId":  7,
+        "ItemId":  160687,
+        "Amount":  28568
+    },
+    {
+        "StatId":  40,
+        "ItemId":  160717,
+        "Amount":  666
+    },
+    {
+        "StatId":  32,
+        "ItemId":  160717,
+        "Amount":  394
+    },
+    {
+        "StatId":  73,
+        "ItemId":  160717,
+        "Amount":  21577
+    },
+    {
+        "StatId":  7,
+        "ItemId":  160717,
+        "Amount":  42852
+    },
+    {
+        "StatId":  40,
+        "ItemId":  160617,
+        "Amount":  329
+    },
+    {
+        "StatId":  49,
+        "ItemId":  160617,
+        "Amount":  466
+    },
+    {
+        "StatId":  5,
+        "ItemId":  160617,
+        "Amount":  16182
+    },
+    {
+        "StatId":  7,
+        "ItemId":  160617,
+        "Amount":  32139
+    },
+    {
+        "StatId":  40,
+        "ItemId":  160718,
+        "Amount":  858
+    },
+    {
+        "StatId":  49,
+        "ItemId":  160718,
+        "Amount":  555
+    },
+    {
+        "StatId":  74,
+        "ItemId":  160718,
+        "Amount":  28769
+    },
+    {
+        "StatId":  7,
+        "ItemId":  160718,
+        "Amount":  57137
+    },
+    {
+        "StatId":  5,
+        "ItemId":  160613,
+        "Amount":  338
+    },
+    {
+        "StatId":  7,
+        "ItemId":  160613,
+        "Amount":  582
+    },
+    {
+        "StatId":  32,
+        "ItemId":  160633,
+        "Amount":  507
+    },
+    {
+        "StatId":  73,
+        "ItemId":  160633,
+        "Amount":  21577
+    },
+    {
+        "StatId":  36,
+        "ItemId":  160633,
+        "Amount":  553
+    },
+    {
+        "StatId":  7,
+        "ItemId":  160633,
+        "Amount":  42852
+    },
+    {
+        "StatId":  40,
+        "ItemId":  160640,
+        "Amount":  416
+    },
+    {
+        "StatId":  74,
+        "ItemId":  160640,
+        "Amount":  21577
+    },
+    {
+        "StatId":  36,
+        "ItemId":  160640,
+        "Amount":  644
+    },
+    {
+        "StatId":  7,
+        "ItemId":  160640,
+        "Amount":  42852
+    },
+    {
+        "StatId":  73,
+        "ItemId":  160627,
+        "Amount":  451
+    },
+    {
+        "StatId":  7,
+        "ItemId":  160627,
+        "Amount":  777
+    },
+    {
+        "StatId":  4,
+        "ItemId":  160650,
+        "Amount":  27349
+    },
+    {
+        "StatId":  40,
+        "ItemId":  160688,
+        "Amount":  808
+    },
+    {
+        "StatId":  3,
+        "ItemId":  160688,
+        "Amount":  28769
+    },
+    {
+        "StatId":  36,
+        "ItemId":  160688,
+        "Amount":  606
+    },
+    {
+        "StatId":  7,
+        "ItemId":  160688,
+        "Amount":  57137
+    },
+    {
+        "StatId":  32,
+        "ItemId":  160644,
+        "Amount":  329
+    },
+    {
+        "StatId":  49,
+        "ItemId":  160644,
+        "Amount":  466
+    },
+    {
+        "StatId":  71,
+        "ItemId":  160644,
+        "Amount":  16182
+    },
+    {
+        "StatId":  7,
+        "ItemId":  160644,
+        "Amount":  32139
+    },
+    {
+        "StatId":  73,
+        "ItemId":  160623,
+        "Amount":  451
+    },
+    {
+        "StatId":  7,
+        "ItemId":  160623,
+        "Amount":  777
+    },
+    {
+        "StatId":  32,
+        "ItemId":  160621,
+        "Amount":  483
+    },
+    {
+        "StatId":  73,
+        "ItemId":  160621,
+        "Amount":  16182
+    },
+    {
+        "StatId":  36,
+        "ItemId":  160621,
+        "Amount":  312
+    },
+    {
+        "StatId":  7,
+        "ItemId":  160621,
+        "Amount":  32139
+    },
+    {
+        "StatId":  40,
+        "ItemId":  160734,
+        "Amount":  416
+    },
+    {
+        "StatId":  36,
+        "ItemId":  160734,
+        "Amount":  644
+    },
+    {
+        "StatId":  5,
+        "ItemId":  160734,
+        "Amount":  21577
+    },
+    {
+        "StatId":  7,
+        "ItemId":  160734,
+        "Amount":  42852
+    },
+    {
+        "StatId":  5,
+        "ItemId":  160649,
+        "Amount":  27349
+    },
+    {
+        "StatId":  32,
+        "ItemId":  160715,
+        "Amount":  644
+    },
+    {
+        "StatId":  36,
+        "ItemId":  160715,
+        "Amount":  416
+    },
+    {
+        "StatId":  5,
+        "ItemId":  160715,
+        "Amount":  21577
+    },
+    {
+        "StatId":  7,
+        "ItemId":  160715,
+        "Amount":  42852
+    },
+    {
+        "StatId":  40,
+        "ItemId":  160716,
+        "Amount":  555
+    },
+    {
+        "StatId":  73,
+        "ItemId":  160716,
+        "Amount":  28769
+    },
+    {
+        "StatId":  36,
+        "ItemId":  160716,
+        "Amount":  858
+    },
+    {
+        "StatId":  7,
+        "ItemId":  160716,
+        "Amount":  57137
+    },
+    {
+        "StatId":  74,
+        "ItemId":  160636,
+        "Amount":  451
+    },
+    {
+        "StatId":  7,
+        "ItemId":  160636,
+        "Amount":  777
+    },
+    {
+        "StatId":  32,
+        "ItemId":  160678,
+        "Amount":  909
+    },
+    {
+        "StatId":  49,
+        "ItemId":  160678,
+        "Amount":  505
+    },
+    {
+        "StatId":  3,
+        "ItemId":  160678,
+        "Amount":  28769
+    },
+    {
+        "StatId":  7,
+        "ItemId":  160678,
+        "Amount":  57137
+    },
+    {
+        "StatId":  4,
+        "ItemId":  160655,
+        "Amount":  27349
+    },
+    {
+        "StatId":  32,
+        "ItemId":  160698,
+        "Amount":  431
+    },
+    {
+        "StatId":  40,
+        "ItemId":  160698,
+        "Amount":  363
+    },
+    {
+        "StatId":  4,
+        "ItemId":  160698,
+        "Amount":  16182
+    },
+    {
+        "StatId":  5,
+        "ItemId":  160698,
+        "Amount":  49640
+    },
+    {
+        "StatId":  7,
+        "ItemId":  160698,
+        "Amount":  32139
+    },
+    {
+        "StatId":  32,
+        "ItemId":  160642,
+        "Amount":  483
+    },
+    {
+        "StatId":  40,
+        "ItemId":  160642,
+        "Amount":  312
+    },
+    {
+        "StatId":  71,
+        "ItemId":  160642,
+        "Amount":  16182
+    },
+    {
+        "StatId":  7,
+        "ItemId":  160642,
+        "Amount":  32139
+    },
+    {
+        "StatId":  32,
+        "ItemId":  160691,
+        "Amount":  409
+    },
+    {
+        "StatId":  36,
+        "ItemId":  160691,
+        "Amount":  298
+    },
+    {
+        "StatId":  5,
+        "ItemId":  160691,
+        "Amount":  14384
+    },
+    {
+        "StatId":  7,
+        "ItemId":  160691,
+        "Amount":  28568
+    },
+    {
+        "StatId":  40,
+        "ItemId":  160720,
+        "Amount":  431
+    },
+    {
+        "StatId":  73,
+        "ItemId":  160720,
+        "Amount":  16182
+    },
+    {
+        "StatId":  49,
+        "ItemId":  160720,
+        "Amount":  363
+    },
+    {
+        "StatId":  7,
+        "ItemId":  160720,
+        "Amount":  32139
+    },
+    {
+        "StatId":  73,
+        "ItemId":  160620,
+        "Amount":  338
+    },
+    {
+        "StatId":  7,
+        "ItemId":  160620,
+        "Amount":  582
+    },
+    {
+        "StatId":  5,
+        "ItemId":  160719,
+        "Amount":  451
+    },
+    {
+        "StatId":  7,
+        "ItemId":  160719,
+        "Amount":  777
+    },
+    {
+        "StatId":  73,
+        "ItemId":  160630,
+        "Amount":  451
+    },
+    {
+        "StatId":  7,
+        "ItemId":  160630,
+        "Amount":  777
+    },
+    {
+        "StatId":  40,
+        "ItemId":  160723,
+        "Amount":  483
+    },
+    {
+        "StatId":  74,
+        "ItemId":  160723,
+        "Amount":  16182
+    },
+    {
+        "StatId":  36,
+        "ItemId":  160723,
+        "Amount":  312
+    },
+    {
+        "StatId":  7,
+        "ItemId":  160723,
+        "Amount":  32139
+    },
+    {
+        "StatId":  40,
+        "ItemId":  160724,
+        "Amount":  462
+    },
+    {
+        "StatId":  73,
+        "ItemId":  160724,
+        "Amount":  21577
+    },
+    {
+        "StatId":  49,
+        "ItemId":  160724,
+        "Amount":  598
+    },
+    {
+        "StatId":  7,
+        "ItemId":  160724,
+        "Amount":  42852
+    },
+    {
+        "StatId":  74,
+        "ItemId":  160722,
+        "Amount":  451
+    },
+    {
+        "StatId":  7,
+        "ItemId":  160722,
+        "Amount":  777
+    },
+    {
+        "StatId":  40,
+        "ItemId":  160684,
+        "Amount":  308
+    },
+    {
+        "StatId":  49,
+        "ItemId":  160684,
+        "Amount":  399
+    },
+    {
+        "StatId":  3,
+        "ItemId":  160684,
+        "Amount":  14384
+    },
+    {
+        "StatId":  7,
+        "ItemId":  160684,
+        "Amount":  28568
+    },
+    {
+        "StatId":  36,
+        "ItemId":  160646,
+        "Amount":  3158
+    },
+    {
+        "StatId":  49,
+        "ItemId":  160646,
+        "Amount":  2659
+    },
+    {
+        "StatId":  7,
+        "ItemId":  160646,
+        "Amount":  32139
+    },
+    {
+        "StatId":  73,
+        "ItemId":  160725,
+        "Amount":  451
+    },
+    {
+        "StatId":  7,
+        "ItemId":  160725,
+        "Amount":  777
+    },
+    {
+        "StatId":  74,
+        "ItemId":  160641,
+        "Amount":  338
+    },
+    {
+        "StatId":  7,
+        "ItemId":  160641,
+        "Amount":  582
+    },
+    {
+        "StatId":  49,
+        "ItemId":  160696,
+        "Amount":  369
+    },
+    {
+        "StatId":  36,
+        "ItemId":  160696,
+        "Amount":  431
+    },
+    {
+        "StatId":  5,
+        "ItemId":  160696,
+        "Amount":  49640
+    },
+    {
+        "StatId":  7,
+        "ItemId":  160696,
+        "Amount":  32139
+    },
+    {
+        "StatId":  73,
+        "ItemId":  163596,
+        "Amount":  451
+    },
+    {
+        "StatId":  7,
+        "ItemId":  163596,
+        "Amount":  777
+    },
+    {
+        "StatId":  49,
+        "ItemId":  160692,
+        "Amount":  333
+    },
+    {
+        "StatId":  4,
+        "ItemId":  160692,
+        "Amount":  14384
+    },
+    {
+        "StatId":  36,
+        "ItemId":  160692,
+        "Amount":  373
+    },
+    {
+        "StatId":  7,
+        "ItemId":  160692,
+        "Amount":  28568
+    },
+    {
+        "StatId":  32,
+        "ItemId":  160721,
+        "Amount":  644
+    },
+    {
+        "StatId":  73,
+        "ItemId":  160721,
+        "Amount":  21577
+    },
+    {
+        "StatId":  36,
+        "ItemId":  160721,
+        "Amount":  416
+    },
+    {
+        "StatId":  7,
+        "ItemId":  160721,
+        "Amount":  42852
+    },
+    {
+        "StatId":  5,
+        "ItemId":  160614,
+        "Amount":  451
+    },
+    {
+        "StatId":  7,
+        "ItemId":  160614,
+        "Amount":  777
+    },
+    {
+        "StatId":  32,
+        "ItemId":  160656,
+        "Amount":  1010
+    },
+    {
+        "StatId":  40,
+        "ItemId":  160686,
+        "Amount":  788
+    },
+    {
+        "StatId":  49,
+        "ItemId":  160686,
+        "Amount":  626
+    },
+    {
+        "StatId":  4,
+        "ItemId":  160686,
+        "Amount":  28769
+    },
+    {
+        "StatId":  7,
+        "ItemId":  160686,
+        "Amount":  57137
+    },
+    {
+        "StatId":  72,
+        "ItemId":  160653,
+        "Amount":  27349
+    },
+    {
+        "StatId":  40,
+        "ItemId":  160654,
+        "Amount":  1010
+    },
+    {
+        "StatId":  5,
+        "ItemId":  160726,
+        "Amount":  338
+    },
+    {
+        "StatId":  7,
+        "ItemId":  160726,
+        "Amount":  582
+    },
+    {
+        "StatId":  32,
+        "ItemId":  160727,
+        "Amount":  394
+    },
+    {
+        "StatId":  36,
+        "ItemId":  160727,
+        "Amount":  666
+    },
+    {
+        "StatId":  5,
+        "ItemId":  160727,
+        "Amount":  21577
+    },
+    {
+        "StatId":  7,
+        "ItemId":  160727,
+        "Amount":  42852
+    },
+    {
+        "StatId":  32,
+        "ItemId":  160733,
+        "Amount":  644
+    },
+    {
+        "StatId":  49,
+        "ItemId":  160733,
+        "Amount":  416
+    },
+    {
+        "StatId":  74,
+        "ItemId":  160733,
+        "Amount":  21577
+    },
+    {
+        "StatId":  7,
+        "ItemId":  160733,
+        "Amount":  42852
+    },
+    {
+        "StatId":  32,
+        "ItemId":  160690,
+        "Amount":  636
+    },
+    {
+        "StatId":  49,
+        "ItemId":  160690,
+        "Amount":  778
+    },
+    {
+        "StatId":  5,
+        "ItemId":  160690,
+        "Amount":  28769
+    },
+    {
+        "StatId":  7,
+        "ItemId":  160690,
+        "Amount":  57137
+    },
+    {
+        "StatId":  32,
+        "ItemId":  160729,
+        "Amount":  394
+    },
+    {
+        "StatId":  73,
+        "ItemId":  160729,
+        "Amount":  21577
+    },
+    {
+        "StatId":  49,
+        "ItemId":  160729,
+        "Amount":  666
+    },
+    {
+        "StatId":  7,
+        "ItemId":  160729,
+        "Amount":  42852
+    },
+    {
+        "StatId":  73,
+        "ItemId":  160728,
+        "Amount":  451
+    },
+    {
+        "StatId":  7,
+        "ItemId":  160728,
+        "Amount":  777
+    },
+    {
+        "StatId":  74,
+        "ItemId":  160732,
+        "Amount":  451
+    },
+    {
+        "StatId":  7,
+        "ItemId":  160732,
+        "Amount":  777
+    },
+    {
+        "StatId":  49,
+        "ItemId":  160699,
+        "Amount":  363
+    },
+    {
+        "StatId":  4,
+        "ItemId":  160699,
+        "Amount":  16182
+    },
+    {
+        "StatId":  36,
+        "ItemId":  160699,
+        "Amount":  431
+    },
+    {
+        "StatId":  5,
+        "ItemId":  160699,
+        "Amount":  49640
+    },
+    {
+        "StatId":  7,
+        "ItemId":  160699,
+        "Amount":  32139
+    },
+    {
+        "StatId":  40,
+        "ItemId":  160694,
+        "Amount":  565
+    },
+    {
+        "StatId":  3,
+        "ItemId":  160694,
+        "Amount":  28769
+    },
+    {
+        "StatId":  36,
+        "ItemId":  160694,
+        "Amount":  848
+    },
+    {
+        "StatId":  7,
+        "ItemId":  160694,
+        "Amount":  57137
+    },
+    {
+        "StatId":  73,
+        "ItemId":  160731,
+        "Amount":  338
+    },
+    {
+        "StatId":  7,
+        "ItemId":  160731,
+        "Amount":  582
+    },
+    {
+        "StatId":  40,
+        "ItemId":  160693,
+        "Amount":  313
+    },
+    {
+        "StatId":  49,
+        "ItemId":  160693,
+        "Amount":  394
+    },
+    {
+        "StatId":  3,
+        "ItemId":  160693,
+        "Amount":  14384
+    },
+    {
+        "StatId":  7,
+        "ItemId":  160693,
+        "Amount":  28568
+    }
+]

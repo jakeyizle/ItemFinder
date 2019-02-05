@@ -1,0 +1,3362 @@
+[
+    {
+        "ItemId":  158306,
+        "ItemName":  "Belt of Gleaming Determination",
+        "ItemLevel":  300,
+        "SourceId":  122967,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  6
+    },
+    {
+        "ItemId":  158319,
+        "ItemName":  "My\u0027das Talisman",
+        "ItemLevel":  300,
+        "SourceId":  122967,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  12
+    },
+    {
+        "ItemId":  158322,
+        "ItemName":  "Aureus Vessel",
+        "ItemLevel":  300,
+        "SourceId":  122967,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  23
+    },
+    {
+        "ItemId":  158321,
+        "ItemName":  "Wand of Zealous Purification",
+        "ItemLevel":  300,
+        "SourceId":  122967,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  26
+    },
+    {
+        "ItemId":  155861,
+        "ItemName":  "Embellished Ritual Sabatons",
+        "ItemLevel":  300,
+        "SourceId":  122967,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  8
+    },
+    {
+        "ItemId":  158313,
+        "ItemName":  "Legplates of Beaten Gold",
+        "ItemLevel":  300,
+        "SourceId":  122967,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  7
+    },
+    {
+        "ItemId":  158347,
+        "ItemName":  "Cincture of Glittering Gold",
+        "ItemLevel":  300,
+        "SourceId":  122967,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  6
+    },
+    {
+        "ItemId":  158309,
+        "ItemName":  "Wristlinks of Alchemical Transfusion",
+        "ItemLevel":  300,
+        "SourceId":  122967,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  9
+    },
+    {
+        "ItemId":  163959,
+        "ItemName":  "Self-Rotating Dagger of Xing",
+        "ItemLevel":  350,
+        "SourceId":  122967,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  13
+    },
+    {
+        "ItemId":  158375,
+        "ItemName":  "Drape of the Loyal Vassal",
+        "ItemLevel":  300,
+        "SourceId":  122965,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  16
+    },
+    {
+        "ItemId":  155869,
+        "ItemName":  "Shambling Berserker\u0027s Leggings",
+        "ItemLevel":  300,
+        "SourceId":  122965,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  7
+    },
+    {
+        "ItemId":  159445,
+        "ItemName":  "Grips of the Everlasting Guardian",
+        "ItemLevel":  300,
+        "SourceId":  122965,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  10
+    },
+    {
+        "ItemId":  158348,
+        "ItemName":  "Wraps of Everliving Fealty",
+        "ItemLevel":  300,
+        "SourceId":  122965,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  9
+    },
+    {
+        "ItemId":  158317,
+        "ItemName":  "Gauntlets of Eternal Service",
+        "ItemLevel":  300,
+        "SourceId":  122965,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  10
+    },
+    {
+        "ItemId":  158320,
+        "ItemName":  "Revitalizing Voodoo Totem",
+        "ItemLevel":  300,
+        "SourceId":  122965,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  12
+    },
+    {
+        "ItemId":  159632,
+        "ItemName":  "Adulation Enforcer",
+        "ItemLevel":  300,
+        "SourceId":  122965,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  13
+    },
+    {
+        "ItemId":  159458,
+        "ItemName":  "Seal of the Regal Loa",
+        "ItemLevel":  300,
+        "SourceId":  122963,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  11
+    },
+    {
+        "ItemId":  158303,
+        "ItemName":  "Devilsaur Worshiper\u0027s Sandals",
+        "ItemLevel":  300,
+        "SourceId":  122963,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  8
+    },
+    {
+        "ItemId":  160214,
+        "ItemName":  "Venerated Raptorhide Bindings",
+        "ItemLevel":  300,
+        "SourceId":  122963,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  9
+    },
+    {
+        "ItemId":  158712,
+        "ItemName":  "Rezan\u0027s Gleaming Eye",
+        "ItemLevel":  300,
+        "SourceId":  122963,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  12
+    },
+    {
+        "ItemId":  160269,
+        "ItemName":  "Soulrending Claw",
+        "ItemLevel":  300,
+        "SourceId":  122963,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  13
+    },
+    {
+        "ItemId":  158713,
+        "ItemName":  "Disc of Indomitable Will",
+        "ItemLevel":  300,
+        "SourceId":  122963,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  14
+    },
+    {
+        "ItemId":  155868,
+        "ItemName":  "Kilt of Fanatical Consumption",
+        "ItemLevel":  300,
+        "SourceId":  122963,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  7
+    },
+    {
+        "ItemId":  158711,
+        "ItemName":  "Hallowed Ossein Longbow",
+        "ItemLevel":  300,
+        "SourceId":  122963,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  15
+    },
+    {
+        "ItemId":  158304,
+        "ItemName":  "Mantle of Fastidious Machinations",
+        "ItemLevel":  300,
+        "SourceId":  122968,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  3
+    },
+    {
+        "ItemId":  155860,
+        "ItemName":  "Spymaster\u0027s Wrap",
+        "ItemLevel":  300,
+        "SourceId":  122968,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  5
+    },
+    {
+        "ItemId":  159233,
+        "ItemName":  "Loa Betrayer\u0027s Vestments",
+        "ItemLevel":  300,
+        "SourceId":  122968,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  20
+    },
+    {
+        "ItemId":  158315,
+        "ItemName":  "Secret Spinner\u0027s Miter",
+        "ItemLevel":  300,
+        "SourceId":  122968,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  1
+    },
+    {
+        "ItemId":  160212,
+        "ItemName":  "Shadowshroud Vambraces",
+        "ItemLevel":  300,
+        "SourceId":  122968,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  9
+    },
+    {
+        "ItemId":  159358,
+        "ItemName":  "Coif of the Court Spider",
+        "ItemLevel":  300,
+        "SourceId":  122968,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  1
+    },
+    {
+        "ItemId":  155866,
+        "ItemName":  "Soulspun Casque",
+        "ItemLevel":  300,
+        "SourceId":  122968,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  1
+    },
+    {
+        "ItemId":  159610,
+        "ItemName":  "Vessel of Skittering Shadows",
+        "ItemLevel":  300,
+        "SourceId":  122968,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  12
+    },
+    {
+        "ItemId":  158308,
+        "ItemName":  "Souldrifting Sabatons",
+        "ItemLevel":  300,
+        "SourceId":  122968,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  8
+    },
+    {
+        "ItemId":  158323,
+        "ItemName":  "Soulrender\u0027s Fang",
+        "ItemLevel":  300,
+        "SourceId":  122968,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  13
+    },
+    {
+        "ItemId":  155884,
+        "ItemName":  "Parrotfeather Cloak",
+        "ItemLevel":  300,
+        "SourceId":  126832,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  16
+    },
+    {
+        "ItemId":  155862,
+        "ItemName":  "Kragg\u0027s Rigging Scalers",
+        "ItemLevel":  300,
+        "SourceId":  126832,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  8
+    },
+    {
+        "ItemId":  159353,
+        "ItemName":  "Chain-Linked Safety Cord",
+        "ItemLevel":  300,
+        "SourceId":  126832,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  6
+    },
+    {
+        "ItemId":  159227,
+        "ItemName":  "Silk Cuffs of the Skycap\u0027n",
+        "ItemLevel":  300,
+        "SourceId":  126832,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  9
+    },
+    {
+        "ItemId":  158360,
+        "ItemName":  "Sharkbait Harness Girdle",
+        "ItemLevel":  300,
+        "SourceId":  126832,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  6
+    },
+    {
+        "ItemId":  159633,
+        "ItemName":  "Sharkbait\u0027s Fishhook",
+        "ItemLevel":  300,
+        "SourceId":  126832,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  13
+    },
+    {
+        "ItemId":  159130,
+        "ItemName":  "Captain\u0027s Diplomacy",
+        "ItemLevel":  300,
+        "SourceId":  129431,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  26
+    },
+    {
+        "ItemId":  158311,
+        "ItemName":  "Concealed Fencing Plates",
+        "ItemLevel":  300,
+        "SourceId":  129431,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  9
+    },
+    {
+        "ItemId":  158351,
+        "ItemName":  "Dashing Bilge Rat Shoes",
+        "ItemLevel":  300,
+        "SourceId":  129431,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  8
+    },
+    {
+        "ItemId":  159132,
+        "ItemName":  "Jolly\u0027s Boot Dagger",
+        "ItemLevel":  300,
+        "SourceId":  129431,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  13
+    },
+    {
+        "ItemId":  159356,
+        "ItemName":  "Raoul\u0027s Barrelhook Bracers",
+        "ItemLevel":  300,
+        "SourceId":  129431,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  9
+    },
+    {
+        "ItemId":  158346,
+        "ItemName":  "Sailcloth Waistband",
+        "ItemLevel":  300,
+        "SourceId":  129431,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  6
+    },
+    {
+        "ItemId":  158314,
+        "ItemName":  "Seal of Questionable Loyalties",
+        "ItemLevel":  300,
+        "SourceId":  129431,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  11
+    },
+    {
+        "ItemId":  159297,
+        "ItemName":  "Silver-Trimmed Breeches",
+        "ItemLevel":  300,
+        "SourceId":  129431,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  7
+    },
+    {
+        "ItemId":  158305,
+        "ItemName":  "Sea Dog\u0027s Cuffs",
+        "ItemLevel":  300,
+        "SourceId":  126969,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  9
+    },
+    {
+        "ItemId":  158302,
+        "ItemName":  "Chum-Coated Leggings",
+        "ItemLevel":  300,
+        "SourceId":  126969,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  7
+    },
+    {
+        "ItemId":  155891,
+        "ItemName":  "Greasy Bacon-Grabbers",
+        "ItemLevel":  300,
+        "SourceId":  126969,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  10
+    },
+    {
+        "ItemId":  155889,
+        "ItemName":  "Sharkhide Grips",
+        "ItemLevel":  300,
+        "SourceId":  126969,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  10
+    },
+    {
+        "ItemId":  155890,
+        "ItemName":  "Sharktooth-Knuckled Grips",
+        "ItemLevel":  300,
+        "SourceId":  126969,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  10
+    },
+    {
+        "ItemId":  158361,
+        "ItemName":  "Sharkwater Waders",
+        "ItemLevel":  300,
+        "SourceId":  126969,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  7
+    },
+    {
+        "ItemId":  155892,
+        "ItemName":  "Bite-Resistant Chain Gloves",
+        "ItemLevel":  300,
+        "SourceId":  126969,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  10
+    },
+    {
+        "ItemId":  158356,
+        "ItemName":  "Shell-Kickers",
+        "ItemLevel":  300,
+        "SourceId":  126969,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  8
+    },
+    {
+        "ItemId":  159634,
+        "ItemName":  "Jeweled Sharksplitter",
+        "ItemLevel":  300,
+        "SourceId":  126969,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  17
+    },
+    {
+        "ItemId":  155885,
+        "ItemName":  "Sea-Brawler\u0027s Greathelm",
+        "ItemLevel":  300,
+        "SourceId":  126983,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  1
+    },
+    {
+        "ItemId":  159299,
+        "ItemName":  "Gold-Tasseled Epaulets",
+        "ItemLevel":  300,
+        "SourceId":  126983,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  3
+    },
+    {
+        "ItemId":  155881,
+        "ItemName":  "Harlan\u0027s Loaded Dice",
+        "ItemLevel":  300,
+        "SourceId":  126983,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  12
+    },
+    {
+        "ItemId":  159407,
+        "ItemName":  "Lockjaw Shoulderplate",
+        "ItemLevel":  300,
+        "SourceId":  126983,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  3
+    },
+    {
+        "ItemId":  155886,
+        "ItemName":  "Smartly Plumed Cap",
+        "ItemLevel":  300,
+        "SourceId":  126983,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  1
+    },
+    {
+        "ItemId":  159352,
+        "ItemName":  "Gaping Maw Shoulderguard",
+        "ItemLevel":  300,
+        "SourceId":  126983,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  3
+    },
+    {
+        "ItemId":  155888,
+        "ItemName":  "Irontide Captain\u0027s Hat",
+        "ItemLevel":  300,
+        "SourceId":  126983,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  1
+    },
+    {
+        "ItemId":  158301,
+        "ItemName":  "Ruffled Poet Blouse",
+        "ItemLevel":  300,
+        "SourceId":  126983,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  5
+    },
+    {
+        "ItemId":  155887,
+        "ItemName":  "Sweete\u0027s Jeweled Headgear",
+        "ItemLevel":  300,
+        "SourceId":  126983,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  1
+    },
+    {
+        "ItemId":  159635,
+        "ItemName":  "Bloody Tideturner",
+        "ItemLevel":  300,
+        "SourceId":  126983,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  13
+    },
+    {
+        "ItemId":  159460,
+        "ItemName":  "Overseer\u0027s Lost Seal",
+        "ItemLevel":  300,
+        "SourceId":  127479,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  11
+    },
+    {
+        "ItemId":  159392,
+        "ItemName":  "Gaoler\u0027s Chainmail Gaiters",
+        "ItemLevel":  300,
+        "SourceId":  127479,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  7
+    },
+    {
+        "ItemId":  159668,
+        "ItemName":  "Rattling Jar of Eyes",
+        "ItemLevel":  300,
+        "SourceId":  127479,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  23
+    },
+    {
+        "ItemId":  160215,
+        "ItemName":  "Sewer Grate Girdle",
+        "ItemLevel":  300,
+        "SourceId":  127479,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  6
+    },
+    {
+        "ItemId":  159332,
+        "ItemName":  "Wristguards of the Sandswimmer",
+        "ItemLevel":  300,
+        "SourceId":  127479,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  9
+    },
+    {
+        "ItemId":  159656,
+        "ItemName":  "Halberd of the Unwary Guard",
+        "ItemLevel":  300,
+        "SourceId":  127479,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  17
+    },
+    {
+        "ItemId":  160110,
+        "ItemName":  "Warglaive of the Sand Queen",
+        "ItemLevel":  300,
+        "SourceId":  127479,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  13
+    },
+    {
+        "ItemId":  159293,
+        "ItemName":  "Turncoat\u0027s Cape",
+        "ItemLevel":  300,
+        "SourceId":  127484,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  16
+    },
+    {
+        "ItemId":  159266,
+        "ItemName":  "Claw-Slit Brawler\u0027s Handwraps",
+        "ItemLevel":  300,
+        "SourceId":  127484,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  10
+    },
+    {
+        "ItemId":  159306,
+        "ItemName":  "Singe-Blotched Britches",
+        "ItemLevel":  300,
+        "SourceId":  127484,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  7
+    },
+    {
+        "ItemId":  159627,
+        "ItemName":  "Jes\u0027 Howler",
+        "ItemLevel":  300,
+        "SourceId":  127484,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  12
+    },
+    {
+        "ItemId":  159363,
+        "ItemName":  "Gnawed Iron Fetters",
+        "ItemLevel":  300,
+        "SourceId":  127484,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  8
+    },
+    {
+        "ItemId":  159666,
+        "ItemName":  "Improvised Riot Shield",
+        "ItemLevel":  300,
+        "SourceId":  127484,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  14
+    },
+    {
+        "ItemId":  159131,
+        "ItemName":  "Howlis\u0027 Crystal Shiv",
+        "ItemLevel":  300,
+        "SourceId":  127484,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  13
+    },
+    {
+        "ItemId":  159333,
+        "ItemName":  "Cincture of the Azerite Arsenal",
+        "ItemLevel":  300,
+        "SourceId":  127490,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  6
+    },
+    {
+        "ItemId":  159615,
+        "ItemName":  "Ignition Mage\u0027s Fuse",
+        "ItemLevel":  300,
+        "SourceId":  127490,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  12
+    },
+    {
+        "ItemId":  159343,
+        "ItemName":  "Spark Dampening Footpads",
+        "ItemLevel":  300,
+        "SourceId":  127490,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  8
+    },
+    {
+        "ItemId":  159441,
+        "ItemName":  "Valyri\u0027s Fire-Proof Bracers",
+        "ItemLevel":  300,
+        "SourceId":  127490,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  9
+    },
+    {
+        "ItemId":  159444,
+        "ItemName":  "Gunpowder-Scoured Sabatons",
+        "ItemLevel":  300,
+        "SourceId":  127490,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  8
+    },
+    {
+        "ItemId":  159274,
+        "ItemName":  "Knight Captain\u0027s Waistcord",
+        "ItemLevel":  300,
+        "SourceId":  127490,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  6
+    },
+    {
+        "ItemId":  159390,
+        "ItemName":  "Sure-Grip Munition Handlers",
+        "ItemLevel":  300,
+        "SourceId":  127490,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  10
+    },
+    {
+        "ItemId":  159277,
+        "ItemName":  "Wild Pyromancer\u0027s Trousers",
+        "ItemLevel":  300,
+        "SourceId":  127490,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  7
+    },
+    {
+        "ItemId":  159389,
+        "ItemName":  "Flint-Linked Wristguards",
+        "ItemLevel":  300,
+        "SourceId":  127490,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  9
+    },
+    {
+        "ItemId":  159129,
+        "ItemName":  "Flamecaster Botefeux",
+        "ItemLevel":  300,
+        "SourceId":  127503,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  17
+    },
+    {
+        "ItemId":  159268,
+        "ItemName":  "Inmate\u0027s Straight Robe",
+        "ItemLevel":  300,
+        "SourceId":  127503,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  20
+    },
+    {
+        "ItemId":  159414,
+        "ItemName":  "Overseer\u0027s Riot Helmet",
+        "ItemLevel":  300,
+        "SourceId":  127503,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  1
+    },
+    {
+        "ItemId":  159440,
+        "ItemName":  "Ashvane Warden\u0027s Cuirass",
+        "ItemLevel":  300,
+        "SourceId":  127503,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  5
+    },
+    {
+        "ItemId":  159334,
+        "ItemName":  "Flashpowder Hood",
+        "ItemLevel":  300,
+        "SourceId":  127503,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  1
+    },
+    {
+        "ItemId":  159628,
+        "ItemName":  "Kul Tiran Cannonball Runner",
+        "ItemLevel":  300,
+        "SourceId":  127503,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  12
+    },
+    {
+        "ItemId":  159331,
+        "ItemName":  "Pistoleer\u0027s Spaulders",
+        "ItemLevel":  300,
+        "SourceId":  127503,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  3
+    },
+    {
+        "ItemId":  159391,
+        "ItemName":  "Hood of the Dark Reaper",
+        "ItemLevel":  300,
+        "SourceId":  127503,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  1
+    },
+    {
+        "ItemId":  159393,
+        "ItemName":  "Cannoneer\u0027s Mantle",
+        "ItemLevel":  300,
+        "SourceId":  127503,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  3
+    },
+    {
+        "ItemId":  159658,
+        "ItemName":  "Cudgel of Correctional Oversight",
+        "ItemLevel":  300,
+        "SourceId":  127503,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  13
+    },
+    {
+        "ItemId":  159657,
+        "ItemName":  "Korgus\u0027 Blackpowder Rifle",
+        "ItemLevel":  300,
+        "SourceId":  127503,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  26
+    },
+    {
+        "ItemId":  159462,
+        "ItemName":  "Footbomb Championship Ring",
+        "ItemLevel":  300,
+        "SourceId":  129214,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  11
+    },
+    {
+        "ItemId":  158350,
+        "ItemName":  "Rowdy Reveler\u0027s Legwraps",
+        "ItemLevel":  300,
+        "SourceId":  129214,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  7
+    },
+    {
+        "ItemId":  158353,
+        "ItemName":  "Servo-Arm Bindings",
+        "ItemLevel":  300,
+        "SourceId":  129214,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  9
+    },
+    {
+        "ItemId":  159638,
+        "ItemName":  "Electro-Arm Bludgeoner",
+        "ItemLevel":  300,
+        "SourceId":  129214,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  17
+    },
+    {
+        "ItemId":  159357,
+        "ItemName":  "Linked Pummeler Grips",
+        "ItemLevel":  300,
+        "SourceId":  129214,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  10
+    },
+    {
+        "ItemId":  155864,
+        "ItemName":  "Power-Assisted Vicegrips",
+        "ItemLevel":  300,
+        "SourceId":  129214,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  10
+    },
+    {
+        "ItemId":  159663,
+        "ItemName":  "G0-4W4Y Crowd Repeller",
+        "ItemLevel":  300,
+        "SourceId":  129214,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  14
+    },
+    {
+        "ItemId":  159231,
+        "ItemName":  "Mine Rat\u0027s Handwarmers",
+        "ItemLevel":  300,
+        "SourceId":  129227,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  10
+    },
+    {
+        "ItemId":  159612,
+        "ItemName":  "Azerokk\u0027s Resonating Heart",
+        "ItemLevel":  300,
+        "SourceId":  129227,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  12
+    },
+    {
+        "ItemId":  158357,
+        "ItemName":  "Bindings of Enraged Earth",
+        "ItemLevel":  300,
+        "SourceId":  129227,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  9
+    },
+    {
+        "ItemId":  159226,
+        "ItemName":  "Excavator\u0027s Safety Belt",
+        "ItemLevel":  300,
+        "SourceId":  129227,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  6
+    },
+    {
+        "ItemId":  158359,
+        "ItemName":  "Stonefury Vambraces",
+        "ItemLevel":  300,
+        "SourceId":  129227,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  9
+    },
+    {
+        "ItemId":  159725,
+        "ItemName":  "Unscrupulous Geologist\u0027s Belt",
+        "ItemLevel":  300,
+        "SourceId":  129227,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  6
+    },
+    {
+        "ItemId":  159336,
+        "ItemName":  "Mercenary Miner\u0027s Boots",
+        "ItemLevel":  300,
+        "SourceId":  129227,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  8
+    },
+    {
+        "ItemId":  159679,
+        "ItemName":  "Sabatons of Rampaging Elements",
+        "ItemLevel":  300,
+        "SourceId":  129227,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  8
+    },
+    {
+        "ItemId":  159361,
+        "ItemName":  "Shalebiter Interlinked Chain",
+        "ItemLevel":  300,
+        "SourceId":  129227,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  6
+    },
+    {
+        "ItemId":  159287,
+        "ItemName":  "Cloak of Questionable Intent",
+        "ItemLevel":  300,
+        "SourceId":  129231,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  16
+    },
+    {
+        "ItemId":  159305,
+        "ItemName":  "Corrosive Handler\u0027s Gloves",
+        "ItemLevel":  300,
+        "SourceId":  129231,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  10
+    },
+    {
+        "ItemId":  159451,
+        "ItemName":  "Leadplate Legguards",
+        "ItemLevel":  300,
+        "SourceId":  129231,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  7
+    },
+    {
+        "ItemId":  158341,
+        "ItemName":  "Chemical Blaster\u0027s Legguards",
+        "ItemLevel":  300,
+        "SourceId":  129231,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  7
+    },
+    {
+        "ItemId":  159240,
+        "ItemName":  "Rixxa\u0027s Sweat-Wicking Cuffs",
+        "ItemLevel":  300,
+        "SourceId":  129231,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  9
+    },
+    {
+        "ItemId":  159235,
+        "ItemName":  "Deranged Alchemist\u0027s Slippers",
+        "ItemLevel":  300,
+        "SourceId":  129231,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  8
+    },
+    {
+        "ItemId":  159639,
+        "ItemName":  "P.A.C.I.F.I.S.T. Mk7",
+        "ItemLevel":  300,
+        "SourceId":  129231,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  26
+    },
+    {
+        "ItemId":  159360,
+        "ItemName":  "Crashguard Spaulders",
+        "ItemLevel":  300,
+        "SourceId":  131227,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  3
+    },
+    {
+        "ItemId":  159232,
+        "ItemName":  "Exquisitely Aerodynamic Shoulderpads",
+        "ItemLevel":  300,
+        "SourceId":  131227,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  3
+    },
+    {
+        "ItemId":  159641,
+        "ItemName":  "G3T-00t",
+        "ItemLevel":  300,
+        "SourceId":  131227,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  13
+    },
+    {
+        "ItemId":  158364,
+        "ItemName":  "High Altitude Turban",
+        "ItemLevel":  300,
+        "SourceId":  131227,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  1
+    },
+    {
+        "ItemId":  158349,
+        "ItemName":  "Petticoat of the Self-Stylized Azerite Baron",
+        "ItemLevel":  300,
+        "SourceId":  131227,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  20
+    },
+    {
+        "ItemId":  159611,
+        "ItemName":  "Razdunk\u0027s Big Red Button",
+        "ItemLevel":  300,
+        "SourceId":  131227,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  12
+    },
+    {
+        "ItemId":  158307,
+        "ItemName":  "Shrapnel-Dampening Chestguard",
+        "ItemLevel":  300,
+        "SourceId":  131227,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  5
+    },
+    {
+        "ItemId":  159415,
+        "ItemName":  "Skyscorcher Pauldrons",
+        "ItemLevel":  300,
+        "SourceId":  131227,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  3
+    },
+    {
+        "ItemId":  159298,
+        "ItemName":  "Venture Co. Plenipotentiary Vest",
+        "ItemLevel":  300,
+        "SourceId":  131227,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  5
+    },
+    {
+        "ItemId":  159345,
+        "ItemName":  "Blight Toadskin Leggings",
+        "ItemLevel":  300,
+        "SourceId":  135360,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  7
+    },
+    {
+        "ItemId":  159340,
+        "ItemName":  "Bracers of Dreadful Maladies",
+        "ItemLevel":  300,
+        "SourceId":  135360,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  9
+    },
+    {
+        "ItemId":  159404,
+        "ItemName":  "Bramble Looped Boots",
+        "ItemLevel":  300,
+        "SourceId":  135360,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  8
+    },
+    {
+        "ItemId":  159450,
+        "ItemName":  "Girdle of Burgeoning Apathy",
+        "ItemLevel":  300,
+        "SourceId":  135360,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  6
+    },
+    {
+        "ItemId":  159133,
+        "ItemName":  "Jagged Iris Sica",
+        "ItemLevel":  300,
+        "SourceId":  135360,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  13
+    },
+    {
+        "ItemId":  159400,
+        "ItemName":  "Nettle-Scarred Greaves",
+        "ItemLevel":  300,
+        "SourceId":  135360,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  7
+    },
+    {
+        "ItemId":  159669,
+        "ItemName":  "Solena\u0027s Watchful Collection",
+        "ItemLevel":  300,
+        "SourceId":  135360,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  23
+    },
+    {
+        "ItemId":  159449,
+        "ItemName":  "Soulwarped Vambraces",
+        "ItemLevel":  300,
+        "SourceId":  135360,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  9
+    },
+    {
+        "ItemId":  159272,
+        "ItemName":  "Twisted Sisters Handwraps",
+        "ItemLevel":  300,
+        "SourceId":  135360,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  10
+    },
+    {
+        "ItemId":  162548,
+        "ItemName":  "Thornwoven Band",
+        "ItemLevel":  300,
+        "SourceId":  131667,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  11
+    },
+    {
+        "ItemId":  159630,
+        "ItemName":  "Balefire Branch",
+        "ItemLevel":  300,
+        "SourceId":  131667,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  12
+    },
+    {
+        "ItemId":  159341,
+        "ItemName":  "Hound-Jowl Waistband",
+        "ItemLevel":  300,
+        "SourceId":  131667,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  6
+    },
+    {
+        "ItemId":  159456,
+        "ItemName":  "Petrified Wickerplate Greaves",
+        "ItemLevel":  300,
+        "SourceId":  131667,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  7
+    },
+    {
+        "ItemId":  159399,
+        "ItemName":  "Thornshaper Mitts",
+        "ItemLevel":  300,
+        "SourceId":  131667,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  10
+    },
+    {
+        "ItemId":  159282,
+        "ItemName":  "Drust-Thatched Wristwraps",
+        "ItemLevel":  300,
+        "SourceId":  131667,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  9
+    },
+    {
+        "ItemId":  159659,
+        "ItemName":  "Sinister Wicker Talons",
+        "ItemLevel":  300,
+        "SourceId":  131667,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  13
+    },
+    {
+        "ItemId":  159294,
+        "ItemName":  "Raal\u0027s Bib",
+        "ItemLevel":  300,
+        "SourceId":  131863,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  16
+    },
+    {
+        "ItemId":  159346,
+        "ItemName":  "Grubby Servant-Grabbers",
+        "ItemLevel":  300,
+        "SourceId":  131863,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  10
+    },
+    {
+        "ItemId":  159285,
+        "ItemName":  "Bloodstained Sous Chef Pants",
+        "ItemLevel":  300,
+        "SourceId":  131863,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  7
+    },
+    {
+        "ItemId":  159397,
+        "ItemName":  "Slaughterhouse-Chain Bracers",
+        "ItemLevel":  300,
+        "SourceId":  131863,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  9
+    },
+    {
+        "ItemId":  159616,
+        "ItemName":  "Gore-Crusted Butcher\u0027s Block",
+        "ItemLevel":  300,
+        "SourceId":  131863,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  12
+    },
+    {
+        "ItemId":  159452,
+        "ItemName":  "Fatty Hooves of Gory Comfort",
+        "ItemLevel":  300,
+        "SourceId":  131863,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  8
+    },
+    {
+        "ItemId":  159660,
+        "ItemName":  "Servant Splitter",
+        "ItemLevel":  300,
+        "SourceId":  131863,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  13
+    },
+    {
+        "ItemId":  158362,
+        "ItemName":  "Lord Waycrest\u0027s Signet",
+        "ItemLevel":  300,
+        "SourceId":  131527,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  11
+    },
+    {
+        "ItemId":  159631,
+        "ItemName":  "Lady Waycrest\u0027s Music Box",
+        "ItemLevel":  300,
+        "SourceId":  131527,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  12
+    },
+    {
+        "ItemId":  159347,
+        "ItemName":  "Moss-Covered Wingtip Shoes",
+        "ItemLevel":  300,
+        "SourceId":  131527,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  8
+    },
+    {
+        "ItemId":  159457,
+        "ItemName":  "Risen Lord\u0027s Oversized Gauntlets",
+        "ItemLevel":  300,
+        "SourceId":  131527,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  10
+    },
+    {
+        "ItemId":  159262,
+        "ItemName":  "Belt of Undying Devotion",
+        "ItemLevel":  300,
+        "SourceId":  131527,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  6
+    },
+    {
+        "ItemId":  159403,
+        "ItemName":  "Waistguard of Deteriorating Grace",
+        "ItemLevel":  300,
+        "SourceId":  131527,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  6
+    },
+    {
+        "ItemId":  159661,
+        "ItemName":  "Soulcharmer\u0027s Bludgeon",
+        "ItemLevel":  300,
+        "SourceId":  131527,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  13
+    },
+    {
+        "ItemId":  159273,
+        "ItemName":  "Amice of the Returned",
+        "ItemLevel":  300,
+        "SourceId":  144324,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  3
+    },
+    {
+        "ItemId":  159662,
+        "ItemName":  "Blightreaper",
+        "ItemLevel":  300,
+        "SourceId":  144324,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  17
+    },
+    {
+        "ItemId":  159448,
+        "ItemName":  "Breastplate of the Vengeful",
+        "ItemLevel":  300,
+        "SourceId":  144324,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  5
+    },
+    {
+        "ItemId":  159395,
+        "ItemName":  "Deathslaver\u0027s Hauberk",
+        "ItemLevel":  300,
+        "SourceId":  144324,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  5
+    },
+    {
+        "ItemId":  159339,
+        "ItemName":  "Gorak Tul\u0027s Mantle",
+        "ItemLevel":  300,
+        "SourceId":  144324,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  3
+    },
+    {
+        "ItemId":  159455,
+        "ItemName":  "Pauldrons of the Horned Horror",
+        "ItemLevel":  300,
+        "SourceId":  144324,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  3
+    },
+    {
+        "ItemId":  159335,
+        "ItemName":  "Raiment of the Blighted Tribe",
+        "ItemLevel":  300,
+        "SourceId":  144324,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  5
+    },
+    {
+        "ItemId":  159279,
+        "ItemName":  "Soulfuel Headdress",
+        "ItemLevel":  300,
+        "SourceId":  144324,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  1
+    },
+    {
+        "ItemId":  159398,
+        "ItemName":  "Soulscarred Headgear",
+        "ItemLevel":  300,
+        "SourceId":  144324,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  1
+    },
+    {
+        "ItemId":  159463,
+        "ItemName":  "Loop of Pulsing Veins",
+        "ItemLevel":  300,
+        "SourceId":  131318,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  11
+    },
+    {
+        "ItemId":  159324,
+        "ItemName":  "Blood Elder\u0027s Bindings",
+        "ItemLevel":  300,
+        "SourceId":  131318,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  9
+    },
+    {
+        "ItemId":  159652,
+        "ItemName":  "Leaxa\u0027s Thought-Piercer",
+        "ItemLevel":  300,
+        "SourceId":  131318,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  13
+    },
+    {
+        "ItemId":  159624,
+        "ItemName":  "Rotcrusted Voodoo Doll",
+        "ItemLevel":  300,
+        "SourceId":  131318,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  12
+    },
+    {
+        "ItemId":  159443,
+        "ItemName":  "Legplates of Profane Sacrifice",
+        "ItemLevel":  300,
+        "SourceId":  131318,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  7
+    },
+    {
+        "ItemId":  159402,
+        "ItemName":  "Waistguard of Sanguine Fervor",
+        "ItemLevel":  300,
+        "SourceId":  131318,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  6
+    },
+    {
+        "ItemId":  159344,
+        "ItemName":  "Underrot Grotto Tenders",
+        "ItemLevel":  300,
+        "SourceId":  131817,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  10
+    },
+    {
+        "ItemId":  159275,
+        "ItemName":  "Wristwraps of Twined Morels",
+        "ItemLevel":  300,
+        "SourceId":  131817,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  9
+    },
+    {
+        "ItemId":  159325,
+        "ItemName":  "Bloodfeaster Belt",
+        "ItemLevel":  300,
+        "SourceId":  131817,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  6
+    },
+    {
+        "ItemId":  159436,
+        "ItemName":  "Fluorescent Flora Stompers",
+        "ItemLevel":  300,
+        "SourceId":  131817,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  8
+    },
+    {
+        "ItemId":  159433,
+        "ItemName":  "Phosphorescent Armplates",
+        "ItemLevel":  300,
+        "SourceId":  131817,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  9
+    },
+    {
+        "ItemId":  159382,
+        "ItemName":  "Blood Tick Crushers",
+        "ItemLevel":  300,
+        "SourceId":  131817,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  10
+    },
+    {
+        "ItemId":  159396,
+        "ItemName":  "Waders of the Infested",
+        "ItemLevel":  300,
+        "SourceId":  131817,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  8
+    },
+    {
+        "ItemId":  159269,
+        "ItemName":  "Darklight Legwarmers",
+        "ItemLevel":  300,
+        "SourceId":  131817,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  7
+    },
+    {
+        "ItemId":  159653,
+        "ItemName":  "Bile-Stained Crawg Tusks",
+        "ItemLevel":  300,
+        "SourceId":  131817,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  13
+    },
+    {
+        "ItemId":  159134,
+        "ItemName":  "Heart-Piercing Stalactite",
+        "ItemLevel":  300,
+        "SourceId":  131817,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  13
+    },
+    {
+        "ItemId":  159292,
+        "ItemName":  "Sporecaller\u0027s Shroud",
+        "ItemLevel":  300,
+        "SourceId":  131383,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  16
+    },
+    {
+        "ItemId":  159270,
+        "ItemName":  "Blood Warder\u0027s Moccasins",
+        "ItemLevel":  300,
+        "SourceId":  131383,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  8
+    },
+    {
+        "ItemId":  159338,
+        "ItemName":  "Pustule Bearer\u0027s Pants",
+        "ItemLevel":  300,
+        "SourceId":  131383,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  7
+    },
+    {
+        "ItemId":  159410,
+        "ItemName":  "Zancha\u0027s Venerated Greatbelt",
+        "ItemLevel":  300,
+        "SourceId":  131383,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  6
+    },
+    {
+        "ItemId":  159384,
+        "ItemName":  "Corpuscular Greaves",
+        "ItemLevel":  300,
+        "SourceId":  131383,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  7
+    },
+    {
+        "ItemId":  159626,
+        "ItemName":  "Lingering Sporepods",
+        "ItemLevel":  300,
+        "SourceId":  131383,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  12
+    },
+    {
+        "ItemId":  159665,
+        "ItemName":  "Targe of the Ancient Warder",
+        "ItemLevel":  300,
+        "SourceId":  131383,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  14
+    },
+    {
+        "ItemId":  159654,
+        "ItemName":  "Corruption Borne Headlopper",
+        "ItemLevel":  300,
+        "SourceId":  131383,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  17
+    },
+    {
+        "ItemId":  159330,
+        "ItemName":  "Gore-Splattered Vest",
+        "ItemLevel":  300,
+        "SourceId":  133007,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  5
+    },
+    {
+        "ItemId":  159323,
+        "ItemName":  "Shoulders of the Sanguine Monstrosity",
+        "ItemLevel":  300,
+        "SourceId":  133007,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  3
+    },
+    {
+        "ItemId":  159253,
+        "ItemName":  "Gloves of Staunched Wounds",
+        "ItemLevel":  300,
+        "SourceId":  133007,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  10
+    },
+    {
+        "ItemId":  159241,
+        "ItemName":  "Blood-Drenched Robes",
+        "ItemLevel":  300,
+        "SourceId":  133007,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  20
+    },
+    {
+        "ItemId":  159267,
+        "ItemName":  "Pauldrons of Vile Corruption",
+        "ItemLevel":  300,
+        "SourceId":  133007,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  3
+    },
+    {
+        "ItemId":  159381,
+        "ItemName":  "Visage of Bloody Horrors",
+        "ItemLevel":  300,
+        "SourceId":  133007,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  1
+    },
+    {
+        "ItemId":  159385,
+        "ItemName":  "Amalgamated Abomination Spaulders",
+        "ItemLevel":  300,
+        "SourceId":  133007,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  3
+    },
+    {
+        "ItemId":  159432,
+        "ItemName":  "Breastplate of Arterial Protection",
+        "ItemLevel":  300,
+        "SourceId":  133007,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  5
+    },
+    {
+        "ItemId":  159446,
+        "ItemName":  "Greathelm of the Putrid Path",
+        "ItemLevel":  300,
+        "SourceId":  133007,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  1
+    },
+    {
+        "ItemId":  159625,
+        "ItemName":  "Vial of Animated Blood",
+        "ItemLevel":  300,
+        "SourceId":  133007,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  12
+    },
+    {
+        "ItemId":  159655,
+        "ItemName":  "Vile Exsanguinator",
+        "ItemLevel":  300,
+        "SourceId":  133007,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  17
+    },
+    {
+        "ItemId":  162541,
+        "ItemName":  "Band of the Roving Scalawag",
+        "ItemLevel":  300,
+        "SourceId":  128650,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  11
+    },
+    {
+        "ItemId":  159972,
+        "ItemName":  "Mutineer\u0027s Fate",
+        "ItemLevel":  300,
+        "SourceId":  128650,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  17
+    },
+    {
+        "ItemId":  159965,
+        "ItemName":  "Redhook\u0027s Cummerbund",
+        "ItemLevel":  300,
+        "SourceId":  128650,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  6
+    },
+    {
+        "ItemId":  159973,
+        "ItemName":  "Boarder\u0027s Billy Club",
+        "ItemLevel":  300,
+        "SourceId":  128650,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  13
+    },
+    {
+        "ItemId":  159969,
+        "ItemName":  "Powdershot Leggings",
+        "ItemLevel":  300,
+        "SourceId":  128650,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  7
+    },
+    {
+        "ItemId":  159427,
+        "ItemName":  "Legplates of the Irontide Raider",
+        "ItemLevel":  300,
+        "SourceId":  128650,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  7
+    },
+    {
+        "ItemId":  159251,
+        "ItemName":  "Top-Sail Footwraps",
+        "ItemLevel":  300,
+        "SourceId":  128650,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  8
+    },
+    {
+        "ItemId":  159434,
+        "ItemName":  "Cannoneer\u0027s Toolbelt",
+        "ItemLevel":  300,
+        "SourceId":  129208,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  6
+    },
+    {
+        "ItemId":  159309,
+        "ItemName":  "Port Pillager\u0027s Belt",
+        "ItemLevel":  300,
+        "SourceId":  129208,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  6
+    },
+    {
+        "ItemId":  159623,
+        "ItemName":  "Dead-Eye Spyglass",
+        "ItemLevel":  300,
+        "SourceId":  129208,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  12
+    },
+    {
+        "ItemId":  159429,
+        "ItemName":  "Rope-Scored Gauntlets",
+        "ItemLevel":  300,
+        "SourceId":  129208,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  10
+    },
+    {
+        "ItemId":  159379,
+        "ItemName":  "Sure-Foot Sabatons",
+        "ItemLevel":  300,
+        "SourceId":  129208,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  8
+    },
+    {
+        "ItemId":  159649,
+        "ItemName":  "Saber of Dread Pirate Lockwood",
+        "ItemLevel":  300,
+        "SourceId":  129208,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  13
+    },
+    {
+        "ItemId":  159237,
+        "ItemName":  "Captain\u0027s Dustfinders",
+        "ItemLevel":  300,
+        "SourceId":  129208,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  10
+    },
+    {
+        "ItemId":  159250,
+        "ItemName":  "Powder Monkey\u0027s Leggings",
+        "ItemLevel":  300,
+        "SourceId":  129208,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  7
+    },
+    {
+        "ItemId":  159320,
+        "ItemName":  "Besieger\u0027s Deckstalkers",
+        "ItemLevel":  300,
+        "SourceId":  129208,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  8
+    },
+    {
+        "ItemId":  159372,
+        "ItemName":  "Dread Captain\u0027s Irons",
+        "ItemLevel":  300,
+        "SourceId":  129208,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  9
+    },
+    {
+        "ItemId":  159461,
+        "ItemName":  "Band of the Ancient Dredger",
+        "ItemLevel":  300,
+        "SourceId":  128651,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  11
+    },
+    {
+        "ItemId":  159428,
+        "ItemName":  "Ballast Sinkers",
+        "ItemLevel":  300,
+        "SourceId":  128651,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  8
+    },
+    {
+        "ItemId":  159622,
+        "ItemName":  "Hadal\u0027s Nautilus",
+        "ItemLevel":  300,
+        "SourceId":  128651,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  12
+    },
+    {
+        "ItemId":  159322,
+        "ItemName":  "Seawalker\u0027s Pantaloons",
+        "ItemLevel":  300,
+        "SourceId":  128651,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  7
+    },
+    {
+        "ItemId":  159650,
+        "ItemName":  "Dismembered Submersible Claw",
+        "ItemLevel":  300,
+        "SourceId":  128651,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  17
+    },
+    {
+        "ItemId":  159314,
+        "ItemName":  "Cephalohide Jacket",
+        "ItemLevel":  300,
+        "SourceId":  128652,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  5
+    },
+    {
+        "ItemId":  159310,
+        "ItemName":  "Circlet of the Enveloping Leviathan",
+        "ItemLevel":  300,
+        "SourceId":  128652,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  1
+    },
+    {
+        "ItemId":  159651,
+        "ItemName":  "Coral-Edged Crescent",
+        "ItemLevel":  300,
+        "SourceId":  128652,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  13
+    },
+    {
+        "ItemId":  159252,
+        "ItemName":  "Grasping Crown of the Deep",
+        "ItemLevel":  300,
+        "SourceId":  128652,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  1
+    },
+    {
+        "ItemId":  159416,
+        "ItemName":  "Harpooner\u0027s Plate Cuirass",
+        "ItemLevel":  300,
+        "SourceId":  128652,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  5
+    },
+    {
+        "ItemId":  159376,
+        "ItemName":  "Hook-Barbed Spaulders",
+        "ItemLevel":  300,
+        "SourceId":  128652,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  3
+    },
+    {
+        "ItemId":  159256,
+        "ItemName":  "Iron-Kelp Wristwraps",
+        "ItemLevel":  300,
+        "SourceId":  128652,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  9
+    },
+    {
+        "ItemId":  159431,
+        "ItemName":  "Kraken Shell Pauldrons",
+        "ItemLevel":  300,
+        "SourceId":  128652,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  3
+    },
+    {
+        "ItemId":  159362,
+        "ItemName":  "Tri-Heart Chestguard",
+        "ItemLevel":  300,
+        "SourceId":  128652,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  5
+    },
+    {
+        "ItemId":  159380,
+        "ItemName":  "Arc-Glass Bindings",
+        "ItemLevel":  300,
+        "SourceId":  133379,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  9
+    },
+    {
+        "ItemId":  159263,
+        "ItemName":  "Bindings of the Slithering Current",
+        "ItemLevel":  300,
+        "SourceId":  133379,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  9
+    },
+    {
+        "ItemId":  159329,
+        "ItemName":  "Leggings of the Galeforce Viper",
+        "ItemLevel":  300,
+        "SourceId":  133379,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  7
+    },
+    {
+        "ItemId":  159435,
+        "ItemName":  "Legplates of Charged Duality",
+        "ItemLevel":  300,
+        "SourceId":  133379,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  7
+    },
+    {
+        "ItemId":  159388,
+        "ItemName":  "Sabatons of Coruscating Energy",
+        "ItemLevel":  300,
+        "SourceId":  133379,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  8
+    },
+    {
+        "ItemId":  159259,
+        "ItemName":  "Sandswept Sandals",
+        "ItemLevel":  300,
+        "SourceId":  133379,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  8
+    },
+    {
+        "ItemId":  159425,
+        "ItemName":  "Shard-Tipped Vambraces",
+        "ItemLevel":  300,
+        "SourceId":  133379,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  9
+    },
+    {
+        "ItemId":  159636,
+        "ItemName":  "Staff of the Lightning Serpent",
+        "ItemLevel":  300,
+        "SourceId":  133379,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  17
+    },
+    {
+        "ItemId":  158370,
+        "ItemName":  "Twin-Strike Polearm",
+        "ItemLevel":  300,
+        "SourceId":  133379,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  17
+    },
+    {
+        "ItemId":  159317,
+        "ItemName":  "Whirling Dervish Sash",
+        "ItemLevel":  300,
+        "SourceId":  133379,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  6
+    },
+    {
+        "ItemId":  162544,
+        "ItemName":  "Jade Ophidian Band",
+        "ItemLevel":  300,
+        "SourceId":  133384,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  11
+    },
+    {
+        "ItemId":  159255,
+        "ItemName":  "Ouroborial Sash",
+        "ItemLevel":  300,
+        "SourceId":  133384,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  6
+    },
+    {
+        "ItemId":  159327,
+        "ItemName":  "Sand-Shined Snakeskin Sandals",
+        "ItemLevel":  300,
+        "SourceId":  133384,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  8
+    },
+    {
+        "ItemId":  159437,
+        "ItemName":  "Fangproof Gauntlets",
+        "ItemLevel":  300,
+        "SourceId":  133384,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  10
+    },
+    {
+        "ItemId":  158367,
+        "ItemName":  "Merektha\u0027s Fang",
+        "ItemLevel":  300,
+        "SourceId":  133384,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  12
+    },
+    {
+        "ItemId":  159375,
+        "ItemName":  "Legguards of the Awakening Brood",
+        "ItemLevel":  300,
+        "SourceId":  133384,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  7
+    },
+    {
+        "ItemId":  158714,
+        "ItemName":  "Swarm\u0027s Edge",
+        "ItemLevel":  300,
+        "SourceId":  133384,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  13
+    },
+    {
+        "ItemId":  159637,
+        "ItemName":  "Snakebite Recurve",
+        "ItemLevel":  300,
+        "SourceId":  133384,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  15
+    },
+    {
+        "ItemId":  158366,
+        "ItemName":  "Charged Sandstone Band",
+        "ItemLevel":  300,
+        "SourceId":  133389,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  11
+    },
+    {
+        "ItemId":  159247,
+        "ItemName":  "Handwraps of Oscillating Polarity",
+        "ItemLevel":  300,
+        "SourceId":  133389,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  10
+    },
+    {
+        "ItemId":  158374,
+        "ItemName":  "Tiny Electromental in a Jar",
+        "ItemLevel":  300,
+        "SourceId":  133389,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  12
+    },
+    {
+        "ItemId":  159442,
+        "ItemName":  "Sand-Scoured Greatbelt",
+        "ItemLevel":  300,
+        "SourceId":  133389,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  6
+    },
+    {
+        "ItemId":  158369,
+        "ItemName":  "Galvanized Stormcrusher",
+        "ItemLevel":  300,
+        "SourceId":  133389,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  13
+    },
+    {
+        "ItemId":  159664,
+        "ItemName":  "Bulwark of Brimming Potential",
+        "ItemLevel":  300,
+        "SourceId":  133389,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  14
+    },
+    {
+        "ItemId":  159254,
+        "ItemName":  "Brood Cleanser\u0027s Amice",
+        "ItemLevel":  300,
+        "SourceId":  133392,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  3
+    },
+    {
+        "ItemId":  159439,
+        "ItemName":  "C\u0027thraxxi Binders Pauldrons",
+        "ItemLevel":  300,
+        "SourceId":  133392,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  3
+    },
+    {
+        "ItemId":  159370,
+        "ItemName":  "Corrupted Hexxer\u0027s Vestments",
+        "ItemLevel":  300,
+        "SourceId":  133392,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  5
+    },
+    {
+        "ItemId":  159424,
+        "ItemName":  "Desert Guardian\u0027s Breastplate",
+        "ItemLevel":  300,
+        "SourceId":  133392,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  5
+    },
+    {
+        "ItemId":  158368,
+        "ItemName":  "Fangs of Intertwined Essence",
+        "ItemLevel":  300,
+        "SourceId":  133392,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  12
+    },
+    {
+        "ItemId":  159337,
+        "ItemName":  "Grips of Electrified Defense",
+        "ItemLevel":  300,
+        "SourceId":  133392,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  10
+    },
+    {
+        "ItemId":  159318,
+        "ItemName":  "Hood of the Slithering Loa",
+        "ItemLevel":  300,
+        "SourceId":  133392,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  1
+    },
+    {
+        "ItemId":  158373,
+        "ItemName":  "Resonating Crystal Scimitar",
+        "ItemLevel":  300,
+        "SourceId":  133392,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  13
+    },
+    {
+        "ItemId":  159257,
+        "ItemName":  "Robes of the Reborn Serpent",
+        "ItemLevel":  300,
+        "SourceId":  133392,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  20
+    },
+    {
+        "ItemId":  159374,
+        "ItemName":  "Sethraliss\u0027 Fanged Helm",
+        "ItemLevel":  300,
+        "SourceId":  133392,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  1
+    },
+    {
+        "ItemId":  158318,
+        "ItemName":  "Murky Cerulean Signet",
+        "ItemLevel":  300,
+        "SourceId":  134056,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  11
+    },
+    {
+        "ItemId":  159321,
+        "ItemName":  "Gloves of Corrupted Waters",
+        "ItemLevel":  300,
+        "SourceId":  134056,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  10
+    },
+    {
+        "ItemId":  159239,
+        "ItemName":  "Aqu\u0027sirr\u0027s Swirling Sash",
+        "ItemLevel":  300,
+        "SourceId":  134056,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  6
+    },
+    {
+        "ItemId":  159366,
+        "ItemName":  "Water Shapers",
+        "ItemLevel":  300,
+        "SourceId":  134056,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  10
+    },
+    {
+        "ItemId":  159420,
+        "ItemName":  "Stormsurger\u0027s Sabatons",
+        "ItemLevel":  300,
+        "SourceId":  134056,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  8
+    },
+    {
+        "ItemId":  159619,
+        "ItemName":  "Briny Barnacle",
+        "ItemLevel":  300,
+        "SourceId":  134056,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  12
+    },
+    {
+        "ItemId":  159426,
+        "ItemName":  "Belt of the Unrelenting Gale",
+        "ItemLevel":  300,
+        "SourceId":  134063,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  6
+    },
+    {
+        "ItemId":  159311,
+        "ItemName":  "Blessing Bearer\u0027s Waders",
+        "ItemLevel":  300,
+        "SourceId":  134063,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  8
+    },
+    {
+        "ItemId":  159295,
+        "ItemName":  "Footpads of the Serene Wake",
+        "ItemLevel":  300,
+        "SourceId":  134063,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  8
+    },
+    {
+        "ItemId":  159614,
+        "ItemName":  "Galecaller\u0027s Boon",
+        "ItemLevel":  300,
+        "SourceId":  134063,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  12
+    },
+    {
+        "ItemId":  159419,
+        "ItemName":  "Ironhull\u0027s Reinforced Legplates",
+        "ItemLevel":  300,
+        "SourceId":  134063,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  7
+    },
+    {
+        "ItemId":  159359,
+        "ItemName":  "Sea Priest\u0027s Greaves",
+        "ItemLevel":  300,
+        "SourceId":  134063,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  7
+    },
+    {
+        "ItemId":  158371,
+        "ItemName":  "Seabreeze",
+        "ItemLevel":  300,
+        "SourceId":  134063,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  17
+    },
+    {
+        "ItemId":  159289,
+        "ItemName":  "Void-Drenched Cape",
+        "ItemLevel":  300,
+        "SourceId":  134060,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  16
+    },
+    {
+        "ItemId":  159364,
+        "ItemName":  "Bindings of the Calling Depths",
+        "ItemLevel":  300,
+        "SourceId":  134060,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  9
+    },
+    {
+        "ItemId":  159308,
+        "ItemName":  "Bracers of the Sacred Fleet",
+        "ItemLevel":  300,
+        "SourceId":  134060,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  9
+    },
+    {
+        "ItemId":  159421,
+        "ItemName":  "Gauntlets of Total Subservience",
+        "ItemLevel":  300,
+        "SourceId":  134060,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  10
+    },
+    {
+        "ItemId":  159242,
+        "ItemName":  "Leggings of the Drowned Lord",
+        "ItemLevel":  300,
+        "SourceId":  134060,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  7
+    },
+    {
+        "ItemId":  159646,
+        "ItemName":  "Aq\u0027mar, the Tidecaller",
+        "ItemLevel":  300,
+        "SourceId":  134060,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  13
+    },
+    {
+        "ItemId":  159408,
+        "ItemName":  "Chestguard of the Deep Denizen",
+        "ItemLevel":  300,
+        "SourceId":  134069,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  5
+    },
+    {
+        "ItemId":  159620,
+        "ItemName":  "Conch of Dark Whispers",
+        "ItemLevel":  300,
+        "SourceId":  134069,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  12
+    },
+    {
+        "ItemId":  159302,
+        "ItemName":  "Cowl of Fluid Machinations",
+        "ItemLevel":  300,
+        "SourceId":  134069,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  1
+    },
+    {
+        "ItemId":  159430,
+        "ItemName":  "Helm of Abyssal Malevolence",
+        "ItemLevel":  300,
+        "SourceId":  134069,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  1
+    },
+    {
+        "ItemId":  159307,
+        "ItemName":  "Tentacle-Laced Spaulders",
+        "ItemLevel":  300,
+        "SourceId":  134069,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  3
+    },
+    {
+        "ItemId":  159377,
+        "ItemName":  "Chain of Consummate Power",
+        "ItemLevel":  300,
+        "SourceId":  134069,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  6
+    },
+    {
+        "ItemId":  159354,
+        "ItemName":  "Hauberk of Sunken Despair",
+        "ItemLevel":  300,
+        "SourceId":  134069,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  5
+    },
+    {
+        "ItemId":  159238,
+        "ItemName":  "Mantle of Void-Touched Waters",
+        "ItemLevel":  300,
+        "SourceId":  134069,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  3
+    },
+    {
+        "ItemId":  159244,
+        "ItemName":  "Stormlurker\u0027s Cowl",
+        "ItemLevel":  300,
+        "SourceId":  134069,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  1
+    },
+    {
+        "ItemId":  159135,
+        "ItemName":  "Deep Fathom\u0027s Bite",
+        "ItemLevel":  300,
+        "SourceId":  134069,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  13
+    },
+    {
+        "ItemId":  159412,
+        "ItemName":  "Auric Puddle Stompers",
+        "ItemLevel":  300,
+        "SourceId":  135322,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  8
+    },
+    {
+        "ItemId":  159234,
+        "ItemName":  "Down-Lined Breeches",
+        "ItemLevel":  300,
+        "SourceId":  135322,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  7
+    },
+    {
+        "ItemId":  159137,
+        "ItemName":  "Gilded Serpent\u0027s Tooth",
+        "ItemLevel":  300,
+        "SourceId":  135322,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  13
+    },
+    {
+        "ItemId":  159304,
+        "ItemName":  "Goldfeather Boots",
+        "ItemLevel":  300,
+        "SourceId":  135322,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  8
+    },
+    {
+        "ItemId":  159413,
+        "ItemName":  "Gauntlets of the Avian Sentinel",
+        "ItemLevel":  300,
+        "SourceId":  135322,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  10
+    },
+    {
+        "ItemId":  159617,
+        "ItemName":  "Lustrous Golden Plumage",
+        "ItemLevel":  300,
+        "SourceId":  135322,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  12
+    },
+    {
+        "ItemId":  159313,
+        "ItemName":  "Breeches of the Sacred Hall",
+        "ItemLevel":  300,
+        "SourceId":  135322,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  7
+    },
+    {
+        "ItemId":  159369,
+        "ItemName":  "Belt of the Consecrated Tomb",
+        "ItemLevel":  300,
+        "SourceId":  135322,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  6
+    },
+    {
+        "ItemId":  159459,
+        "ItemName":  "Ritual Binder\u0027s Ring",
+        "ItemLevel":  300,
+        "SourceId":  134993,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  11
+    },
+    {
+        "ItemId":  159667,
+        "ItemName":  "Vessel of Last Rites",
+        "ItemLevel":  300,
+        "SourceId":  134993,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  23
+    },
+    {
+        "ItemId":  159409,
+        "ItemName":  "Embalmer\u0027s Steadying Bracers",
+        "ItemLevel":  300,
+        "SourceId":  134993,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  9
+    },
+    {
+        "ItemId":  159312,
+        "ItemName":  "Desiccator\u0027s Blessed Gloves",
+        "ItemLevel":  300,
+        "SourceId":  134993,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  10
+    },
+    {
+        "ItemId":  159618,
+        "ItemName":  "Mchimba\u0027s Ritual Bandages",
+        "ItemLevel":  300,
+        "SourceId":  134993,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  12
+    },
+    {
+        "ItemId":  159642,
+        "ItemName":  "Royal Purifier\u0027s Spade",
+        "ItemLevel":  300,
+        "SourceId":  134993,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  17
+    },
+    {
+        "ItemId":  160213,
+        "ItemName":  "Sepulchral Construct\u0027s Gloves",
+        "ItemLevel":  300,
+        "SourceId":  134993,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  10
+    },
+    {
+        "ItemId":  159371,
+        "ItemName":  "Boots of the Headlong Conqueror",
+        "ItemLevel":  300,
+        "SourceId":  135470,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  8
+    },
+    {
+        "ItemId":  159288,
+        "ItemName":  "Cloak of the Restless Tribes",
+        "ItemLevel":  300,
+        "SourceId":  135470,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  16
+    },
+    {
+        "ItemId":  160216,
+        "ItemName":  "Crackling Jade Kilij",
+        "ItemLevel":  300,
+        "SourceId":  135470,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  13
+    },
+    {
+        "ItemId":  159643,
+        "ItemName":  "Crossbow of Forgotten Majesty",
+        "ItemLevel":  300,
+        "SourceId":  135470,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  26
+    },
+    {
+        "ItemId":  159418,
+        "ItemName":  "Girdle of Pestilent Purification",
+        "ItemLevel":  300,
+        "SourceId":  135470,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  6
+    },
+    {
+        "ItemId":  159136,
+        "ItemName":  "Jeweled Dagger of Subjugation",
+        "ItemLevel":  300,
+        "SourceId":  135470,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  13
+    },
+    {
+        "ItemId":  159300,
+        "ItemName":  "Kula\u0027s Butchering Wristwraps",
+        "ItemLevel":  300,
+        "SourceId":  135470,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  9
+    },
+    {
+        "ItemId":  159243,
+        "ItemName":  "Sandals of Wise Voodoo",
+        "ItemLevel":  300,
+        "SourceId":  135470,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  8
+    },
+    {
+        "ItemId":  159644,
+        "ItemName":  "Geti\u0027ikku, Cut of Death",
+        "ItemLevel":  300,
+        "SourceId":  136160,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  17
+    },
+    {
+        "ItemId":  159645,
+        "ItemName":  "Headcracker of Supplication",
+        "ItemLevel":  300,
+        "SourceId":  136160,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  13
+    },
+    {
+        "ItemId":  159236,
+        "ItemName":  "Headdress of the First Empire",
+        "ItemLevel":  300,
+        "SourceId":  136160,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  1
+    },
+    {
+        "ItemId":  159422,
+        "ItemName":  "Helm of the Raptor King",
+        "ItemLevel":  300,
+        "SourceId":  136160,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  1
+    },
+    {
+        "ItemId":  158355,
+        "ItemName":  "Loa-Blessed Chestguard",
+        "ItemLevel":  300,
+        "SourceId":  136160,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  5
+    },
+    {
+        "ItemId":  158344,
+        "ItemName":  "Mantle of Ceremonial Ascension",
+        "ItemLevel":  300,
+        "SourceId":  136160,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  3
+    },
+    {
+        "ItemId":  159423,
+        "ItemName":  "Pauldrons of the Great Unifier",
+        "ItemLevel":  300,
+        "SourceId":  136160,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  3
+    },
+    {
+        "ItemId":  159301,
+        "ItemName":  "Primal Dinomancer\u0027s Belt",
+        "ItemLevel":  300,
+        "SourceId":  136160,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  6
+    },
+    {
+        "ItemId":  159368,
+        "ItemName":  "Spaulders of Prime Emperor",
+        "ItemLevel":  300,
+        "SourceId":  136160,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  3
+    },
+    {
+        "ItemId":  159303,
+        "ItemName":  "Vest of Reverent Adoration",
+        "ItemLevel":  300,
+        "SourceId":  136160,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  5
+    },
+    {
+        "ItemId":  160622,
+        "ItemName":  "Bloodstorm Buckle",
+        "ItemLevel":  865,
+        "SourceId":  137119,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  6
+    },
+    {
+        "ItemId":  160652,
+        "ItemName":  "Construct Overcharger",
+        "ItemLevel":  865,
+        "SourceId":  137119,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  12
+    },
+    {
+        "ItemId":  160639,
+        "ItemName":  "Greaves of Unending Vigil",
+        "ItemLevel":  865,
+        "SourceId":  137119,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  7
+    },
+    {
+        "ItemId":  160637,
+        "ItemName":  "Crimson Colossus Armguards",
+        "ItemLevel":  865,
+        "SourceId":  137119,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  9
+    },
+    {
+        "ItemId":  160618,
+        "ItemName":  "Gloves of Descending Madness",
+        "ItemLevel":  865,
+        "SourceId":  137119,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  10
+    },
+    {
+        "ItemId":  160629,
+        "ItemName":  "Rubywrought Sparkguards",
+        "ItemLevel":  865,
+        "SourceId":  137119,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  9
+    },
+    {
+        "ItemId":  160680,
+        "ItemName":  "Titanspark Animator",
+        "ItemLevel":  865,
+        "SourceId":  137119,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  26
+    },
+    {
+        "ItemId":  160651,
+        "ItemName":  "Vigilant\u0027s Bloodshaper",
+        "ItemLevel":  865,
+        "SourceId":  137119,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  12
+    },
+    {
+        "ItemId":  160714,
+        "ItemName":  "Volatile Walkers",
+        "ItemLevel":  865,
+        "SourceId":  137119,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  8
+    },
+    {
+        "ItemId":  160631,
+        "ItemName":  "Legguards of Coalescing Plasma",
+        "ItemLevel":  865,
+        "SourceId":  137119,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  7
+    },
+    {
+        "ItemId":  160679,
+        "ItemName":  "Khor, Hammer of the Corrupted",
+        "ItemLevel":  865,
+        "SourceId":  137119,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  17
+    },
+    {
+        "ItemId":  160638,
+        "ItemName":  "Decontaminator\u0027s Greatbelt",
+        "ItemLevel":  865,
+        "SourceId":  140853,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  6
+    },
+    {
+        "ItemId":  160632,
+        "ItemName":  "Flame-Sterilized Spaulders",
+        "ItemLevel":  350,
+        "SourceId":  140853,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  3
+    },
+    {
+        "ItemId":  160681,
+        "ItemName":  "Glaive of the Keepers",
+        "ItemLevel":  865,
+        "SourceId":  140853,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  13
+    },
+    {
+        "ItemId":  160626,
+        "ItemName":  "Gloves of Involuntary Amputation",
+        "ItemLevel":  865,
+        "SourceId":  140853,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  10
+    },
+    {
+        "ItemId":  160634,
+        "ItemName":  "Gridrunner Galea",
+        "ItemLevel":  350,
+        "SourceId":  140853,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  1
+    },
+    {
+        "ItemId":  160683,
+        "ItemName":  "Latticework Scalpel",
+        "ItemLevel":  865,
+        "SourceId":  140853,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  13
+    },
+    {
+        "ItemId":  160615,
+        "ItemName":  "Leggings of Lingering Infestation",
+        "ItemLevel":  865,
+        "SourceId":  140853,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  7
+    },
+    {
+        "ItemId":  160682,
+        "ItemName":  "Mother\u0027s Twin Gaze",
+        "ItemLevel":  865,
+        "SourceId":  140853,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  13
+    },
+    {
+        "ItemId":  160625,
+        "ItemName":  "Pathogenic Legwraps",
+        "ItemLevel":  865,
+        "SourceId":  140853,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  7
+    },
+    {
+        "ItemId":  160645,
+        "ItemName":  "Rot-Scour Ring",
+        "ItemLevel":  865,
+        "SourceId":  140853,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  11
+    },
+    {
+        "ItemId":  160695,
+        "ItemName":  "Uldir Subject Manifest",
+        "ItemLevel":  865,
+        "SourceId":  140853,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  23
+    },
+    {
+        "ItemId":  160643,
+        "ItemName":  "Fetid Horror\u0027s Tanglecloak",
+        "ItemLevel":  865,
+        "SourceId":  133298,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  16
+    },
+    {
+        "ItemId":  160648,
+        "ItemName":  "Frenetic Corpuscle",
+        "ItemLevel":  865,
+        "SourceId":  133298,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  12
+    },
+    {
+        "ItemId":  160619,
+        "ItemName":  "Jerkin of the Aberrant Chimera",
+        "ItemLevel":  350,
+        "SourceId":  133298,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  5
+    },
+    {
+        "ItemId":  160689,
+        "ItemName":  "Regurgitated Purifier\u0027s Flamestaff",
+        "ItemLevel":  865,
+        "SourceId":  133298,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  17
+    },
+    {
+        "ItemId":  160635,
+        "ItemName":  "Waste Disposal Crushers",
+        "ItemLevel":  865,
+        "SourceId":  133298,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  10
+    },
+    {
+        "ItemId":  160616,
+        "ItemName":  "Horrific Amalgam\u0027s Hood",
+        "ItemLevel":  350,
+        "SourceId":  133298,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  1
+    },
+    {
+        "ItemId":  160628,
+        "ItemName":  "Fused Monstrosity Stompers",
+        "ItemLevel":  865,
+        "SourceId":  133298,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  8
+    },
+    {
+        "ItemId":  160685,
+        "ItemName":  "Biomelding Cleaver",
+        "ItemLevel":  865,
+        "SourceId":  133298,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  13
+    },
+    {
+        "ItemId":  160647,
+        "ItemName":  "Ring of the Infinite Void",
+        "ItemLevel":  865,
+        "SourceId":  134445,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  11
+    },
+    {
+        "ItemId":  160624,
+        "ItemName":  "Quarantine Protocol Treads",
+        "ItemLevel":  865,
+        "SourceId":  134445,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  8
+    },
+    {
+        "ItemId":  160687,
+        "ItemName":  "Containment Analysis Baton",
+        "ItemLevel":  865,
+        "SourceId":  134445,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  13
+    },
+    {
+        "ItemId":  160717,
+        "ItemName":  "Replicated Chitin Cord",
+        "ItemLevel":  865,
+        "SourceId":  134445,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  6
+    },
+    {
+        "ItemId":  160617,
+        "ItemName":  "Void-Lashed Wristband",
+        "ItemLevel":  865,
+        "SourceId":  134445,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  9
+    },
+    {
+        "ItemId":  160718,
+        "ItemName":  "Greaves of Creeping Darkness",
+        "ItemLevel":  865,
+        "SourceId":  134445,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  7
+    },
+    {
+        "ItemId":  160613,
+        "ItemName":  "Mantle of Contained Corruption",
+        "ItemLevel":  350,
+        "SourceId":  134445,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  3
+    },
+    {
+        "ItemId":  160633,
+        "ItemName":  "Titanspark Energy Girdle",
+        "ItemLevel":  865,
+        "SourceId":  134445,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  6
+    },
+    {
+        "ItemId":  160640,
+        "ItemName":  "Warboots of Absolute Eradication",
+        "ItemLevel":  865,
+        "SourceId":  134445,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  8
+    },
+    {
+        "ItemId":  160627,
+        "ItemName":  "Chainvest of Assured Quality",
+        "ItemLevel":  350,
+        "SourceId":  134445,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  5
+    },
+    {
+        "ItemId":  160650,
+        "ItemName":  "Disc of Systematic Regression",
+        "ItemLevel":  865,
+        "SourceId":  134445,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  12
+    },
+    {
+        "ItemId":  160688,
+        "ItemName":  "Void-Binder",
+        "ItemLevel":  865,
+        "SourceId":  134445,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  17
+    },
+    {
+        "ItemId":  160644,
+        "ItemName":  "Plasma-Spattered Greatcloak",
+        "ItemLevel":  865,
+        "SourceId":  134442,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  16
+    },
+    {
+        "ItemId":  160623,
+        "ItemName":  "Hood of Pestilent Ichor",
+        "ItemLevel":  350,
+        "SourceId":  134442,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  1
+    },
+    {
+        "ItemId":  160621,
+        "ItemName":  "Wristwraps of Coursing Miasma",
+        "ItemLevel":  865,
+        "SourceId":  134442,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  9
+    },
+    {
+        "ItemId":  160734,
+        "ItemName":  "Cord of Animated Contagion",
+        "ItemLevel":  865,
+        "SourceId":  134442,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  6
+    },
+    {
+        "ItemId":  160649,
+        "ItemName":  "Inoculating Extract",
+        "ItemLevel":  865,
+        "SourceId":  134442,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  12
+    },
+    {
+        "ItemId":  160715,
+        "ItemName":  "Mutagenic Protofluid Handwraps",
+        "ItemLevel":  865,
+        "SourceId":  134442,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  10
+    },
+    {
+        "ItemId":  160716,
+        "ItemName":  "Blighted Anima Greaves",
+        "ItemLevel":  865,
+        "SourceId":  134442,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  7
+    },
+    {
+        "ItemId":  160636,
+        "ItemName":  "Chestguard of Virulent Mutagens",
+        "ItemLevel":  350,
+        "SourceId":  134442,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  5
+    },
+    {
+        "ItemId":  160678,
+        "ItemName":  "Bow of Virulent Infection",
+        "ItemLevel":  865,
+        "SourceId":  134442,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  15
+    },
+    {
+        "ItemId":  160655,
+        "ItemName":  "Syringe of Bloodborne Infirmity",
+        "ItemLevel":  865,
+        "SourceId":  134442,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  12
+    },
+    {
+        "ItemId":  160698,
+        "ItemName":  "Vector Deflector",
+        "ItemLevel":  865,
+        "SourceId":  134442,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  14
+    },
+    {
+        "ItemId":  160642,
+        "ItemName":  "Cloak of Rippling Whispers",
+        "ItemLevel":  865,
+        "SourceId":  138967,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  16
+    },
+    {
+        "ItemId":  160691,
+        "ItemName":  "Tusk of the Reborn Prophet",
+        "ItemLevel":  865,
+        "SourceId":  138967,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  13
+    },
+    {
+        "ItemId":  160720,
+        "ItemName":  "Armbands of Sacrosanct Acts",
+        "ItemLevel":  865,
+        "SourceId":  138967,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  9
+    },
+    {
+        "ItemId":  160620,
+        "ItemName":  "Usurper\u0027s Bloodcaked Spaulders",
+        "ItemLevel":  350,
+        "SourceId":  138967,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  3
+    },
+    {
+        "ItemId":  160719,
+        "ItemName":  "Visage of the Ascended Prophet",
+        "ItemLevel":  350,
+        "SourceId":  138967,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  1
+    },
+    {
+        "ItemId":  160630,
+        "ItemName":  "Crest of the Undying Visionary",
+        "ItemLevel":  350,
+        "SourceId":  138967,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  1
+    },
+    {
+        "ItemId":  160723,
+        "ItemName":  "Imperious Vambraces",
+        "ItemLevel":  865,
+        "SourceId":  138967,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  9
+    },
+    {
+        "ItemId":  160724,
+        "ItemName":  "Cincture of Profane Deeds",
+        "ItemLevel":  865,
+        "SourceId":  138967,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  6
+    },
+    {
+        "ItemId":  160722,
+        "ItemName":  "Chestplate of Apocalyptic Machinations",
+        "ItemLevel":  350,
+        "SourceId":  138967,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  5
+    },
+    {
+        "ItemId":  160684,
+        "ItemName":  "Pursax, the Backborer",
+        "ItemLevel":  865,
+        "SourceId":  138967,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  13
+    },
+    {
+        "ItemId":  160646,
+        "ItemName":  "Band of Certain Annihilation",
+        "ItemLevel":  865,
+        "SourceId":  136383,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  11
+    },
+    {
+        "ItemId":  160725,
+        "ItemName":  "C\u0027thraxxi General\u0027s Hauberk",
+        "ItemLevel":  350,
+        "SourceId":  136383,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  5
+    },
+    {
+        "ItemId":  160641,
+        "ItemName":  "Chitinspine Pauldrons",
+        "ItemLevel":  350,
+        "SourceId":  136383,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  3
+    },
+    {
+        "ItemId":  160696,
+        "ItemName":  "Codex of Imminent Ruin",
+        "ItemLevel":  865,
+        "SourceId":  136383,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  23
+    },
+    {
+        "ItemId":  163596,
+        "ItemName":  "Cowl of Dark Portents",
+        "ItemLevel":  350,
+        "SourceId":  136383,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  1
+    },
+    {
+        "ItemId":  160692,
+        "ItemName":  "Luminous Edge of Virtue",
+        "ItemLevel":  865,
+        "SourceId":  136383,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  13
+    },
+    {
+        "ItemId":  160721,
+        "ItemName":  "Oblivion Crushers",
+        "ItemLevel":  865,
+        "SourceId":  136383,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  10
+    },
+    {
+        "ItemId":  160614,
+        "ItemName":  "Robes of the Unraveler",
+        "ItemLevel":  350,
+        "SourceId":  136383,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  20
+    },
+    {
+        "ItemId":  160656,
+        "ItemName":  "Twitching Tentacle of Xalzaix",
+        "ItemLevel":  865,
+        "SourceId":  136383,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  12
+    },
+    {
+        "ItemId":  160686,
+        "ItemName":  "Voror, Gleaming Blade of the Stalwart",
+        "ItemLevel":  865,
+        "SourceId":  136383,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  17
+    },
+    {
+        "ItemId":  160653,
+        "ItemName":  "Xalzaix\u0027s Veiled Eye",
+        "ItemLevel":  865,
+        "SourceId":  136383,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  12
+    },
+    {
+        "ItemId":  160654,
+        "ItemName":  "Vanquished Tendril of G\u0027huun",
+        "ItemLevel":  865,
+        "SourceId":  132998,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  12
+    },
+    {
+        "ItemId":  160726,
+        "ItemName":  "Amice of Corrupting Horror",
+        "ItemLevel":  350,
+        "SourceId":  132998,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  3
+    },
+    {
+        "ItemId":  160727,
+        "ItemName":  "Cord of Septic Envelopment",
+        "ItemLevel":  865,
+        "SourceId":  132998,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  6
+    },
+    {
+        "ItemId":  160733,
+        "ItemName":  "Hematocyst Stompers",
+        "ItemLevel":  865,
+        "SourceId":  132998,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  8
+    },
+    {
+        "ItemId":  160690,
+        "ItemName":  "Heptavium, Staff of Torturous Knowledge",
+        "ItemLevel":  865,
+        "SourceId":  132998,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  17
+    },
+    {
+        "ItemId":  160729,
+        "ItemName":  "Striders of the Putrescent Path",
+        "ItemLevel":  865,
+        "SourceId":  132998,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  8
+    },
+    {
+        "ItemId":  160728,
+        "ItemName":  "Tunic of the Sanguine Deity",
+        "ItemLevel":  350,
+        "SourceId":  132998,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  5
+    },
+    {
+        "ItemId":  160732,
+        "ItemName":  "Helm of the Defiled Laboratorium",
+        "ItemLevel":  350,
+        "SourceId":  132998,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  1
+    },
+    {
+        "ItemId":  160699,
+        "ItemName":  "Barricade of Purifying Resolve",
+        "ItemLevel":  865,
+        "SourceId":  132998,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  14
+    },
+    {
+        "ItemId":  160694,
+        "ItemName":  "Re-Origination Pulse Rifle",
+        "ItemLevel":  865,
+        "SourceId":  132998,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  26
+    },
+    {
+        "ItemId":  160731,
+        "ItemName":  "Spaulders of Coagulated Viscera",
+        "ItemLevel":  350,
+        "SourceId":  132998,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  3
+    },
+    {
+        "ItemId":  160693,
+        "ItemName":  "Lancet of the Deft Hand",
+        "ItemLevel":  865,
+        "SourceId":  132998,
+        "SourceType":  "NONE",
+        "InventoryTypeId":  13
+    }
+]
