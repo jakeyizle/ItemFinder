@@ -1,7 +1,9 @@
 import { Injectable } from '@angular/core';
 import {HttpClient} from '@angular/common/http';
-import {Item} from './character/character';
-import { Observable } from 'rxjs';
+import {Item, StatsEntity} from './character/character';
+import { Observable, of } from 'rxjs';
+import {ITEMS} from './mock-items';
+import {STATS} from './mock-statEntities';
 
 @Injectable({
   providedIn: 'root'
@@ -11,6 +13,11 @@ export class ItemService {
   constructor(private http: HttpClient) { }
 
   getItems(): Observable<Item[]> {
-    return this.http.get<Item[]>('http://localhost:4200/assets/mock-items.json');
+    var items = ITEMS;
+    var stats = STATS;
+    items.forEach((item) => {
+      item.stats = stats.filter(stat => stat.itemId == item.id);
+    });
+    return of(items);
   }
 }

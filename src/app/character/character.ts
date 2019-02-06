@@ -30,4 +30,5 @@ export interface Item {
 export interface StatsEntity {
   stat: number;
   amount: number;
+  itemId: (number) | null;
 }

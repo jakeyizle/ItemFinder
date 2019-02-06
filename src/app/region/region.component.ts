@@ -5,7 +5,7 @@ import {RegionService} from '../region.service';
 import {BlizzardService} from '../blizzard.service';
 import {ItemService} from '../item.service';
 import { filter } from 'rxjs/operators';
-import { Character, Item } from '../character/character';
+import { Character, Items, Item } from '../character/character';
 
 @Component({
   selector: 'app-region',
@@ -21,8 +21,8 @@ export class RegionComponent implements OnInit {
   selectedRegion: Region;
   selectedRealm: Realm;
   characterName: string;
-  character: Character;
-  items: Item[];
+  characterItems: Items;
+  storedItems: Item[];
 
   getRegions(): void {
     this.regionService.getRegions()
@@ -44,10 +44,9 @@ export class RegionComponent implements OnInit {
   onClick()
   {
     this.blizzardService.getCharacter(this.selectedRegion.name, this.selectedRealm.name, this.characterName)
-    .subscribe(character => this.character = character);
+    .subscribe(items => this.characterItems = items);
 
     this.itemService.getItems()
-    .subscribe(items => this.items = items);
-    console.log(this.items[0].name);
+    .subscribe(items => this.storedItems = items);
   }
 }
