@@ -4,7 +4,7 @@ import {Item, StatsEntity} from './character/character';
 import { Observable, of } from 'rxjs';
 import {ITEMS} from './mock-items';
 import {STATS} from './mock-statEntities';
-
+import {StatWeight} from './statWeight';
 @Injectable({
   providedIn: 'root'
 })
@@ -12,7 +12,7 @@ export class ItemService {
 
   constructor(private http: HttpClient) { }
 
-  getItems(): Observable<Item[]> {
+  getItems(statWeights : StatWeight[]): Observable<Item[]> {
     var items = ITEMS;
     var stats = STATS;
     items.forEach((item) => {

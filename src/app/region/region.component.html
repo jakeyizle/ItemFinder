@@ -1,3 +1,5 @@
+<div class="two-col">
+  <div class="col1">
 <h1>Region</h1>
 <mat-form-field>
   <mat-select [(ngModel)] = "selectedRegion" placeholder="Region" (selectionChange)="onSelect($event.value)">
@@ -23,7 +25,7 @@
   </mat-form-field>
 </form>
 
-<h1>Button</h1>
+<h1>Submit</h1>
 <div class="submit button">
   <button mat-stroked-button (click)="onClick()" [disabled]="!selectedRegion || !selectedRealm || !characterName">Submit</button>
 </div>
@@ -35,4 +37,36 @@
       <span class="badge">{{item.name}}</span>
     </li>
   </ul>
+</div>
+</div>
+<div class="col2">
+  <h1>Stat Weights</h1>
+    <form class="statWeights">
+      <div>
+        <mat-form-field class="mainStatWeight">
+          <input matInput [(ngModel)] = "statWeights[0].weight" name="mainStat" type="number" placeholder="Main Stat Weight (Str/Agi/Int)">
+        </mat-form-field>
+      </div>
+      <div>
+        <mat-form-field class="critWeight">
+          <input matInput [(ngModel)] = "statWeights[1].weight" name="crit" type="number" placeholder="Critical Strike Weight">
+        </mat-form-field>
+      </div>
+      <div>
+        <mat-form-field class="hasteWeight">
+          <input matInput [(ngModel)] = "statWeights[2].weight" name="haste" type="number" placeholder="Haste Weight">
+        </mat-form-field>
+      </div>
+      <div>
+          <mat-form-field class="masteryWeight">
+            <input matInput [(ngModel)] = "statWeights[3].weight" name="mastery" type="number" placeholder="Mastery Weight">
+          </mat-form-field>
+        </div>
+      <div>
+        <mat-form-field class="versatilityWeight">
+          <input matInput [(ngModel)] = "statWeights[4].weight" name="versatility" type="number" placeholder="Versatility Weight">
+        </mat-form-field>
+      </div>
+    </form>
+</div>
 </div>

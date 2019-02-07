@@ -26,6 +26,7 @@ export interface Item {
   bonusLists?: (number)[] | null;
   sourceId?: (number) | null;
   inventoryTypeId?: (number) | null;
+  rating?: (number) | null;
 }
 export interface StatsEntity {
   stat: number;

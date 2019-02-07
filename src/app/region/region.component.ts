@@ -4,9 +4,9 @@ import {Realm} from '../realm';
 import {RegionService} from '../region.service';
 import {BlizzardService} from '../blizzard.service';
 import {ItemService} from '../item.service';
-import { filter } from 'rxjs/operators';
-import { Character, Items, Item } from '../character/character';
-
+import {Items, Item } from '../character/character';
+import {StatWeight} from '../statWeight';
+import {StatWeightsService} from '../stat-weights.service';
 @Component({
   selector: 'app-region',
   templateUrl: './region.component.html',
@@ -14,7 +14,7 @@ import { Character, Items, Item } from '../character/character';
 })
 export class RegionComponent implements OnInit {
 
-  constructor(private regionService: RegionService, private blizzardService: BlizzardService, private itemService: ItemService) { }
+  constructor(private regionService: RegionService, private blizzardService: BlizzardService, private itemService: ItemService, private statService: StatWeightsService) {}
 
   regions: Region[];
   realms: Realm[];
@@ -23,14 +23,20 @@ export class RegionComponent implements OnInit {
   characterName: string;
   characterItems: Items;
   storedItems: Item[];
+  statWeights: StatWeight[];
 
   getRegions(): void {
     this.regionService.getRegions()
     .subscribe(regions => this.regions = regions);
   }
 
+  getStatWeights(): void {
+    this.statWeights = this.statService.getStatWeights()    
+  }
+
   ngOnInit() {
     this.getRegions();
+    this.getStatWeights();
   }
 
   onSelect(region: Region)
@@ -44,9 +50,9 @@ export class RegionComponent implements OnInit {
   onClick()
   {
     this.blizzardService.getCharacter(this.selectedRegion.name, this.selectedRealm.name, this.characterName)
-    .subscribe(items => this.characterItems = items);
+    .subscribe(items => this.characterItems = items); 
 
-    this.itemService.getItems()
+    this.itemService.getItems(this.statWeights)
     .subscribe(items => this.storedItems = items);
   }
 }
