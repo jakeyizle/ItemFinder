@@ -7,7 +7,6 @@ export class StatWeightsService {
 
   constructor() { }
 
-  // statWeights : StatWeight[]
 
   getStatWeights() : StatWeight[] {
     var mainStatWeight = new StatWeight([3,4,5,71,72,73,74], "Main Stat");
@@ -16,11 +15,7 @@ export class StatWeightsService {
     var masteryWeight = new StatWeight([49], "Mastery");
     var versatilityWeight = new StatWeight([40], "Versatility");
     var statWeights = [mainStatWeight, critWeight, hasteWeight, masteryWeight, versatilityWeight];
-    // this.statWeights[0] = mainStatWeight;
-    // this.statWeights[1] = critWeight;
-    // this.statWeights[2] = hasteWeight;
-    // this.statWeights[3] = masteryWeight;
-    // this.statWeights[4] = versatilityWeight;
+
     return statWeights;
   }  
 }

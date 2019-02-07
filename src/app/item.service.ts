@@ -15,8 +15,18 @@ export class ItemService {
   getItems(statWeights : StatWeight[]): Observable<Item[]> {
     var items = ITEMS;
     var stats = STATS;
+
     items.forEach((item) => {
       item.stats = stats.filter(stat => stat.itemId == item.id);
+      var itemRating : number = 0;
+      
+      statWeights.forEach(statWeight => {
+        var statsToSum = item.stats.filter(stats => statWeight.id.indexOf(stats.stat) > -1);
+        statsToSum.forEach(statToSum =>{
+          itemRating = itemRating + statToSum.amount * statWeight.weight;
+        });    
+      });
+      item.rating = itemRating;
     });
     return of(items);
   }
