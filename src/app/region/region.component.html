@@ -29,7 +29,20 @@
 <div class="submit button">
   <button mat-stroked-button (click)="onClick()" [disabled]="!selectedRegion || !selectedRealm || !characterName">Submit</button>
 </div>
-
+<div *ngIf="characterItems">
+    <h1>Character Back Name</h1>
+    {{characterItems.items.back.name}}
+</div>
+<div *ngIf="items">
+  <h1>Back Name</h1>
+  {{items.back.name}}
+</div>
+<div *ngIf="itemArray">
+  <ul class="merp"></ul>
+  <li *ngFor="let item of itemArray">
+    <span class="badge">{{item.name}}</span>
+  </li>
+</div>
 <div *ngIf="storedItems">
 <h1>Recorded Items</h1>
   <ul class ="Items">

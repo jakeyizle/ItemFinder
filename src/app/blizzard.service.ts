@@ -36,9 +36,9 @@ export class BlizzardService {
       });
   }
 
-  getCharacter(region: string, realm: string, characterName: string): Observable<Items> {
+  getCharacter(region: string, realm: string, characterName: string): Observable<Character> {
     let url = `https://${region}.api.blizzard.com/wow/character/${realm}/${characterName}?fields=items&locale=en_US&access_token=${this.token.identifier}`;
-    return this.http.get<Items>(url);
+    return this.http.get<Character>(url);
     // const api = new API(this.key, this.secret, (err, token) => {
     //   const characterProfile = new Wow.CharacterProfile(token);
     //   characterProfile.getItems(region, realm, characterName, this.locale)

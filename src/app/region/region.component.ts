@@ -4,7 +4,7 @@ import {Realm} from '../realm';
 import {RegionService} from '../region.service';
 import {BlizzardService} from '../blizzard.service';
 import {ItemService} from '../item.service';
-import {Items, Item } from '../character/character';
+import {Items, Item, Character } from '../character/character';
 import {StatWeight} from '../statWeight';
 import {StatWeightsService} from '../stat-weights.service';
 @Component({
@@ -21,7 +21,9 @@ export class RegionComponent implements OnInit {
   selectedRegion: Region;
   selectedRealm: Realm;
   characterName: string;
-  characterItems: Items;
+  characterItems: Character;
+  items: Items;
+  itemArray: Item[];
   storedItems: Item[];
   statWeights: StatWeight[];
 
@@ -50,7 +52,7 @@ export class RegionComponent implements OnInit {
   onClick()
   {
     this.blizzardService.getCharacter(this.selectedRegion.name, this.selectedRealm.name, this.characterName)
-    .subscribe(items => this.characterItems = items); 
+    .subscribe(items => {this.characterItems = items; this.items = this.characterItems.items; this.itemArray = Object.values(this.items); console.log(this.itemArray); console.log(this.items)}); 
 
     this.itemService.getItems(this.statWeights)
     .subscribe(items => this.storedItems = items);
