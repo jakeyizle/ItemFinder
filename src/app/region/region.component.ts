@@ -26,6 +26,8 @@ export class RegionComponent implements OnInit {
   itemArray: Item[];
   storedItems: Item[];
   statWeights: StatWeight[];
+  ultimateItems: Item[][];
+
 
   getRegions(): void {
     this.regionService.getRegions()
@@ -51,10 +53,17 @@ export class RegionComponent implements OnInit {
 
   onClick()
   {
-    this.blizzardService.getCharacter(this.selectedRegion.name, this.selectedRealm.name, this.characterName)
-    .subscribe(items => {this.characterItems = items; this.items = this.characterItems.items; this.itemArray = Object.values(this.items); console.log(this.itemArray); console.log(this.items)}); 
+    this.itemService.getUpgradeItems(this.statWeights, this.selectedRegion.name, this.selectedRealm.name, this.characterName)
+    .subscribe(items => {
+      this.ultimateItems = items;
+      console.log(this.ultimateItems);
+    });
 
-    this.itemService.getItems(this.statWeights)
-    .subscribe(items => this.storedItems = items);
+
+    // this.blizzardService.getCharacter(this.selectedRegion.name, this.selectedRealm.name, this.characterName)
+    // .subscribe(items => {this.characterItems = items; this.items = this.characterItems.items; this.itemArray = Object.values(this.items);}); 
+
+    // this.itemService.getItems(this.statWeights)
+    // .subscribe(items => this.storedItems = items);
   }
 }

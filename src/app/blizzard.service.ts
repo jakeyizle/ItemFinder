@@ -3,7 +3,7 @@ import { TestBed } from '@angular/core/testing';
 import { Observable } from 'rxjs';
 import {API, IBearerToken, Locale, IResultFunction} from './API';
 import { Wow } from './wow';
-import { Character, Items } from './character/character';
+import { Character, Items, Item } from './character/character';
 import {HttpClient} from '@angular/common/http';
 import * as request from 'request-promise';
 
@@ -39,22 +39,9 @@ export class BlizzardService {
   getCharacter(region: string, realm: string, characterName: string): Observable<Character> {
     let url = `https://${region}.api.blizzard.com/wow/character/${realm}/${characterName}?fields=items&locale=en_US&access_token=${this.token.identifier}`;
     return this.http.get<Character>(url);
-    // const api = new API(this.key, this.secret, (err, token) => {
-    //   const characterProfile = new Wow.CharacterProfile(token);
-    //   characterProfile.getItems(region, realm, characterName, this.locale)
-    //   .then((data) => {
-    //     console.log(data);
-
-    //     this.characterData = <Character>data;              
-    //     console.log(this.characterData);
-    //     // console.log('characterData' + this.characterData.name)
-
-    //     Object.assign(this.characterData, data);
-    //     var doot = this.characterData.items.back.name;
-    //     console.log('test' + doot);        
-    //   })
-    //   .catch((ex) => {
-    //   });    
-    // });
+}
+  getItem(region: string, itemId:number) : Observable<Item>{
+    let url = `https://${region}.api.blizzard.com/wow/item/${itemId}?locale=en_US&access_token=${this.token.identifier}`;
+    return this.http.get<Item>(url);
   }
 }

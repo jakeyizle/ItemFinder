@@ -25,8 +25,10 @@ export interface Item {
   stats?: (StatsEntity)[] | null;
   bonusLists?: (number)[] | null;
   sourceId?: (number) | null;
-  inventoryTypeId?: (number) | null;
+  inventoryType?: (number) | null;
   rating?: (number) | null;
+  ratingImprovement?: (number) | null;
+  ratingimprovementPercent?: (string) | null;
 }
 export interface StatsEntity {
   stat: number;
