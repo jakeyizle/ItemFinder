@@ -30,7 +30,7 @@
   <button mat-stroked-button (click)="onClick()" [disabled]="!selectedRegion || !selectedRealm || !characterName">Submit</button>
 </div>
 
-<div *ngIf="ultimateItems">
+<!-- <div *ngIf="ultimateItems">
   <h1>Items</h1>
 <table>
   <ng-container *ngFor="let items of ultimateItems; let i = index">
@@ -40,7 +40,42 @@
     </ng-container>
   </ng-container>
 </table>
+</div> -->
+<div *ngIf="zones">
+  <h1>ZONES</h1>
+  <ng-container *ngFor="let zone of zones; let i = index">
+    <tr>{{i}} - {{zone.name}} - {{zone.itemCount}}</tr>
+    <ng-container *ngFor = "let boss of zone.bosses; let j = index">
+      <tr>{{boss.name}}</tr>
+      <ng-container *ngFor = "let item of boss.items; let k = index">
+        <tr>{{item.name}} - {{item.ratingimprovementPercent}}</tr>
+      </ng-container>
+    </ng-container>
+  </ng-container>
 </div>
+
+
+<!-- <div *ngIf="zones">
+  <h1>ZONES</h1>
+  <li *ngFor="let zone of zones">
+      <h1>ZONE</h1>
+      <span class="badge">{{zone.name}} - {{zone.itemCount()}}</span>
+    <li *ngFor="let boss of zone.bosses">
+      <h3>BOSS</h3>
+        <span class="badge">{{boss.name}}</span>
+      <li *ngFor="let item of boss.items">
+          <span class="badge">{{item.name}} - {{item.ratingimprovementPercent}}</span>
+
+  </li>
+</div> -->
+
+<!-- <div *ngIf="storedItems">
+  <h1>storedItems</h1>
+  <li *ngFor="let item of storedItems">
+    <span class="badge">{{item.name}}: {{item.ratingimprovementPercent}}</span>
+  </li>
+</div> -->
+
 
 </div>
 <div class="col2">

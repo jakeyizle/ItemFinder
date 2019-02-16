@@ -1,9 +1,13 @@
 import { Injectable } from '@angular/core';
 import { TestBed } from '@angular/core/testing';
-import { Observable } from 'rxjs';
+import { Observable, of } from 'rxjs';
 import {API, IBearerToken, Locale, IResultFunction} from './API';
 import { Wow } from './wow';
 import { Character, Items, Item } from './character/character';
+import {Zone} from './zone/zone';
+import {ZONES} from './zone/mock-zones';
+import {Boss} from './boss/boss';
+import {BOSSES} from './boss/mock-bosses';
 import {HttpClient} from '@angular/common/http';
 import * as request from 'request-promise';
 
@@ -40,8 +44,32 @@ export class BlizzardService {
     let url = `https://${region}.api.blizzard.com/wow/character/${realm}/${characterName}?fields=items&locale=en_US&access_token=${this.token.identifier}`;
     return this.http.get<Character>(url);
 }
+
   getItem(region: string, itemId:number) : Observable<Item>{
     let url = `https://${region}.api.blizzard.com/wow/item/${itemId}?locale=en_US&access_token=${this.token.identifier}`;
     return this.http.get<Item>(url);
   }
+
+  getZones() : Observable<Zone[]> {
+    return of(ZONES);
+  }
+
+  getBosses() : Observable<Boss[]> {
+    return of(BOSSES);
+  }
+
+  getZonesFromItems(items : Item[]) : Observable<Zone[]> {
+    var bosses : Boss[];
+    var zones : Zone[];
+    this.getZones().subscribe(_zones => {
+      zones = _zones;      
+      this.getBosses().subscribe(_bosses => {
+        bosses = _bosses
+        bosses.forEach(boss => boss.items = items.filter(item => item.sourceId == boss.id));
+        zones.forEach(zone => zone.bosses = bosses.filter(boss => boss.zoneId == zone.id));
+      });
+    });
+    return of(zones);
+  }
+
 }

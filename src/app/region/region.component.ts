@@ -7,6 +7,7 @@ import {ItemService} from '../item.service';
 import {Items, Item, Character } from '../character/character';
 import {StatWeight} from '../statWeight';
 import {StatWeightsService} from '../stat-weights.service';
+import {Zone} from '../zone/zone';
 @Component({
   selector: 'app-region',
   templateUrl: './region.component.html',
@@ -27,6 +28,7 @@ export class RegionComponent implements OnInit {
   storedItems: Item[];
   statWeights: StatWeight[];
   ultimateItems: Item[][];
+  zones: Zone[];
 
 
   getRegions(): void {
@@ -53,12 +55,20 @@ export class RegionComponent implements OnInit {
 
   onClick()
   {
-    this.itemService.getUpgradeItems(this.statWeights, this.selectedRegion.name, this.selectedRealm.name, this.characterName)
-    .subscribe(items => {
-      this.ultimateItems = items;
-      console.log(this.ultimateItems);
-    });
+    // this.itemService.getUpgradeItems(this.statWeights, this.selectedRegion.name, this.selectedRealm.name, this.characterName)
+    // .subscribe(items => {
+    //   this.ultimateItems = items;
+    //   console.log(this.ultimateItems);
+    // });
 
+    // this.itemService.getUpgradeItems(this.statWeights, this.selectedRegion.name, this.selectedRealm.name, this.characterName)
+    // .subscribe(items => { this.storedItems = items});
+
+    this.itemService.getZones(this.statWeights, this.selectedRegion.name, this.selectedRealm.name, this.characterName)
+    .subscribe(zones => {
+      this.zones = zones;
+      console.log(zones);
+    });
 
     // this.blizzardService.getCharacter(this.selectedRegion.name, this.selectedRealm.name, this.characterName)
     // .subscribe(items => {this.characterItems = items; this.items = this.characterItems.items; this.itemArray = Object.values(this.items);}); 

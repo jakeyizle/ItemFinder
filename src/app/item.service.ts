@@ -6,6 +6,8 @@ import {ITEMS} from './mock-items';
 import {STATS} from './mock-statEntities';
 import {StatWeight} from './statWeight';
 import {BlizzardService} from './blizzard.service';
+import {Zone} from './zone/zone';
+import {Boss} from './boss/boss';
 
 @Injectable({
   providedIn: 'root'
@@ -46,6 +48,7 @@ export class ItemService {
     var characterItems:Item[];
     var storedItems:Item[];
     var superItemArray: Item[][] = [];
+    var itemArray:Item[] = [];
 
     this.getItems(statWeights).subscribe(items => storedItems = items);
     this.blizzardService.getCharacter(region, realm, characterName)
@@ -64,6 +67,7 @@ export class ItemService {
           betterItems.forEach(item => {
             item.ratingImprovement = item.rating -characterItem.rating;
             item.ratingimprovementPercent = +(item.ratingImprovement / characterItem.rating).toFixed(2) + "%";
+            itemArray.push(item);
           });
           // console.log(betterItems);
           if (betterItems.length > 0) {
@@ -73,6 +77,38 @@ export class ItemService {
       });
       // console.log(characterItems);
     })
-    return of(superItemArray);
+    // return of(superItemArray);
+    return of(itemArray);
+  }
+
+  getZones(statWeights:StatWeight[], region: string, realm: string, characterName: string) {
+    var bosses : Boss[];
+    var zones : Zone[];
+    var items: Item[];
+    this.getUpgradeItems(statWeights, region, realm, characterName).subscribe(_items => {
+      items = _items;
+      this.blizzardService.getZones().subscribe(_zones => {
+        zones = _zones;      
+        this.blizzardService.getBosses().subscribe(_bosses => {
+          bosses = _bosses
+          zones.forEach(zone => {
+            zone.bosses = bosses.filter(boss => boss.zoneId == zone.id)                        
+            zone.bosses.forEach(boss => {
+              console.log(items);
+                boss.items = items.filter(item => {
+                  item.sourceId == boss.id;
+                });
+                console.log(boss.items);
+                console.log(boss);
+            });
+
+            let count : number;
+            zone.bosses.forEach(boss => count=boss.items.length + count);
+            zone.itemCount = count;
+          });
+        });
+      });
+    });
+    return this.blizzardService.getZonesFromItems(items);
   }
 }
