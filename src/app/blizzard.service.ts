@@ -10,6 +10,7 @@ import {Boss} from './boss/boss';
 import {BOSSES} from './boss/mock-bosses';
 import {HttpClient} from '@angular/common/http';
 import * as request from 'request-promise';
+import { map, filter, flatMap} from 'rxjs/operators';
 
 declare var require: any
 
@@ -45,17 +46,33 @@ export class BlizzardService {
     return this.http.get<Character>(url);
 }
 
+  getCharacterItems(region: string, realm: string, characterName: string) : Observable<Item[]>{
+    let url = `https://${region}.api.blizzard.com/wow/character/${realm}/${characterName}?fields=items&locale=en_US&access_token=${this.token.identifier}`;
+    return this.http.get<Character>(url).pipe(flatMap(character => {
+      let items : Item[] = (Object.values(character.items)).splice(0, 2);
+      items.forEach(item => {
+        this.getItem(region, item.id).subscribe(newItem => item.inventoryType = newItem.inventoryType);
+      });
+      return of(items);
+    }));
+  }
+
+
+
   getItem(region: string, itemId:number) : Observable<Item>{
     let url = `https://${region}.api.blizzard.com/wow/item/${itemId}?locale=en_US&access_token=${this.token.identifier}`;
     return this.http.get<Item>(url);
   }
 
-  getZones() : Observable<Zone[]> {
-    return of(ZONES);
+
+
+
+  getZones() : Zone[] {
+    return (ZONES);
   }
 
-  getBosses() : Observable<Boss[]> {
-    return of(BOSSES);
+  getBosses() : Boss[] {
+    return (BOSSES);
   }
 
   getZonesFromItems(items : Item[]) : Observable<Zone[]> {

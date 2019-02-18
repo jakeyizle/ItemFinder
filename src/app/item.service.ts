@@ -2,19 +2,27 @@ import { Injectable } from '@angular/core';
 import {HttpClient} from '@angular/common/http';
 import {Item, StatsEntity, Character, Items} from './character/character';
 import { Observable, of } from 'rxjs';
+import { map, filter, flatMap, distinctUntilChanged, switchMap } from 'rxjs/operators';
 import {ITEMS} from './mock-items';
 import {STATS} from './mock-statEntities';
 import {StatWeight} from './statWeight';
 import {BlizzardService} from './blizzard.service';
 import {Zone} from './zone/zone';
 import {Boss} from './boss/boss';
-
+import 'rxjs/add/operator/map';
 @Injectable({
   providedIn: 'root'
 })
 export class ItemService {
 
   constructor(private http: HttpClient, private blizzardService: BlizzardService) { }
+
+  getZonesPlus(statWeights:StatWeight[], region: string, realm: string, characterName: string) {
+    this.blizzardService.getCharacterItems(region, realm, characterName).pipe(flatMap(items => {
+      this.assignItemRating(items, statWeights);
+      return of(items);
+    }))
+  }
 
   getItems(statWeights : StatWeight[]): Observable<Item[]> {
     var items = ITEMS;
@@ -40,15 +48,19 @@ export class ItemService {
       });
       item.rating = itemRating;
     });
+    return items;
   }
 
-  getUpgradeItems(statWeights:StatWeight[], region: string, realm: string, characterName: string) {
+  getUpgradeItems(statWeights:StatWeight[], region: string, realm: string, characterName: string) : Observable<Item[]> {
     var character:Character;
     var items:Items;
     var characterItems:Item[];
     var storedItems:Item[];
     var superItemArray: Item[][] = [];
     var itemArray:Item[] = [];
+
+    this.getItems(statWeights).pipe(map(items => storedItems = items))
+
 
     this.getItems(statWeights).subscribe(items => storedItems = items);
     this.blizzardService.getCharacter(region, realm, characterName)
@@ -76,39 +88,38 @@ export class ItemService {
         })
       });
       // console.log(characterItems);
-    })
+    });
     // return of(superItemArray);
     return of(itemArray);
   }
 
-  getZones(statWeights:StatWeight[], region: string, realm: string, characterName: string) {
-    var bosses : Boss[];
-    var zones : Zone[];
+  getZones(statWeights:StatWeight[], region: string, realm: string, characterName: string) : Observable<Zone[]> {
+    var bosses : Boss[] = this.blizzardService.getBosses();
+    var zones : Zone[] = this.blizzardService.getZones();
     var items: Item[];
     this.getUpgradeItems(statWeights, region, realm, characterName).subscribe(_items => {
-      items = _items;
-      this.blizzardService.getZones().subscribe(_zones => {
-        zones = _zones;      
-        this.blizzardService.getBosses().subscribe(_bosses => {
-          bosses = _bosses
-          zones.forEach(zone => {
-            zone.bosses = bosses.filter(boss => boss.zoneId == zone.id)                        
-            zone.bosses.forEach(boss => {
-              console.log(items);
-                boss.items = items.filter(item => {
-                  item.sourceId == boss.id;
-                });
-                console.log(boss.items);
-                console.log(boss);
-            });
+    items = _items;
+    bosses.forEach(boss => {
+      console.log(items);
 
-            let count : number;
-            zone.bosses.forEach(boss => count=boss.items.length + count);
-            zone.itemCount = count;
-          });
-        });
+      items.forEach(item => {
+        boss.items = items;
+        console.log("boss: " + boss.id + " - item:" + item.id);
+        if (item.sourceId == boss.id) 
+        {
+          boss.items.push(item);
+        }                  
       });
     });
-    return this.blizzardService.getZonesFromItems(items);
+    zones.forEach(zone => {
+      zone.bosses = bosses.filter(boss => boss.zoneId == zone.id);                                   
+      let count : number = 0;
+      console.log(bosses);
+      zone.bosses.forEach(boss => count=boss.items.length + count);
+      zone.itemCount = count;
+    });
+  });
+    return of(zones);
+    //return this.blizzardService.getZonesFromItems(items);
   }
 }
