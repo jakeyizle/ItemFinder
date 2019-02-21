@@ -39,7 +39,7 @@ export class ItemService {
 
   // }
 
-  getData(statWeights:StatWeight[], region: string, realm: string, characterName: string) : Observable <Zone[]> {
+  getData(statWeights:StatWeight[], region: string, realm: string, characterName: string) : Observable <Zone> {
     return this.blizzardService.getZones().pipe(
       concatMap(zones => {
         return this.blizzardService.getBosses().pipe(concatMap(bosses => {
@@ -62,20 +62,21 @@ export class ItemService {
                 }
               }
               for(let zone of zones) {
+                zone.itemCount = 0;
                 for (let boss of zone.bosses) {
                   var itemList : Item[] = [];
                   for (let item of items) {
                     if (item.sourceId == boss.id) {
-                      itemList.push(item);                                          
+                      itemList.push(item);   
+                      zone.itemCount++;                                       
                     }
                   }
                   if (itemList) {
-                  zone.itemCount = itemList.length;
-                  boss.items = itemList;
+                    boss.items = itemList;
                   }
                 }
               }
-              return of(zones);
+              return zones;
             })
           )
           }));        

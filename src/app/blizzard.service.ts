@@ -10,7 +10,7 @@ import {Boss} from './boss/boss';
 import {BOSSES} from './boss/mock-bosses';
 import {HttpClient} from '@angular/common/http';
 import * as request from 'request-promise';
-import { map, filter, flatMap, concatMap, tap, switchMap, mergeMap, zip} from 'rxjs/operators';
+import { map, filter, flatMap, concatMap, tap, switchMap, mergeMap, zip, mergeScan, toArray} from 'rxjs/operators';
 
 declare var require: any
 
@@ -47,15 +47,18 @@ export class BlizzardService {
 }
 
   getCharacterItems(region: string, realm: string, characterName: string) : Observable<Item[]>{
-    let characterItems : Item[];
     let url = `https://${region}.api.blizzard.com/wow/character/${realm}/${characterName}?fields=items&locale=en_US&access_token=${this.token.identifier}`;
     return this.http.get<Character>(url).pipe(
-      concatMap(character => {
-        characterItems = Object.values(character.items);      
+      flatMap(character => {
+        let characterItems : Item[] = Object.values(character.items);      
         characterItems.splice(0, 2);
-        return of(characterItems);
-      }))
-      
+        return characterItems;
+      }),
+      concatMap(item => {
+        return this.getItemType(region, item);
+      }),
+      toArray()
+      );
   }
 
 getItemType(region: string, item : Item) : Observable<Item>{

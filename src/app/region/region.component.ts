@@ -33,7 +33,7 @@ export class RegionComponent implements OnInit {
   storedItems: Item[];
   storedBosses: Boss[];
   storedZones: Zone[];
-  zones: Zone[];
+  zones: Zone[] = [];
 
 
   getRegions(): void {
@@ -60,8 +60,8 @@ export class RegionComponent implements OnInit {
 
   onClick()
   {
-    this.itemService.getData(this.statWeights, this.selectedRegion.name, this.selectedRealm.name, this.characterName)
-    .subscribe(zones => {console.log(zones); this.zones = zones;});
+    this.itemService.getData(this.statWeights, this.selectedRegion.name, this.selectedRealm.name, this.characterName).pipe(filter(zone => zone.itemCount > 0), map(zone => zone))
+    .subscribe(zone => {this.zones.push(zone); console.log(zone)});
     // this.storedBosses = this.blizzardService.getBosses();
     // this.storedZones = this.blizzardService.getZones();
 

@@ -33,14 +33,15 @@
 
 
 <div *ngIf="zones">
-  <h1>ZONES</h1>
   <ng-container *ngFor="let zone of zones; let i = index">
-    <tr>{{i}} - {{zone.name}} - {{zone.itemCount}}</tr>
+    <tr>{{i + 1}} - {{zone.name}} - {{zone.itemCount}}</tr>
     <ng-container *ngFor = "let boss of zone.bosses; let j = index">
-      <tr>{{boss.name}}</tr>
+      <div *ngIf="boss.items.length > 0">
+      <tr><ul>{{boss.name}} - {{boss.items.length}}</ul></tr>
       <ng-container *ngFor = "let item of boss.items; let k = index">
-        <tr>{{item.name}} - {{item.ratingimprovementPercent}}</tr>
+        <tr><ul><ul>{{item.name}} - {{item.ratingimprovementPercent}}</ul></ul></tr>
       </ng-container>
+    </div>
     </ng-container>
   </ng-container>
 </div>
