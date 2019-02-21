@@ -1,6 +1,6 @@
 import { Injectable } from '@angular/core';
 import { TestBed } from '@angular/core/testing';
-import { Observable, of } from 'rxjs';
+import { Observable, of, range, forkJoin } from 'rxjs';
 import {API, IBearerToken, Locale, IResultFunction} from './API';
 import { Wow } from './wow';
 import { Character, Items, Item } from './character/character';
@@ -10,7 +10,7 @@ import {Boss} from './boss/boss';
 import {BOSSES} from './boss/mock-bosses';
 import {HttpClient} from '@angular/common/http';
 import * as request from 'request-promise';
-import { map, filter, flatMap} from 'rxjs/operators';
+import { map, filter, flatMap, concatMap, tap, switchMap, mergeMap, zip} from 'rxjs/operators';
 
 declare var require: any
 
@@ -47,18 +47,36 @@ export class BlizzardService {
 }
 
   getCharacterItems(region: string, realm: string, characterName: string) : Observable<Item[]>{
+    let characterItems : Item[];
     let url = `https://${region}.api.blizzard.com/wow/character/${realm}/${characterName}?fields=items&locale=en_US&access_token=${this.token.identifier}`;
-    return this.http.get<Character>(url).pipe(flatMap(character => {
-      let items : Item[] = (Object.values(character.items)).splice(0, 2);
-      items.forEach(item => {
-        this.getItem(region, item.id).subscribe(newItem => item.inventoryType = newItem.inventoryType);
-      });
-      return of(items);
-    }));
+    return this.http.get<Character>(url).pipe(
+      concatMap(character => {
+        characterItems = Object.values(character.items);      
+        characterItems.splice(0, 2);
+        return of(characterItems);
+      }))
+      
   }
 
+getItemType(region: string, item : Item) : Observable<Item>{
+  let url = `https://${region}.api.blizzard.com/wow/item/${item.id}?locale=en_US&access_token=${this.token.identifier}`;
+  return this.http.get<Item>(url).pipe(map(thisItem => {
+    item.inventoryType = thisItem.inventoryType;
+    return item;
+  }));
+}
 
 
+  getItemIds(region: string, items) : Observable<Item[]>
+  {
+    console.log(items);
+    items.forEach(item => {
+      console.log('here');
+      let url = `https://${region}.api.blizzard.com/wow/item/${item.id}?locale=en_US&access_token=${this.token.identifier}`;
+      this.http.get<Item>(url).pipe(tap(thisItem => item.inventoryType = thisItem.inventoryType));
+    });
+    return of(items);
+  }
   getItem(region: string, itemId:number) : Observable<Item>{
     let url = `https://${region}.api.blizzard.com/wow/item/${itemId}?locale=en_US&access_token=${this.token.identifier}`;
     return this.http.get<Item>(url);
@@ -67,26 +85,26 @@ export class BlizzardService {
 
 
 
-  getZones() : Zone[] {
-    return (ZONES);
+  getZones() : Observable<Zone[]> {
+    return of(ZONES);
   }
 
-  getBosses() : Boss[] {
-    return (BOSSES);
+  getBosses() : Observable<Boss[]> {
+    return of(BOSSES);
   }
 
-  getZonesFromItems(items : Item[]) : Observable<Zone[]> {
-    var bosses : Boss[];
-    var zones : Zone[];
-    this.getZones().subscribe(_zones => {
-      zones = _zones;      
-      this.getBosses().subscribe(_bosses => {
-        bosses = _bosses
-        bosses.forEach(boss => boss.items = items.filter(item => item.sourceId == boss.id));
-        zones.forEach(zone => zone.bosses = bosses.filter(boss => boss.zoneId == zone.id));
-      });
-    });
-    return of(zones);
-  }
+  // getZonesFromItems(items : Item[]) : Observable<Zone[]> {
+  //   var bosses : Boss[];
+  //   var zones : Zone[];
+  //   this.getZones().subscribe(_zones => {
+  //     zones = _zones;      
+  //     this.getBosses().subscribe(_bosses => {
+  //       bosses = _bosses
+  //       bosses.forEach(boss => boss.items = items.filter(item => item.sourceId == boss.id));
+  //       zones.forEach(zone => zone.bosses = bosses.filter(boss => boss.zoneId == zone.id));
+  //     });
+  //   });
+  //   return of(zones);
+  // }
 
 }

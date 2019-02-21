@@ -8,6 +8,11 @@ import {Items, Item, Character } from '../character/character';
 import {StatWeight} from '../statWeight';
 import {StatWeightsService} from '../stat-weights.service';
 import {Zone} from '../zone/zone';
+import {Boss} from '../boss/boss';
+import { map, filter, flatMap, switchMap, tap } from 'rxjs/operators';
+import { Observable, of } from 'rxjs';
+
+
 @Component({
   selector: 'app-region',
   templateUrl: './region.component.html',
@@ -19,15 +24,15 @@ export class RegionComponent implements OnInit {
 
   regions: Region[];
   realms: Realm[];
+
   selectedRegion: Region;
   selectedRealm: Realm;
   characterName: string;
-  characterItems: Character;
-  items: Items;
-  itemArray: Item[];
-  storedItems: Item[];
   statWeights: StatWeight[];
-  ultimateItems: Item[][];
+
+  storedItems: Item[];
+  storedBosses: Boss[];
+  storedZones: Zone[];
   zones: Zone[];
 
 
@@ -55,25 +60,43 @@ export class RegionComponent implements OnInit {
 
   onClick()
   {
-    // this.itemService.getUpgradeItems(this.statWeights, this.selectedRegion.name, this.selectedRealm.name, this.characterName)
+    this.itemService.getData(this.statWeights, this.selectedRegion.name, this.selectedRealm.name, this.characterName)
+    .subscribe(zones => {console.log(zones); this.zones = zones;});
+    // this.storedBosses = this.blizzardService.getBosses();
+    // this.storedZones = this.blizzardService.getZones();
+
+    // this.itemService.getUpgradeItems(this.statWeights, this.selectedRegion.name, this.selectedRealm.name, this.characterName).pipe(flatMap(items => {
+    //   var bossIds : number[] = [];
+    //   console.log(items);
+    //   items.forEach(item => {
+    //     console.log(item);
+    //     bossIds.push(item.sourceId);
+    //   });
+    //   this.storedZones= this.storedZones.filter(zone => this.storedBosses.map(x => x.zoneId).indexOf(zone.id) > -1);
+    //   return of(items);
+    // }))    
     // .subscribe(items => {
-    //   this.ultimateItems = items;
-    //   console.log(this.ultimateItems);
+    //   this.storedItems = items;
     // });
 
-    // this.itemService.getUpgradeItems(this.statWeights, this.selectedRegion.name, this.selectedRealm.name, this.characterName)
-    // .subscribe(items => { this.storedItems = items});
 
-    this.itemService.getZones(this.statWeights, this.selectedRegion.name, this.selectedRealm.name, this.characterName)
-    .subscribe(zones => {
-      this.zones = zones;
-      console.log(zones);
-    });
+    // this.blizzardService.getBosses()
+    // .subscribe(bosses => {
+    //   this.storedBosses = bosses;
+    //   console.log(this.storedBosses);
+    // });
 
-    // this.blizzardService.getCharacter(this.selectedRegion.name, this.selectedRealm.name, this.characterName)
-    // .subscribe(items => {this.characterItems = items; this.items = this.characterItems.items; this.itemArray = Object.values(this.items);}); 
+    // this.blizzardService.getZones()
+    // .subscribe(zones => {
+    //   this.storedZones = zones;
+    //   console.log(this.storedZones);
+    // });
 
-    // this.itemService.getItems(this.statWeights)
-    // .subscribe(items => this.storedItems = items);
+    
+    // this.itemService.getZones(this.statWeights, this.selectedRegion.name, this.selectedRealm.name, this.characterName)
+    // .subscribe(zones => {
+    //   this.zones = zones;
+    //   console.log(zones);
+    // });
   }
 }
