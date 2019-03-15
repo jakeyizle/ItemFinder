@@ -40,12 +40,7 @@ export class BlizzardService {
         }
       });
   }
-
-  getCharacter(region: string, realm: string, characterName: string): Observable<Character> {
-    let url = `https://${region}.api.blizzard.com/wow/character/${realm}/${characterName}?fields=items&locale=en_US&access_token=${this.token.identifier}`;
-    return this.http.get<Character>(url);
-}
-
+  
   getCharacterItems(region: string, realm: string, characterName: string) : Observable<Item[]>{
     let url = `https://${region}.api.blizzard.com/wow/character/${realm}/${characterName}?fields=items&locale=en_US&access_token=${this.token.identifier}`;
     return this.http.get<Character>(url).pipe(
@@ -54,40 +49,21 @@ export class BlizzardService {
         characterItems.splice(0, 2);
         return characterItems;
       }),
-      concatMap(item => {
+      mergeMap(item => {
         return this.getItemType(region, item);
       }),
       toArray()
       );
   }
 
-getItemType(region: string, item : Item) : Observable<Item>{
-  let url = `https://${region}.api.blizzard.com/wow/item/${item.id}?locale=en_US&access_token=${this.token.identifier}`;
-  return this.http.get<Item>(url).pipe(map(thisItem => {
-    item.inventoryType = thisItem.inventoryType;
-    return item;
-  }));
-}
-
-
-  getItemIds(region: string, items) : Observable<Item[]>
-  {
-    console.log(items);
-    items.forEach(item => {
-      console.log('here');
-      let url = `https://${region}.api.blizzard.com/wow/item/${item.id}?locale=en_US&access_token=${this.token.identifier}`;
-      this.http.get<Item>(url).pipe(tap(thisItem => item.inventoryType = thisItem.inventoryType));
-    });
-    return of(items);
+  getItemType(region: string, item : Item) : Observable<Item>{
+    let url = `https://${region}.api.blizzard.com/wow/item/${item.id}?locale=en_US&access_token=${this.token.identifier}`;
+    return this.http.get<Item>(url).pipe(map(thisItem => {
+      item.inventoryType = thisItem.inventoryType;
+      return item;
+    }));
   }
-  getItem(region: string, itemId:number) : Observable<Item>{
-    let url = `https://${region}.api.blizzard.com/wow/item/${itemId}?locale=en_US&access_token=${this.token.identifier}`;
-    return this.http.get<Item>(url);
-  }
-
-
-
-
+  
   getZones() : Observable<Zone[]> {
     return of(ZONES);
   }

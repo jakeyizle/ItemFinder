@@ -12,11 +12,15 @@ import {ReactiveFormsModule} from '@angular/forms';
 import {MatButtonModule} from '@angular/material/button';
 import {MatInputModule} from '@angular/material/input';
 import {MatGridListModule} from '@angular/material/grid-list';
-
+import { ZonesDetailComponent } from './zones-detail/zones-detail.component';
+import { DashboardComponent } from './dashboard/dashboard.component';
+import {RouterModule} from '@angular/router';
 @NgModule({
   declarations: [
     AppComponent,
-    RegionComponent
+    RegionComponent,
+    ZonesDetailComponent,
+    DashboardComponent
   ],
   imports: [
     BrowserModule,
@@ -29,6 +33,7 @@ import {MatGridListModule} from '@angular/material/grid-list';
     MatInputModule,
     HttpClientModule,
     MatGridListModule,
+    RouterModule,
   ],
   providers: [],
   bootstrap: [AppComponent]

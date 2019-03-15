@@ -27,29 +27,10 @@
 
 <h1>Submit</h1>
 <div class="submit button">
-  <button mat-stroked-button (click)="onClick()" [disabled]="!selectedRegion || !selectedRealm || !characterName">Submit</button>
+  <button mat-stroked-button (click)="onClick()" [disabled]="!selectedRegion || !selectedRealm || !characterName">
+  Submit
+</button>
 </div>
-
-
-
-<div *ngIf="zones">
-  <ng-container *ngFor="let zone of zones; let i = index">
-    <tr>{{i + 1}} - {{zone.name}} - {{zone.itemCount}}</tr>
-    <ng-container *ngFor = "let boss of zone.bosses; let j = index">
-      <div *ngIf="boss.items.length > 0">
-      <tr><ul>{{boss.name}} - {{boss.items.length}}</ul></tr>
-      <ng-container *ngFor = "let item of boss.items; let k = index">
-        <tr><ul><ul>{{item.name}} - {{item.ratingimprovementPercent}}</ul></ul></tr>
-      </ng-container>
-    </div>
-    </ng-container>
-  </ng-container>
-</div>
-
-
-
-
-
 
 </div>
 <div class="col2">
